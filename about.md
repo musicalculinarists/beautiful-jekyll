@@ -4,13 +4,10 @@ title: About Us
 subtitle: We're pretty cool, probably?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Anika Cheerla
 
 What else do you need?
 
-### my history
+### Sarah Feng
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Watch [our movie](https://youtu.be/4URMxcg7yQE), Birdsong: A Life, which some critics have said is the greatest movie of all time. Take that, Citizen Kane!
