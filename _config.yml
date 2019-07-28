@@ -4,7 +4,7 @@
 title: Musical Culinarists
 
 # Short description of your site
-description: A Sarah Feng and Anika Cheerla Production™
+# description: A Sarah Feng and Anika Cheerla Production™
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ description: A Sarah Feng and Anika Cheerla Production™
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Us: "about"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
