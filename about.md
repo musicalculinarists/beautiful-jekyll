@@ -6,7 +6,7 @@ subtitle: We're pretty cool, probably?
 
 ### Anika Cheerla
 
-What else do you need?
+Resident cool kid, literally the harbringer of the AI revolution, vegetarian, Audacity technician, future metalsmither and embodiment of the singularity, cat fan, and can recite Kanye lyrics on command. MIT '23!
 
 ### Sarah Feng
 
