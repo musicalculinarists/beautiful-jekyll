@@ -12,11 +12,8 @@ body {
   font-size: 12px;
   color: #050505;
   position: relative;
-  background-color: {{ site.page-col }};
-  {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+  background-color: #FFFFFF;
+  
 }
 p {
   line-height: 1.5;
@@ -26,16 +23,16 @@ h1{
   font-size : 15px;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-size: 15px
+  font-size: 18px;
   font-family: 'Oxygen Mono', monospace;
   font-weight: 800;
 }
 a {
-  color: {{ site.link-col }};
+  color: #EF626C;
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col }};
+  color: #EF626C;
 }
 blockquote {
   color: #808080;
@@ -73,12 +70,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background-color: {{ site.hover-col }};
+  background-color: #EF626C;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background-color: {{ site.hover-col }};
+  background-color: #EF626C;
 }
 img::selection {
   color: white;
@@ -111,32 +108,29 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col }};
+  background-color: #FFFFFF;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Oxygen Mono', monospace;
-  {% if site.navbar-img %}
-  background-image: url({{ site.navbar-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+  
 }
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 15px;
+  font-size: 12px;
   letter-spacing: 1px;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: {{ site.navbar-text-col }};
+  color: #000000;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: {{ site.hover-col }};
+  color: #EF626C;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -230,7 +224,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 100px;
-  background-color: {{ site.navbar-children-col }};
+  background-color: #F5F5F5;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -270,19 +264,16 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
-  background-color: {{ site.footer-col }};
-  {% if site.footer-img %}
-  background-image: url({{ site.footer-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+  background-color: #FFFFFF;
+  
 }
 
 footer p.text-muted {
-  color: {{ site.footer-text-col }};
+  color: #777777;
 }
 
 footer a {
-  color: {{site.footer-link-col}};
+  color: #000000;
 }
 
 footer .list-inline {
@@ -336,11 +327,11 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: {{ site.hover-col }};
+  color: #EF626C;
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -351,7 +342,7 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #050505;
-  font-size: 18px;
+  font-size: 15px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -400,14 +391,14 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: {{ site.link-col }};
+  color: #EF626C;
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: {{ site.hover-col }};
+  color: #EF626C;
   background-color: #EEE;
 }
 
@@ -613,8 +604,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  border: 1px solid {{ site.hover-col }};
-  background-color: {{ site.hover-col }};
+  border: 1px solid #EF626C;
+  background-color: #EF626C;
 }
 
 .pager {
