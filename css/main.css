@@ -23,7 +23,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 800;
 }
 a {
@@ -225,7 +225,7 @@ img {
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
   padding: 10px;
-  padding-left: 30px;
+  padding-left: 100px;
   background-color: {{ site.navbar-children-col }};
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
@@ -507,7 +507,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Open Sans', sans-serif; 
   right: 0;
   bottom: 0;
   display: none;
@@ -591,7 +591,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -771,7 +771,7 @@ pre {
 }
 
 #full-tags-list {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #full-tags-list .tag-entry {
