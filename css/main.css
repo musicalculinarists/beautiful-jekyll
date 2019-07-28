@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
-  color: #FB4B4E;
+  color: #1B9AAA;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -325,7 +325,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #FB4B4E;
+  color: #1B9AAA;
 }
 
 .post-preview a:focus,
@@ -345,7 +345,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #1A535C;
+  color: #1B9AAA;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
