@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: We're pretty cool. Maybe. 
+subtitle: We're pretty cool, probably?
 ---
 
 My name is Inigo Montoya. I have the following qualities:
