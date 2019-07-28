@@ -1433,7 +1433,7 @@ dd {
 }
 @media (min-width: 768px) {
   .dl-horizontal dt {
-    float: left;
+    float: none;
     width: 160px;
     overflow: hidden;
     clear: left;
