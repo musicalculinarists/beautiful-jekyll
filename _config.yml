@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Musical Culinarists
+title: MUSICAL CULINARISTS
 
 description: 💿
 
@@ -38,14 +38,14 @@ navbar-links:
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#FFFFFF"
-navbar-text-col: "#404040"
+navbar-text-col: "#000000"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#EF626C"
 hover-col: "#EF626C"
 footer-col: "#FFFFFF"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#000000"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
