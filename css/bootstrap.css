@@ -3522,15 +3522,16 @@ tbody.collapse.in {
   bottom: 100%;
   margin-bottom: 2px;
 }
-@media (min-width: 768px) {
-  .navbar-right .dropdown-menu {
-    right: 0;
-    left: auto;
+@media (min-width: 768px) {  
+  .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
   }
-  .navbar-right .dropdown-menu-left {
-    right: auto;
-    left: 0;
-  }
+
+  .navbar .navbar-collapse {
+        text-align: center;
+   }
 }
 .btn-group,
 .btn-group-vertical {
