@@ -1434,10 +1434,10 @@ dd {
 @media (min-width: 768px) {
   .dl-horizontal dt {
     float: none;
-    width: 160px;
+    width: 100%;
     overflow: hidden;
     clear: left;
-    text-align: right;
+    text-align: center;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
