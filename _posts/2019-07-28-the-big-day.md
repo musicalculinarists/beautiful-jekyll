@@ -1,11 +1,9 @@
 ---
 layout: post
 tags: [review]
+title: Chance the Rapper’s The Big Day
+subtitle: A Track by Track Review.
 ---
-
-# Chance the Rapper’s The Big Day
-
-## A Track by Track Review.
 
 **All Day Long**
 A solid effort. It’s got fast-paced verses and gospel vocals reminiscent of Coloring Book, and in the latter half of the song, with the refrain “We made it, we made it,” there’s a nice celebration / disco-dance vibe going. However, the number of switches between different vibes and melodies over the course of the song feels…a little forced. 
