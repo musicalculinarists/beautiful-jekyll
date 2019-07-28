@@ -20,7 +20,7 @@ description:  
 navbar-links:
   Home: https://musicalculinarists.github.io/
   About Us: "about"
-  Song of the Week: https://musicalculinarists.github.io/tags/#test
+  Song of the Week: "sotw.html"
   New Release Reviews: https://musicalculinarists.github.io/tags/#test
   Audacity Projects: 
   Subscribe:
