@@ -1,3 +1,8 @@
+---
+layout: post
+tags: [review]
+---
+
 # Chance the Rapper’s The Big Day
 
 ## A Track by Track Review.
