@@ -18,11 +18,11 @@ description:  
 
 # List of links in the navigation bar
 navbar-links:
-  💿:
+  💿: https://musicalculinarists.github.io/
   About Us: "about"
   Content:
-    - Song of the Week: 
-    - New Release Reviews: 
+    - Song of the Week: https://musicalculinarists.github.io/tags/#test
+    - New Release Reviews: https://musicalculinarists.github.io/tags/#test
     - Audacity Projects: 
 
 # Image to show in the navigation bar - image must be a square (width = height)
