@@ -1,8 +1,8 @@
 # --- General options --- #
 
 # Name of website
-title: 💿
-description: 💿
+title: 
+description: 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,6 +20,7 @@ description: 💿
 navbar-links:
   About Us: "about"
   Content:
+    - 💿
     - Song of the Week: 
     - New Release Reviews: 
     - Audacity Projects: 
