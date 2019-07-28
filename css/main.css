@@ -9,7 +9,7 @@ layout: null
 
 body {
   font-family: 'Oxygen Mono', monospace;
-  font-size: 10px;
+  font-size: 12px;
   color: #050505;
   position: relative;
   background-color: {{ site.page-col }};
@@ -23,6 +23,7 @@ p {
   margin: 30px 0;
 }
 h1{
+  font-size : 15px;
   background-color: #EF626C;
 }
 h1,h2,h3,h4,h5,h6 {
