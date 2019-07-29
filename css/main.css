@@ -25,10 +25,17 @@ h1{
   background-color: #EF626C
   color: white
 }
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+h4, h5, h6 {
+  font-weight: 200;
+}
+
 h1,h2,h3,h4,h5,h6 {
   font-size: 18px;
   font-family: 'Oxygen Mono', monospace;
-  font-weight: 200;
 }
 a {
   color: #EF626C;
