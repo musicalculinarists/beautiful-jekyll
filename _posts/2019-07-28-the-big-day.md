@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: [review]
-title: Chance the Rapper’s *The Big Day*
-subtitle: A Track by Track Review.
+title: The Big Day
+subtitle: A track by track review of Chance the Rapper's debut "owbum."
 ---
 
 ### All Day Long ###
