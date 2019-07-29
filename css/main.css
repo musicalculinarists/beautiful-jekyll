@@ -111,6 +111,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
+  display: inline-block;
   background-color: #FFFFFF;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Oxygen Mono', monospace;
