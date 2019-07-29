@@ -11,7 +11,7 @@ Resident cool kid, literally the harbinger of the AI revolution, ~~vegetarian~~,
 [Spotify.](https://open.spotify.com/user/anikacheerla?si=kmuOoCt7T-2NcjgJ3VkhGQ)
 
 ### Sarah Feng
-The cooler resident cool kid, jet propeller, the Deep Life Revelations™ jukebox, would-be cat fan (she's allergic), likely saviour of our world from global warming, and can also recite Kanye lyrics on command. Cal '23. Go bears!
+The cooler (false -Sarah) resident cool kid, jet propeller, the Deep Life Revelations™ jukebox, would-be cat fan (she's allergic), likely saviour of our world from global warming, and can also recite Kanye lyrics on command. Cal '23. Go bears!
 
 [Spotify.](https://open.spotify.com/user/22krtzpyjqtplfesyimdqvcuy?si=yZiXRuv1RbiaZOVKZaNMzQ) 
 
