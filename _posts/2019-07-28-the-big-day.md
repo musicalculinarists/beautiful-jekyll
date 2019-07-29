@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [review]
-title: Chance the Rapper’s The Big Day
+title: Chance the Rapper’s _The Big Day_
 subtitle: A Track by Track Review.
 ---
 
