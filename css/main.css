@@ -366,6 +366,7 @@ footer .theme-by {
 }
 .post-preview .post-entry {
   font-family: 'Oxygen Mono', monospace;
+  font-size: 12px;
 }
 .post-entry-container {
   display: inline-block;
