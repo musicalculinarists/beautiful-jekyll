@@ -59,7 +59,7 @@ hr.small {
   border-radius: 3px;
 }
 
-placeholder {
+::placeholder {
   font-family: 'Oxygen Mono', monospace;
 }
 
