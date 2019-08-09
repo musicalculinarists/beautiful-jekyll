@@ -46,7 +46,7 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-size: 20px;
+  font-size: 16px;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -349,12 +349,12 @@ footer .theme-by {
 
 .post-preview .post-title {
   font-size: 20px;
-  font-weight: 100;
+  font-weight: bolder;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight: bold;
   margin-bottom: 10px;
 }
 .post-preview .post-meta,
@@ -395,7 +395,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 26px;
+    font-size: 30px;
   }
 }
 
