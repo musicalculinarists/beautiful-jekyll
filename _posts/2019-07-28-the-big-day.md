@@ -25,8 +25,8 @@ or
 
 or even
 
-> [Used to have obsession with the 27 club](https://genius.com/Chance-the-rapper-do-you-remember-lyrics#note-17679035)\
-> [Now I'm turning 27, wanna make it to the 2070 club](https://genius.com/Chance-the-rapper-do-you-remember-lyrics#note-17679035)\
+> [Used to have obsession with the 27 club](https://genius.com/Chance-the-rapper-do-you-remember-lyrics#note-17679035)<br/>
+> [Now I'm turning 27, wanna make it to the 2070 club](https://genius.com/Chance-the-rapper-do-you-remember-lyrics#note-17679035)<br/>
 > [Put the 27s down, Lord, give me a clean lung](https://genius.com/Chance-the-rapper-do-you-remember-lyrics#note-17679356)
 
 We could go on and on for this one — as at least 50% of the song is (asymptotically) approaching lyrical genius. Do yourself a favor and listen to the song with the lyric sheets open. Get prepared to say “awwww” a couple of times.
@@ -38,8 +38,8 @@ Also, Ben Gibbard from Death Cab for Cute (he sings the chorus!!!) is a cool per
 The beat: Groovy, has almost Daft Punk-esque vibes, except more chilled out.
 The lyrics: Pretty sweet, pretty clever. 
 
-> I made the three more famous than Steph\
-> No cap, that's a roundhouse kick to a Jameson's neck\
+> I made the three more famous than Steph<br/>
+> No cap, that's a roundhouse kick to a Jameson's neck<br/>
 > I got a Jada Pinkett keeping sure my shame is in check
 
 The chorus: Chance the Rapper singing “We can be…eternal!” With the harmonized choir in the background is pretty nice. 
@@ -57,9 +57,9 @@ The beatline is generic. The feature verses don’t particularly stand out.
 ### We Go High ###
 I think the song had a lot of potential, especially with the (really good) lyrics at the intro:
 
-> My baby mama went celibate\
-> Lies on my breath, she say she couldn't take the smell of it\
-> Tired of the rumors, every room had an elephant\
+> My baby mama went celibate<br/>
+> Lies on my breath, she say she couldn't take the smell of it<br/>
+> Tired of the rumors, every room had an elephant<br/>
 > Tryna find her shoes, rummagin’ through the skeletons
 
 However, like a LOT of songs on this album, the song was too damn long to not be perfectly executed. The rapping gets a bit boring as Chance never switches up his style from the talk-rap he does at the beginning.
@@ -85,20 +85,20 @@ The way The Production™’s done,  with the trap snare and the laser beam-esqu
 
 We’re ambivalent towards Chance’s verse…the top-of-the-lungs drawn out syllables grate on you, but once he stops with that and starts rapping, there are a couple lines where you’re just like, *nice.* 
 
-> We look just alike, the prestige is so prestigious\
+> We look just alike, the prestige is so prestigious<br/>
 > The splitting image of Lupita standing on them beaches
 
 A reference to Jordan Peele’s *Us* and a mention of Lupita Nyong’o, who is amazingly beautiful and charming and everything we wish the world could be? Yep, that’ll do!
 
 Taylor Bennett’s feature verse was really good, the way it built up and got progressively more hype and faster-paced. Really, really, really good. And there are a lot of good lyrics in this one: 
 
-> So if you do production just make sure the drums right\
+> So if you do production just make sure the drums right<br/>
 > The independent Bennetts will never need your advice
 
 and 
 
-> In adolescence, seen ambulances, learned other lessons\
-> Catchin' blessings, overstretchin' from first-hand impressions\
+> In adolescence, seen ambulances, learned other lessons<br/>
+> Catchin' blessings, overstretchin' from first-hand impressions<br/>
 > Chano called my phone voicemail, hope he don't get a message
 
 It’s a nice return to form for him after his most recent album, *THE AMERICAN REJECT*, which was short on verses and more R&B/smooth based, and felt kind of poorly executed on that front. 
@@ -172,12 +172,12 @@ The background sound is largely comprised of these muffled echo-y wordless vocal
 The verse flows well over the instrumentation and has got some really, really sweet lines:
 
 
-> You wanna use my likeness, please approve it through my wife\
+> You wanna use my likeness, please approve it through my wife<br/>
 > And if you get the license then you better use it right
 
 and
 
-> I don't want nobody to be at my wedding\
+> I don't want nobody to be at my wedding<br/>
 > That won't be there for my marriage
 
 And the way Chance’s flow goes in the latter half of Verse 2—the “IIIIII….” and the quick delivery of the rest of the line, the sense of humour, is really really freaking nice. The song closes out with Chance saying, “Don’t look down, don’t look down,” which comes off as sweet and earnest. 
