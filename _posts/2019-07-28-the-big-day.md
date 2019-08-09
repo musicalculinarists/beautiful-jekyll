@@ -45,11 +45,11 @@ The lyrics: Pretty sweet, pretty clever.
 The chorus: Chance the Rapper singing “We can be…eternal!” With the harmonized choir in the background is pretty nice. 
 Smino’s feature: We generally like the way he raps (the kind of lazy drawl), and the interspersion of lines he also sings in the verse was well done. 
 
-| **Nothing too crazy…but it’s sweet and solid!** |
+| **Nothing too crazy… but it’s sweet and solid!**|
 
 
 ### Hot Shower ###
-Sure, the lyrics “Hot damn, hot water, hot shower,” give you a chuckle the first time around. But they’re not ridiculous or terrible enough to make you laugh out loud (think Yung Gravy)—it’s more likely that you just kind of stare at your own body in vague confusion, like: “Am I really hearing this?” and then you have to laugh because what else is there to do?
+Sure, the lyrics “Hot damn, hot water, hot shower” may give you a chuckle the first time around. But they’re not ridiculous or terrible enough to make you laugh out loud (think Yung Gravy)—it’s more likely that you just kind of stare at your own body in vague confusion, like: “Am I really hearing this?” and then you have to laugh because what else is there to do?
 The beatline is generic. The feature verses don’t particularly stand out. 
 
 | **0/10 on IGN.** |
