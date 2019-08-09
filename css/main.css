@@ -59,6 +59,10 @@ hr.small {
   border-radius: 3px;
 }
 
+placeholder {
+  font-family: 'Oxygen Mono', monospace;
+}
+
 .main-content {
   padding-top: 80px;
 }
