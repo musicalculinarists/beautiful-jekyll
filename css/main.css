@@ -9,14 +9,14 @@ layout: null
 
 body {
   font-family: 'Oxygen Mono', monospace;
-  font-size: 13px;
+  font-size: 13.5px;
   color: #050505;
   position: relative;
   background-color: #FFFFFF;
   
 }
 p {
-  line-height: 1.5;
+  line-height: 1.7;
   margin: 30px 0;
 }
 h1{
@@ -47,7 +47,7 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-size: 16px;
+  font-size: 15px;
   font-style: italic;
 }
 blockquote p:first-child {
