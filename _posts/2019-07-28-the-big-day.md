@@ -26,7 +26,9 @@ or
 or even
 
 > [Used to have obsession with the 27 club](https://genius.com/Chance-the-rapper-do-you-remember-lyrics#note-17679035)
+
 > [Now I'm turning 27, wanna make it to the 2070 club](https://genius.com/Chance-the-rapper-do-you-remember-lyrics#note-17679035)
+
 > [Put the 27s down, Lord, give me a clean lung](https://genius.com/Chance-the-rapper-do-you-remember-lyrics#note-17679356)
 
 We could go on and on for this one — as at least 50% of the song is (asymptotically) approaching lyrical genius. Do yourself a favor and listen to the song with the lyric sheets open. Get prepared to say “awwww” a couple of times.
