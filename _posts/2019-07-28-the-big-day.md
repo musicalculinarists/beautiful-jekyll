@@ -215,22 +215,11 @@ BUT NICKI ON THIS THOUGH. It’s weird hearing Nicki rap about positive shit (�
 
 ## Overall Impressions
 
-The songs and the album were just way too *long*. 
-
-If *The Big Day* was roughly 10 tracks, and Chance the Rapper had chosen different tracks to include—the singles he put out in 2018 (*The Man Who Has Everything, etc.*)  the [“All That” snippet](https://www.reddit.com/r/ChanceTheRapper/comments/cgm5yr/we_ready/), [First World Problems with Daniel Caesar](https://www.youtube.com/watch?v=soC7DtJXMC8) all could’ve replaced quite a few songs on this album—this could’ve been a solid showing. 
-
-Instead, with a plethora of generic, radio-type filler tracks and a lack of strong melodies and lyrics on the album, we’re left feeling a little disappointed. 
+The songs and the album were just way too *long*. If *The Big Day* was roughly 10 tracks, and Chance the Rapper had chosen different tracks to include—the singles he put out in 2018 (*The Man Who Has Everything, etc.*)  the [“All That” snippet](https://www.reddit.com/r/ChanceTheRapper/comments/cgm5yr/we_ready/), [First World Problems with Daniel Caesar](https://www.youtube.com/watch?v=soC7DtJXMC8) all could’ve replaced quite a few songs on this album—this could’ve been a solid showing. Instead, with a plethora of generic, radio-type filler tracks and a lack of strong melodies and lyrics on the album, we’re left feeling a little disappointed. Also, the lack of a Kanye feature was just sad (but also kind of understandable rip). 
 
 After the album, we popped into some Acid Rap. And it showed some things. Namely, that this album was just not as good. 
 
-Later, I also popped into some Coloring Book, and realized this was also not as good. 
-
-Also, the lack of a Kanye feature was just sad (but also kind of understandable rip). 
-
-Without the numerous eh songs that made you think: *why, Chance?* it could’ve been a pretty fire album. 
-
 Here’s our proposed alternate tracklist: 
-
 
 1. All Day Long
 2. Do You Remember
