@@ -70,7 +70,7 @@ And, although obviously not every song needs some clear concise message™ to be
 The intro is never returned to, nor is “We go high” ever really explained. Just what are we going high for?
 
 {: .box-warning} 
-Not this song, that’s for sure** 😞.
+Not this song, that’s for sure 😞.
 
 ### I Got You (Always and Forever) ###
 The voice Chance uses with the rap is ear-piercing, slightly drawn out, and makes you feel vaguely like you’re being shouted at, in a lecture-y voice break kinda way. **Yeah, that’s not gonna do it for us. By the time we reach the second verse, despite the fact that he’s got a couple choice lines, we mostly want him to stop, or for the song to end. 
@@ -163,7 +163,7 @@ It’s fine. See skit above.
 The opening verse is sweet enough to warm your heart, and the kind of about-my-new-marriage lyrics we *want* to see from an album titled “The Big Day.” On The Production™: the piano (?) notes in the background and the pitched-upwards distant-reverbed vocals that occasionally dip in are a nice touch. By the time the instrumentation in the background really builds up, Chance goes “Love, love, love,” and Randy Newman tells us the “Time has come,” we’re getting really solid revelatory epiphany vibes from this song. The second verse has got some funny lines: “Why did it occur where it happened at?” And Chance’s barely suppressed laugh as he delivers them is pretty endearing. The distorted piano (I think that’s what it is?) at the very end of the song is a nice touch. 
 
 {: .box-note}
-Solid work, and** ***much*** needed at this point in the album.
+Solid work, and ***much*** needed at this point in the album.
 
 
 ### Get a Bag ###
