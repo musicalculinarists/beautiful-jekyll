@@ -32,7 +32,8 @@ or even
 We could go on and on for this one — as at least 50% of the song is (asymptotically) approaching lyrical genius. Do yourself a favor and listen to the song with the lyric sheets open. Get prepared to say “awwww” a couple of times.
 Also, Ben Gibbard from Death Cab for Cute (he sings the chorus!!!) is a cool person with a really nice voice, and as people with a secret weakness for sad indie who totally jammed to *Transatlanticism* in middle school, we’re glad to see him on the album! Also, Ben Gibbard’s got some solid solo stuff. I like “Teardrop Windows,” and I like that someone wrote a song about the Smith Tower. 
 
-{: .box-note} It's a yes from us, folks!
+{: .box-note} 
+It's a yes from us, folks!
 
 ### Eternal ###
 The beat: Groovy, has almost Daft Punk-esque vibes, except more chilled out.
@@ -45,14 +46,16 @@ The lyrics: Pretty sweet, pretty clever.
 The chorus: Chance the Rapper singing “We can be…eternal!” With the harmonized choir in the background is pretty nice. 
 Smino’s feature: We generally like the way he raps (the kind of lazy drawl), and the interspersion of lines he also sings in the verse was well done. 
 
-{: .box-note} Nothing too crazy… but it’s sweet and solid!
+{: .box-note} 
+Nothing too crazy… but it’s sweet and solid!
 
 
 ### Hot Shower ###
 Sure, the lyrics “Hot damn, hot water, hot shower” may give you a chuckle the first time around. But they’re not ridiculous or terrible enough to make you laugh out loud (think Yung Gravy)—it’s more likely that you just kind of stare at your own body in vague confusion, like: “Am I really hearing this?” and then you have to laugh because what else is there to do?
 The beatline is generic. The feature verses don’t particularly stand out. 
 
-{: .box-error} 0/10 on IGN.
+{: .box-error} 
+0/10 on IGN.
 
 ### We Go High ###
 I think the song had a lot of potential, especially with the (really good) lyrics at the intro:
@@ -66,7 +69,8 @@ However, like a LOT of songs on this album, the song was too damn long to not be
 And, although obviously not every song needs some clear concise message™ to be considered good music, the lyrics are all over the place, almost as if each verse belongs to a different song. 
 The intro is never returned to, nor is “We go high” ever really explained. Just what are we going high for?
 
-{: .box-warning} Not this song, that’s for sure** 😞.
+{: .box-warning} 
+Not this song, that’s for sure** 😞.
 
 ### I Got You (Always and Forever) ###
 The voice Chance uses with the rap is ear-piercing, slightly drawn out, and makes you feel vaguely like you’re being shouted at, in a lecture-y voice break kinda way. **Yeah, that’s not gonna do it for us. By the time we reach the second verse, despite the fact that he’s got a couple choice lines, we mostly want him to stop, or for the song to end. 
@@ -75,7 +79,8 @@ The refrain that’s mixed into the song: “Do it for the 1-9 love, 1-9 / For t
 
 Ari Lennox’s harmonized vocals show promise. They give strong Coloring Book vibe and feel almost ’80s inspired, but they’re also not enough to carry the song. 
 
-{: .box-warning} You could do without this one.
+{: .box-warning} 
+You could do without this one.
 
 ### Photo Ops Skit ###
 It’s fine. It was more interesting than the other skits, with more of a message (?), but in comparison to other famous skits/speeches in good albums (see: the majority of Kendrick’s skits, or Frank Ocean’s Be Yourself), it’s just “eh”. Since there were so many skits, in this album it would’ve been nice if there was some sort of continuity between all of them, and maybe some more interesting audio but alas, Chance fell short on that one 😔 .
@@ -105,7 +110,8 @@ It’s a nice return to form for him after his most recent album, *THE AMERICAN 
 
 Overall, despite its errors, the good lines in Chance’s verse and Taylor’s verse as a whole are able to make this a decent enough song. 
 
-{: .box-warning} If it came on in the car, that’d be fine.
+{: .box-warning} 
+If it came on in the car, that’d be fine.
 
 
 ### The Big Day ###
