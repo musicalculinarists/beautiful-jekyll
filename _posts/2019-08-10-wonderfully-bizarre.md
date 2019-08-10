@@ -1,8 +1,9 @@
 # Song of the Week (8/12/19)
 Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpected moments of intensity, and an undercurrent of sweetness so lovely you’ll feel your heart soar. 
 
-
+{: .center-block :}
 ![Bendigo Fletcher, the Louisville folk group that created this song.](https://i0.wp.com/atwoodmagazine.com/wp-content/uploads/2019/02/Bendigo-Fletcher-2019.jpg?resize=1050%2C700)
+{: .center-block :}
 ![Consensual Wisdom, the 2018 album the song’s from.](https://f4.bcbits.com/img/a3552482767_10.jpg)
 
 ## Lyrical Highlights
