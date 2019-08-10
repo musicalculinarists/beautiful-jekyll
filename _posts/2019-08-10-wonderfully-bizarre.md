@@ -9,10 +9,10 @@ Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpecte
 ![](https://i0.wp.com/atwoodmagazine.com/wp-content/uploads/2019/02/Bendigo-Fletcher-2019.jpg)
 {: .caption :}
 Bendigo Fletcher, the Louisville folk group that created this song.
+
 ![](https://f4.bcbits.com/img/a3552482767_10.jpg)
 {: .caption :}
-Consensual Wisdom, the 2018 album the song’s from.
-
+Consensual Wisdom, the 2018 album the song belongs to.
 
 ## Lyrical Highlights
 
