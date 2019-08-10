@@ -89,8 +89,6 @@ optgroup{font-weight:700}table{border-spacing:0;border-collapse:collapse}td,th{p
 }
 
 .container-fluid {
-  display: flex;
-  justify-content: center;
   padding-right:15px;
   padding-left:15px;
   margin-right:auto;
