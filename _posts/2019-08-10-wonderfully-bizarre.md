@@ -1,10 +1,10 @@
 ---
 layout: post
 tags: [sotw]
-subtitle: Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpected moments of intensity, and an undercurrent of sweetness so lovely you’ll feel your heart soar. 
+subtitle: Do you wanna get married?
 
 ---
-
+Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpected moments of intensity, and an undercurrent of sweetness so lovely you’ll feel your heart soar. 
 {: .caption :}
 ![](https://i0.wp.com/atwoodmagazine.com/wp-content/uploads/2019/02/Bendigo-Fletcher-2019.jpg)
 Bendigo Fletcher, the Louisville folk group that created this song.
