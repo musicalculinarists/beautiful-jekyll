@@ -1,3 +1,8 @@
+---
+layout: post
+tags: [sotw]
+---
+
 # Song of the Week 
 Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpected moments of intensity, and an undercurrent of sweetness so lovely you’ll feel your heart soar. 
 
