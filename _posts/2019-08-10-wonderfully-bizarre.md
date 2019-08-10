@@ -3,11 +3,10 @@ layout: post
 tags: [sotw]
 ---
 
-# Song of the Week 
-Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpected moments of intensity, and an undercurrent of sweetness so lovely you’ll feel your heart soar. 
+# Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpected moments of intensity, and an undercurrent of sweetness so lovely you’ll feel your heart soar. 
 
-![](https://i0.wp.com/atwoodmagazine.com/wp-content/uploads/2019/02/Bendigo-Fletcher-2019.jpg)
 {: .caption :}
+![](https://i0.wp.com/atwoodmagazine.com/wp-content/uploads/2019/02/Bendigo-Fletcher-2019.jpg)
 Bendigo Fletcher, the Louisville folk group that created this song.
 
 
@@ -35,8 +34,8 @@ Bendigo Fletcher, the Louisville folk group that created this song.
 This stuff is straight up poetry. 
 But to be honest, this entire damn song is a lyrical highlight.
 
-![](https://f4.bcbits.com/img/a3552482767_10.jpg)
 {: .caption :}
+![](https://f4.bcbits.com/img/a3552482767_10.jpg)
 Consensual Wisdom, the 2018 album the song belongs to.
 
 There are some artists (Father John Misty and Hozier come to mind) who transform love songs into what we don’t typically imagine love to be like — intimate, imperfect, obsessive. Bendigo Fletcher nailed this feeling on Wonderfully Bizarre, with the lead singer’s almost desperate cry *“Do you wanna get married?”.* 
