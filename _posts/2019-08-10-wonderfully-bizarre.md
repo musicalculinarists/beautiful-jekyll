@@ -29,9 +29,6 @@ Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpecte
 This stuff is straight up poetry. 
 But to be honest, this entire damn song is a lyrical highlight. 
 
-[![](http://img.youtube.com/vi/brC6TTRBPR0/0.jpg)](http://www.youtube.com/watch?v=brC6TTRBPR0 "Wonderfully Bizarre")
-
-
 There are some artists (Father John Misty and Hozier come to mind) who transform love songs into what we don’t typically imagine love to be like — intimate, imperfect, obsessive. Bendigo Fletcher nailed this feeling on Wonderfully Bizarre, with the lead singer’s almost desperate cry *“Do you wanna get married?”.* 
 And the musicality™ is pretty damn unique. For example, at ~3:40 a robotic, talkbox sounding voice breaks through the strum of guitar to tell us *“Bad dreams, you never get away” —* an unexpected but genius addition to an already amazing song.
 
