@@ -8,23 +8,23 @@ Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpecte
 ## Lyrical Highlights
 
 
-> You'd be the mercy under my cruelty
+> You'd be the mercy under my cruelty <br>
 > My revelation bloodshed free
 
 
-> Where the blue grass creeps over top
-> Decades of devotion
+> Where the blue grass creeps over top <br>
+> Decades of devotion <br>
 > Warm underneath the frost
 
 
-> We can build a home in a bush of azalea
-> Dress it up in true morale paraphernalia
+> We can build a home in a bush of azalea <br>
+> Dress it up in true morale paraphernalia <br>
 
 
-> We can be defined by the things we want
-> I'll be a life full of free haircuts from the one that I love
-> We'll collect fallen out teeth in a candy jar
-> Mice for the backyard peregrine falcon reservation
+> We can be defined by the things we want <br>
+> I'll be a life full of free haircuts from the one that I love <br>
+> We'll collect fallen out teeth in a candy jar <br>
+> Mice for the backyard peregrine falcon reservation <br>
 
 This stuff is straight up poetry. 
 But to be honest, this entire damn song is a lyrical highlight. 
