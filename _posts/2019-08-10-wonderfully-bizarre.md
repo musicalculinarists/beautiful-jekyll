@@ -40,6 +40,6 @@ And the musicality™ is pretty damn unique. For example, at ~3:40 a robotic, ta
 
 ## You might also like:
 
-[Hozier’s Rendition of Sweet Thing](https://www.youtube.com/watch?v=HAbs_PYfpvQ)
+[Hozier’s Rendition of Sweet Thing](https://www.youtube.com/watch?v=HAbs_PYfpvQ) <br>
 Father John Misty’s [I Love You, Honeybear](https://open.spotify.com/track/4l86U8arITFVBfDvYn82v7?si=Fm9m14s2QcmHxTfHpzuDog) or [Chateau Lobby #4 (in C for Two Virgins)](https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi?si=anpDt-pNTZi0Kj5z9-lwkw)
 [](https://www.youtube.com/watch?v=HAbs_PYfpvQ)
