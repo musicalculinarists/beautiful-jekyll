@@ -75,7 +75,7 @@ The intro is never returned to, nor is “We go high” ever really explained. J
 Not this song, that’s for sure 😞.
 
 ### I Got You (Always and Forever) ###
-The voice Chance uses with the rap is ear-piercing, slightly drawn out, and makes you feel vaguely like you’re being shouted at, in a lecture-y voice break kinda way. **Yeah, that’s not gonna do it for us. By the time we reach the second verse, despite the fact that he’s got a couple choice lines, we mostly want him to stop, or for the song to end. 
+The voice Chance uses with the rap is ear-piercing, slightly drawn out, and makes you feel vaguely like you’re being shouted at, in a lecture-y voice break kinda way. Yeah, that’s not gonna do it for us. By the time we reach the second verse, despite the fact that he’s got a couple choice lines, we mostly want him to stop, or for the song to end. 
 
 The refrain that’s mixed into the song: “Do it for the 1-9 love, 1-9 / For the 1-9, for the 1-9 love” doesn’t sound that good, and honestly ends up wasting precious time on a song that’s already too long for what it is.  
 
