@@ -203,7 +203,7 @@ Chance’s singing on the choruses is occasionally hard to listen to (particular
 
 Also has good details: the song seems to close out with a Mario-getting-the-coin sound, and it’s good; the slow, sparse strumming at the intro is a nice touch. 
 
-{: .box-warning}
+{: .box-note}
 Not perfect, but worth a try.
 
  
