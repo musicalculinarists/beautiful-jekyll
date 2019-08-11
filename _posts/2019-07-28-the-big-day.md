@@ -126,7 +126,7 @@ When the slowed down semi-autotuned outro with sweet piano keys comes in, you wa
 
 The saving grace of this song is that the main refrain: “The only way to survive, is to go crazy,” is relatable™ for all pensive teens out there, including us! 
 
-{: .box-warning}
+{: .box-error}
 He tried, but no.
 
 ### Let’s Go On the Run ###
