@@ -8,6 +8,8 @@ subtitle: A track by track review of Chance the Rapper's debut "owbum."
 ### All Day Long ###
 A solid effort. It’s got fast-paced verses and gospel vocals reminiscent of Coloring Book, and in the latter half of the song, with the refrain “We made it, we made it,” there’s a nice celebration / disco-dance vibe going. However, the number of switches between different vibes and melodies over the course of the song feels…a little forced. 
 The name reminds me of that Beyonce verse “all night long”, so I guess there’s some extra points for that 🤷‍♀️ .
+{: .box-warning} 
+It'll do. 
 
 ### Do You Remember ###
 Yes. Unlike a lot of the other songs on this album, Chance keeps The Production™ of this song really simple but also unique enough to make the song interesting. Exhibit A: the synthesizer sounds in the background that kind of sound like a Pokémon breathing. Exhibit B: the little details, like when a school bell rings right before Chance starts rapping about the summer. 
