@@ -80,7 +80,7 @@ The voice Chance uses with the rap is ear-piercing, slightly drawn out, and make
 
 The refrain that’s mixed into the song: “Do it for the 1-9 love, 1-9 / For the 1-9, for the 1-9 love” doesn’t sound that good, and honestly ends up wasting precious time on a song that’s already too long for what it is.  
 
-Ari Lennox’s harmonized vocals show promise. They give strong Coloring Book vibe and feel almost ’80s inspired, but they’re also not enough to carry the song. 
+Ari Lennox’s harmonized vocals show promise. They give strong Coloring Book vibes and feel almost ’80s inspired, but they’re also not enough to carry the song. 
 
 {: .box-warning} 
 You could do without this one.
