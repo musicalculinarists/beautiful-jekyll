@@ -221,7 +221,7 @@ This one could be edited into something.
 The muffled vocals in the back and Chance’s singing comes off pretty sweetly and earnest on this one. “Thank you father”—Gospel and Jesus vibes are solid. Around the 2 minute mark, the production starts to really come in in the background—you get that kind of distorted thudding / metallic sound that you hear on…well, I know that it’s on on a lot of things but right now what’s coming to mind is [“Hard Feelings / Loveless”  by Lorde](https://open.spotify.com/track/1Dp7JGFNjvg8Nk0CtMCcnr?si=2VGL9I3ZRnaXVPZz_NiAfA) (around the 2:30-3:15 mark) and [“U & Me” by Yangze](https://open.spotify.com/track/5F7BfCrjjSPoRdjDh2h1bw?si=Z-m-H2nqQk-8o97ageGKqw) except not as intense.  Which is what we like to see. 
 
 {: .box-note}
-It’s not Yeezus, but then again, what is?** <br>Give it a try.
+It’s not Yeezus, but then again, what is? <br>Give it a try.
 
 
 ### Our House (Skit) ###
