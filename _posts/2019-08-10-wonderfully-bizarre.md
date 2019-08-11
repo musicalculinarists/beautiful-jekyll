@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [sotw]
-subtitle: Do you wanna get married?
+subtitle: Our song of the week!
 
 ---
 
