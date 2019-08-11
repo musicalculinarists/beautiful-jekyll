@@ -7,6 +7,9 @@ subtitle: Do you wanna get married?
 
 Bendigo Fletcher’s *Wonderfully Bizarre* has phenomenal songwriting, unexpected moments of intensity, and an undercurrent of sweetness so lovely you’ll feel your heart soar. 
 
+There are some artists (Father John Misty and Hozier come to mind) who transform love songs into what we don’t typically imagine love to be like — intimate, imperfect, obsessive. Bendigo Fletcher nailed this feeling on Wonderfully Bizarre, with the lead singer’s almost desperate cry *“Do you wanna get married?”.* 
+And the musicality™ is pretty damn unique. For example, at ~3:40 a robotic, talkbox sounding voice breaks through the strum of guitar to tell us *“Bad dreams, you never get away” —* an unexpected but genius addition to an already amazing song.
+
 {: .caption :}
 ![](https://i0.wp.com/atwoodmagazine.com/wp-content/uploads/2019/02/Bendigo-Fletcher-2019.jpg)
 Bendigo Fletcher, the Louisville folk group that created this song.
@@ -34,14 +37,11 @@ Bendigo Fletcher, the Louisville folk group that created this song.
 > Mice for the backyard peregrine falcon reservation <br>
 
 This stuff is straight up poetry. 
-But to be honest, this entire damn song is a lyrical highlight.
+But to be honest, the entire damn song is a lyrical highlight.
 
 {: .caption :}
 ![](https://f4.bcbits.com/img/a3552482767_10.jpg)
 Consensual Wisdom, the 2018 album the song belongs to.
-
-There are some artists (Father John Misty and Hozier come to mind) who transform love songs into what we don’t typically imagine love to be like — intimate, imperfect, obsessive. Bendigo Fletcher nailed this feeling on Wonderfully Bizarre, with the lead singer’s almost desperate cry *“Do you wanna get married?”.* 
-And the musicality™ is pretty damn unique. For example, at ~3:40 a robotic, talkbox sounding voice breaks through the strum of guitar to tell us *“Bad dreams, you never get away” —* an unexpected but genius addition to an already amazing song.
 
 ## Listen Now
 
