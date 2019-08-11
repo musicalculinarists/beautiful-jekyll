@@ -180,7 +180,7 @@ Ehhh. Not sold. We won’t be getting this bag!
 ### Slide Around ###
 More generic beats, generic verses. The one good thing that stands out is the downward bopping beat (it sounds like a xylophone) that dips into the song. We’re both pretty biased towards Nicki Minaj features on *anything*, because the way she raps and talks is just cool, but like…it’s just not enough.
 
-{: .box-warning}
+{: .box-error}
 Nah. We’re sorry, Nicki, and we still love you.
 
 ### Sun Come Down ###
