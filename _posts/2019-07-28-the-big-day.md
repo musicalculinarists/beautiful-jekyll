@@ -257,4 +257,7 @@ Here’s our proposed alternate tracklist:
 10. First World Problems
 11. The Man Who Has Everything
 
+## The Culinarity™ Score 
 
+{: .box-warning}
+### This one could be edited into something.  
