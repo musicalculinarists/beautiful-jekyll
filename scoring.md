@@ -13,5 +13,5 @@ This score is for the self-imposed exile in Hawaii after the 2009 VMAs, I made a
 
 ### 0.0 = Whatever Shawn Mendes' album(s) is/are.  
 
-Or that equivalent level of all-sounds-similar, one-guitar-strumming, turbo-radio-friendly music. Sorry. He seems like a nice enough guy, but. You know how it is. 
+Or that equivalent level of all-sounds-similar, one-guitar-strumming, turbo-radio-friendly music. Sorry. He seems like a nice enough guy, and being a musician is definitely hard and we have made respect for anyone who makes it, but. You know how it is. 
 
