@@ -259,5 +259,4 @@ Here’s our proposed alternate tracklist:
 
 ## The Culinarity™ Score 
 
-{: .box-error}
-### 2.6 
+| ### 2.6 |
