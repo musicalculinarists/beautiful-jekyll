@@ -17,5 +17,4 @@ Or that equivalent level of all-sounds-similar, one-guitar-strumming, turbo-radi
 
 ### But also: 
 
-# 
 ![](https://paper-attachments.dropbox.com/s_731B67F6093557172A2869CEA46041FDB8C629DAF57DF397366C6DBB6CA3A47E_1565916017259_Screen+Shot+2019-08-15+at+5.36.25+PM.png)
