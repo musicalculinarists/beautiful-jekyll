@@ -259,4 +259,8 @@ Here’s our proposed alternate tracklist:
 
 ## The Culinarity™ Score 
 
-| ### 2.6 |
+| 2.6 |
+
+Want an explanation of our scoring system? See [here.] (https://musicalculinarists.github.io/scoring/)
+
+
