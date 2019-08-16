@@ -72,7 +72,7 @@ However, like a LOT of songs on this album, the song was too damn long to not be
 And, although obviously not every song needs some clear concise message™ to be considered good music, the lyrics are all over the place, almost as if each verse belongs to a different song. 
 The intro is never returned to, nor is “We go high” ever really explained. Just what are we going high for?
 
-{: .box-warning} 
+{: .box-error} 
 Not this song, that’s for sure 😞.
 
 ### I Got You (Always and Forever) ###
@@ -82,7 +82,7 @@ The refrain that’s mixed into the song: “Do it for the 1-9 love, 1-9 / For t
 
 Ari Lennox’s harmonized vocals show promise. They give strong Coloring Book vibes and feel almost ’80s inspired, but they’re also not enough to carry the song. 
 
-{: .box-warning} 
+{: .box-error} 
 You could do without this one.
 
 ### Photo Ops Skit ###
