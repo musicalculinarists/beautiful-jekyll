@@ -27,9 +27,6 @@ h1{
   font-weight: bolder;
 }
 
-h2 { 
-  font-size: 22px;
-}
 h1, h2, h3 {
   font-weight: bold;
 }
@@ -41,6 +38,11 @@ h1,h2,h3,h4,h5,h6 {
   font-size: 18px;
   font-family: 'Oxygen Mono', monospace;
 }
+
+h2 { 
+  font-size: 22px;
+}
+
 a {
   color: #EF626C;
 }
