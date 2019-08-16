@@ -261,6 +261,6 @@ Here’s our proposed alternate tracklist:
 
 | 2.6 |
 
-Want an explanation of our scoring system? See [here.] (https://musicalculinarists.github.io/scoring/)
+Want an explanation of our scoring system? See [here.](https://musicalculinarists.github.io/scoring/)
 
 
