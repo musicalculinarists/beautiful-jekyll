@@ -1,17 +1,19 @@
-# Bon Iver’s i, i
-
-## Our review of the still-weirdly titled fourth album by Justin Vernon & co. 
-
+---
+layout: post
+tags: [review]
+title: i,i
+subtitle: Our review of the still-weirdly titled fourth album by Bon Iver.
+---
 
 ![Album cover for i,i](https://paper-attachments.dropbox.com/s_317A377BADA87E1B8841F57B8EDB52BB7C19E1B53508BA04E921B8A7566D5093_1565806892975_image.png)
 
-## The track-by-track breakdown. 
+## First, the track-by-track breakdown. 
 
 **Yi**
 31 seconds of muffled weird metallic instrumentals and what we assume is some behind the scenes audio from the album’s recording process. 
 
-
-    ...Cool?
+ {: .box-warning} 
+...Cool?
 
 **iMi**
 The distortions and the harmonization on Justin Vernon’s voice: 👍. 
@@ -20,19 +22,21 @@ Melody + lyrics: 👍.
 Ending on the frenzy of horns before the hyper-distorted and sped-up vocals: 👍.
 Not 100% sold on the static-y rush that’s interspersed, because it sounds a little bit just like poor audio quality (on the first listen we actually checked to see if it was a problem with the speaker), but it’s obviously a deliberate artistic choice, so it passes. 
 
-
-    👍
+{: .box-note}
+👍
 
 
 **We**
 When we first listened to *We*, it wasn’t super memorable. Upon second listen, however, it’s a really interesting song, especially considering what Bon Iver typically sounds like. *We* definitely has some hip-hop influence, which was super cool — although the lyrics (e.g. “What you think we're taming with the towers and the oar?”) don’t quite take a cue from the greatest rappers of all time. His sped up, sing-talking is a **bop,** though, in the truest sense of the word. 
 
+{: .box-note}
 We’d give it a third and fourth listen. 
 
 **Holyfields,**
 How the bopping frequency that constitutes the beat fades in and out is super, super freaking nice. I feel like I’m listening to the word “Doppler” put into music. 
 
-    👍
+{: .box-note}
+👍
 
 **Hey, Ma**
 *Not to be confused with Hey Mama by Kanye West, but if you do confuse it with Hey Mama, that would be fine because Hey Mama is an incredible song.*
@@ -52,8 +56,8 @@ The Production™ is pretty nice, unlike some other songs on the album, he augme
 
 And to top it off, it’s a really good song to sway to, it’s nostalgic, surround sound energy makes you wanna rock like a boat and then maybe freak out about the impending disaster college may or may not be (don’t read too much into this one either).  
 
-
-    Sway, baby!
+{: .box-note}
+Sway, baby!
 
 **U (Man Like)**
 This one sounds a *little* more distinctive to the rest of the album because it’s lighter on the Production™ and clearly more focused on the singing itself. And yeah, the melody is literally *wired* so that you automatically want to bop/pretend you can dance/make finger guns to it. The lyrics (that we can hear pretty well, now) are as cryptic prose-poetry as can be expected, and the background vocals are a really, really good touch. 
@@ -64,8 +68,8 @@ This one sounds a *little* more distinctive to the rest of the album because it�
 > All this phallic 😦 repetition
 > Boy, you tell yourself a tale or two
 
-
-    👍
+{: .box-note}
+👍
 
 **Naeem**
 Best song on this album, hands down. It’s a dance song, a surround-sound™ song, and most of all, it’s a good song! Just listen to it and get nicely overwhelmed!
@@ -77,7 +81,8 @@ Best song on this album, hands down. It’s a dance song, a surround-sound™ so
 There are cool instrumentals+distortions in the background. It’s a good interlude, though a little long for the level of variation it introduces (as in, it’s repetitive).  Does better if you listen to it individually rather than in the context of the album. 
 
 
-    Yeehaw!
+{: .box-note}
+Yeehaw!
 
 **Faith** 
 Good, cryptic lyrics. 
@@ -90,28 +95,28 @@ Love the Jesus vibe.
 > Nor to become stable
 > (So what if I lose? I'm satisfied)
 
-
-    🙏🙏🙏
+{: .box-note}
+🙏🙏🙏
 
 **Marion**
 A bit more stripped down and strummy than the rest, but same kind of vibe, y’know? 
 The main refrain of the song, “Well, I thought that this was half a love,” is a sweet one, and the repetition of mostly one line over and over again kind of reminds me of [Woods](https://genius.com/Bon-iver-woods-lyrics), in a good way.
 
-
-    Our man's doing fine. 
+{: .box-note}
+Our man's doing fine. 
 
 **Salem**
 Don’t know how to feel about the initial/underlying background beat on this song, it feels a bit too LCD Soundsystem for comfort. But once that techno-y beat chills out a bit and we get the high, slightly-affected voice of Justin Vernon flooding in, it’s all good. As the song starts to build up with the vocals and the horns (2:15-3:00), yeah, nice. Maybe lasts a touch too long. 
 
-
-    S'all pretty good.
+{: .box-note}
+S'all pretty good.
 
 **Sh’Diah**
 It was long. 
 After a couple minutes, all vocals and extra instrumentation cuts off and we have 2 minutes and 11 seconds of sounds that definitely belong in a Spotify playlist titled Deep Focus Brain Food Music For Studying. The Deep Focus Brain Food Music for Studying sounds were fine, like all Deep Focus Brain Food Music for Studying sounds are, but we really didn’t need 2 minutes of it. Unless you pull a Kanye and add, to quote ourselves, [“3 minutes of completely distorted singing and instrumental and it’s freaking genius”](https://musicalculinarists.github.io/scoring/), to the end of a song, prolonging a song for mediocre instrumentals is anti-genius and ruins whatever was set up al primero. 
 
-
-     Cut it down a lil bit, brosef?
+{: .box-warning}
+Cut it down a lil bit, brosef?
 
 **RABi**
 We can actually understand these lyrics! Some lyrical highlights: 
@@ -126,8 +131,8 @@ We can actually understand these lyrics! Some lyrical highlights:
 Though the instrumentals aren’t as intricate as the other songs on this album,  Bon Iver’s crooning about adulthood™ and disappointment™ and growth™ (and everything else us naive teens fail to understand) make it feel as if we were being tucked in? After a long hard day of listening to the album? Yeah, we’re stretching this one. 
 Nonetheless, it’s a good ending to a good album, though we probably wouldn’t listen to this song on it’s own. 
 
-
-    👍
+{: .box-note}
+👍
 
 
 
