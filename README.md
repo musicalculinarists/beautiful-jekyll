@@ -5,7 +5,7 @@ When you export a paper, you generally have to change the actual markdown itself
 3. Adding in explicit line breaks (< b r > without spaces) when you're quoting lyrics or else it'll all show up inline
 4. Making sure that at the end the score appears in a table (should be newlines before and after the | score | to ensure it shows correctly)
 5. Making sure that what you want to be h3 has the ### in front of it, as paper may export simply as bolded text. 
-
+6. Reread on site for weird asterisks or #'s hanging around, sometimes stuff sneaks in. 
 
 # Beautiful Jekyll
 
