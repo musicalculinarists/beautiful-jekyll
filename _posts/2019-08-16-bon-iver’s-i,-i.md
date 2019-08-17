@@ -147,6 +147,7 @@ With an album like this, **how much you enjoy it depends a lot on how you listen
 That being said, however, it’s still more interesting and levels above most folk and indie stuff that’s being made these days. And, although we expected nothing less of Bon Iver, it has some brief flashing moments of absolute *fire*.
 
 ## The Culinarity™ Score: 
+
 | 7.0 |
 
 Want an explanation of our scoring system? See [here.](https://musicalculinarists.github.io/scoring/)
