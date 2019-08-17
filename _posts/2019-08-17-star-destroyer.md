@@ -21,11 +21,11 @@ His voice, which feels like it has a slight reverb on it, is nice and smooth as 
 
 ## Listen Now ##
 
-https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fjonahrenna%2Fstardestroyer&autoplay=false
+[Soundcloud.](https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fjonahrenna%2Fstardestroyer&autoplay=false)
 
-https://open.spotify.com/track/1d5m7t0RN4JXnuMgBhVJI9
+[Spotify.](https://open.spotify.com/track/1d5m7t0RN4JXnuMgBhVJI9)
 
-https://www.youtube.com/watch?v=zh26aOWKp3Q&
+[YouTube.](https://www.youtube.com/watch?v=zh26aOWKp3Q&)
 
 
 ## You may also like: ##
