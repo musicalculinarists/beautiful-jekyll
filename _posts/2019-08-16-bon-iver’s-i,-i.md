@@ -9,13 +9,13 @@ subtitle: Our review of the still-weirdly titled fourth album by Bon Iver.
 
 ## First, the track-by-track breakdown. 
 
-**Yi**
+### Yi ###
 31 seconds of muffled weird metallic instrumentals and what we assume is some behind the scenes audio from the album’s recording process. 
 
  {: .box-warning} 
 ...Cool?
 
-**iMi**
+### iMi ###
 The distortions and the harmonization on Justin Vernon’s voice: 👍. 
 The thudding piano chords and the q U i r K y instrumentals: 👍. 
 Melody + lyrics: 👍.
@@ -26,19 +26,19 @@ Not 100% sold on the static-y rush that’s interspersed, because it sounds a li
 👍
 
 
-**We**
+### We ###
 When we first listened to *We*, it wasn’t super memorable. Upon second listen, however, it’s a really interesting song, especially considering what Bon Iver typically sounds like. *We* definitely has some hip-hop influence, which was super cool — although the lyrics (e.g. “What you think we're taming with the towers and the oar?”) don’t quite take a cue from the greatest rappers of all time. His sped up, sing-talking is a **bop,** though, in the truest sense of the word. 
 
 {: .box-note}
 We’d give it a third and fourth listen. 
 
-**Holyfields,**
+### Holyfields, ###
 How the bopping frequency that constitutes the beat fades in and out is super, super freaking nice. I feel like I’m listening to the word “Doppler” put into music. 
 
 {: .box-note}
 👍
 
-**Hey, Ma**
+### Hey, Ma ###
 *Not to be confused with Hey Mama by Kanye West, but if you do confuse it with Hey Mama, that would be fine because Hey Mama is an incredible song.*
 
 First off, we’re not really sure what he’s trying to say here. Here are some uh… lyrical highlights:
@@ -59,7 +59,7 @@ And to top it off, it’s a really good song to sway to, it’s nostalgic, surro
 {: .box-note}
 Sway, baby!
 
-**U (Man Like)**
+### U (Man Like) ###
 This one sounds a *little* more distinctive to the rest of the album because it’s lighter on the Production™ and clearly more focused on the singing itself. And yeah, the melody is literally *wired* so that you automatically want to bop/pretend you can dance/make finger guns to it. The lyrics (that we can hear pretty well, now) are as cryptic prose-poetry as can be expected, and the background vocals are a really, really good touch. 
 
 
@@ -71,20 +71,20 @@ This one sounds a *little* more distinctive to the rest of the album because it�
 {: .box-note}
 👍
 
-**Naeem**
+### Naeem ###
 Best song on this album, hands down. It’s a dance song, a surround-sound™ song, and most of all, it’s a good song! Just listen to it and get nicely overwhelmed!
 
 ![How Naeem makes us feel (Sarah is dancing by the way).](https://paper-attachments.dropbox.com/s_3514D223EB41DD75AB7F106AB985DBB3292D45298F4F180AF4E3BDAC00DEBF48_1566009035657_IMG_2247+2.jpg)
 
 
-**Jelmore**
+### Jelmore ###
 There are cool instrumentals+distortions in the background. It’s a good interlude, though a little long for the level of variation it introduces (as in, it’s repetitive).  Does better if you listen to it individually rather than in the context of the album. 
 
 
 {: .box-note}
 Yeehaw!
 
-**Faith** 
+### Faith ###
 Good, cryptic lyrics. 
 Same cool instrumentals + distortions as ever. 
 Great moments where it builds up / layers / crests and feels…triumphant? (*“Time and again…It’s time to be brave!”*)
@@ -98,27 +98,27 @@ Love the Jesus vibe.
 {: .box-note}
 🙏🙏🙏
 
-**Marion**
+### Marion ###
 A bit more stripped down and strummy than the rest, but same kind of vibe, y’know? 
 The main refrain of the song, “Well, I thought that this was half a love,” is a sweet one, and the repetition of mostly one line over and over again kind of reminds me of [Woods](https://genius.com/Bon-iver-woods-lyrics), in a good way.
 
 {: .box-note}
 Our man's doing fine. 
 
-**Salem**
+### Salem ###
 Don’t know how to feel about the initial/underlying background beat on this song, it feels a bit too LCD Soundsystem for comfort. But once that techno-y beat chills out a bit and we get the high, slightly-affected voice of Justin Vernon flooding in, it’s all good. As the song starts to build up with the vocals and the horns (2:15-3:00), yeah, nice. Maybe lasts a touch too long. 
 
 {: .box-note}
 S'all pretty good.
 
-**Sh’Diah**
+### Sh’Diah ###
 It was long. 
 After a couple minutes, all vocals and extra instrumentation cuts off and we have 2 minutes and 11 seconds of sounds that definitely belong in a Spotify playlist titled Deep Focus Brain Food Music For Studying. The Deep Focus Brain Food Music for Studying sounds were fine, like all Deep Focus Brain Food Music for Studying sounds are, but we really didn’t need 2 minutes of it. Unless you pull a Kanye and add, to quote ourselves, [“3 minutes of completely distorted singing and instrumental and it’s freaking genius”](https://musicalculinarists.github.io/scoring/), to the end of a song, prolonging a song for mediocre instrumentals is anti-genius and ruins whatever was set up al primero. 
 
 {: .box-warning}
 Cut it down a lil bit, brosef?
 
-**RABi**
+### RABi ###
 We can actually understand these lyrics! Some lyrical highlights: 
 
 > When we were children we were hell-bent
