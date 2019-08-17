@@ -44,10 +44,10 @@ How the bopping frequency that constitutes the beat fades in and out is super, s
 First off, we’re not really sure what he’s trying to say here. Here are some uh… lyrical highlights:
 
 
-> Tall vote, you know you mope it up
-> I wanted all that **mind sugar**
-> Then you took me in the room
-> And you offered up the truth
+> Tall vote, you know you mope it up<br>
+> I wanted all that **mind sugar**<br>
+> Then you took me in the room<br>
+> And you offered up the truth<br>
 > Let me talk to 'em all
 
 I’m sure Vernon had some intention behind his songwriting — because he’s had absolutely genius songwriting in the past (see: [Blood Bank](https://genius.com/Bon-iver-blood-bank-lyrics)) — but at moments it definitely feels like Vernon was just playing Mad Libs with slightly intoxicated, possibly homesick seventeen-eighteen year olds (don’t read too much into this). Nonetheless, [“mind sugar”](https://www.verywellmind.com/how-sugar-affects-the-brain-4065218) is the best code word for cocaine we’ve ever heard so we’ll give the lyrics a **10/10.** 
@@ -63,9 +63,9 @@ Sway, baby!
 This one sounds a *little* more distinctive to the rest of the album because it’s lighter on the Production™ and clearly more focused on the singing itself. And yeah, the melody is literally *wired* so that you automatically want to bop/pretend you can dance/make finger guns to it. The lyrics (that we can hear pretty well, now) are as cryptic prose-poetry as can be expected, and the background vocals are a really, really good touch. 
 
 
-> Presently, it does include my dues
-> Ain't your standard premonitions
-> All this phallic 😦 repetition
+> Presently, it does include my dues<br>
+> Ain't your standard premonitions<br>
+> All this phallic 😦 repetition<br>
 > Boy, you tell yourself a tale or two
 
 {: .box-note}
@@ -91,8 +91,8 @@ Great moments where it builds up / layers / crests and feels…triumphant? (*“
 Love the Jesus vibe. 
 
 
-> It's not going the road I'd known as a child of God
-> Nor to become stable
+> It's not going the road I'd known as a child of God<br>
+> Nor to become stable<br>
 > (So what if I lose? I'm satisfied)
 
 {: .box-note}
@@ -121,11 +121,11 @@ Cut it down a lil bit, brosef?
 ### RABi ###
 We can actually understand these lyrics! Some lyrical highlights: 
 
-> When we were children we were hell-bent
-> Or oblivious at least
-> But now it comes to mind
-> We are terrified
-> So we run and hide
+> When we were children we were hell-bent<br>
+> Or oblivious at least<br>
+> But now it comes to mind<br>
+> We are terrified<br>
+> So we run and hide<br>
 > For a verified little peace
 
 Though the instrumentals aren’t as intricate as the other songs on this album,  Bon Iver’s crooning about adulthood™ and disappointment™ and growth™ (and everything else us naive teens fail to understand) make it feel as if we were being tucked in? After a long hard day of listening to the album? Yeah, we’re stretching this one. 
