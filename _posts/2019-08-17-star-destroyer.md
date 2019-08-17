@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Star Destroyer
 subtitle: Our song of the week!
 tags: [sotw]
