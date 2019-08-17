@@ -1,5 +1,9 @@
-# Star Destroyer 
-Our song of the week!
+---
+layout:post
+title: Star Destroyer
+subtitle: Our song of the week!
+tags: [sotw]
+---
 
 Jonah Renna’s *Star Destroyer,* produced in a dreamy indie style, is the kind of song that makes you nostalgic for all the angst and unrequited love that’s typically associated with Your Teenager Years™, even if you’re still technically a teenager. 
 
