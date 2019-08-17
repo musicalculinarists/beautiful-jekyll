@@ -2,8 +2,8 @@
 When you export a paper, you generally have to change the actual markdown itself in the following ways: 
 1. Adding in the jekyll layout:post, title, subtitle etc stuff
 2. Adding in the box-error, box-note, box-warning if necessary. 
-3. Adding in explicit line breaks (br in the <>) when you're quoting lyrics or else it'll all show up inline
-4. Making sure the score at the end is in a table
+3. Adding in explicit line breaks (< b r > without spaces) when you're quoting lyrics or else it'll all show up inline
+4. Making sure that at the end the score appears in a table (should be newlines before and after the | score | to ensure it shows correctly)
 5. Making sure that what you want to be h3 has the ### in front of it, as paper may export simply as bolded text. 
 
 
