@@ -1,4 +1,10 @@
-# Butternut
+---
+layout: post
+tags: [sotw]
+title: Butternut
+subtitle: Our song of the week!
+
+---
 Healy’s *Butternut* is all about emotional vulnerability, the subtle details in production, and that feeling of (as Khalil Gibran says in the Prophet): “know[ing] the pain of too much tenderness.”
 
 (Sorry, The College Experience™ happened. But rest assured, we’re now back to our first and only priority, which is pretending we’re qualified to be music critics.)
@@ -7,18 +13,20 @@ Healy’s *Butternut* is all about emotional vulnerability, the subtle details i
 ![Subluxe, Healy’s first (and only) album.](https://i2.wp.com/atwoodmagazine.com/wp-content/uploads/2017/06/Subluxe.jpg?resize=1050%2C700)
 
 
-The fifth track on *Subluxe* is stripped down, production wise, with only the occasional gentle press of piano keys and train noises and the familiar *swoop* of text messages being sent. (The text message noises are kind of genius.) Healy’s voice has a vague tinge of static to it, almost like the track was recorded on an iPhone, except it comes off as emotionally raw and genuine and intentional rather than as just poor audio quality. The subtlety of the Production™ allows Healy’s voice and the actual lyrics to shine through, and goddamn do these lyrics manage to make you feel like you’ve just said goodbye to all your friends from back home and broken up with your longtime significant other and deleted all photos of the memories you had together off your camera roll.  
+The fifth track on *Subluxe* is stripped down, production wise, with only the occasional gentle press of piano keys and train noises and the familiar *swoop* of text messages being sent. (The text message noises are kind of genius.) Healy’s voice has a vague tinge of static to it, almost like the track was recorded on an iPhone, except it comes off as emotionally raw and genuine and intentional rather than as just poor audio quality. The sound of muffled sniffling and someone exiting the studio at the end adds to the effect.
+
+The subtlety of the Production™ allows Healy’s voice and the actual lyrics to shine through, and goddamn do these lyrics manage to make you feel like you’ve just said goodbye to all your friends from back home and broken up with your longtime significant other and deleted all photos of the memories you had together off your camera roll.  
 
 
-> Butternut
-> Careful not to undercut
+> Butternut<br>
+> Careful not to undercut<br>
 
 
-> Take off your cover up
+> Take off your cover up<br>
 > Full moons got dark sides too
 
 
-> Momma said don't fall in love
+> Momma said don't fall in love<br>
 > Unless you know what you're doing
 
 
