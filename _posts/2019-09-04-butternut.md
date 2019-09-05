@@ -2,12 +2,12 @@
 layout: post
 tags: [sotw]
 title: Butternut
-subtitle: Our song of the week!
+subtitle: Our terribly late song of the week!
 
 ---
 Healy’s *Butternut* is all about emotional vulnerability, the subtle details in production, and that feeling of (as Khalil Gibran says in the Prophet): “know[ing] the pain of too much tenderness.”
 
-(Sorry, The College Experience™ happened. But rest assured, we’re now back to our first and only priority, which is pretending we’re qualified to be music critics.)
+(Sorry for the tardiness—The College Experience™ happened (is happening?). But rest assured, we’re now back to our first and only priority, which is pretending we’re qualified to be music critics.)
 
 
 ![Subluxe, Healy’s first (and only) album.](https://i2.wp.com/atwoodmagazine.com/wp-content/uploads/2017/06/Subluxe.jpg?resize=1050%2C700)
