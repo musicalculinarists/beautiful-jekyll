@@ -34,7 +34,7 @@ His voice, which feels like it has a slight reverb on it, is nice and smooth as 
 Beach House, see [Space Song](https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo?si=fRfVo-sUQBajYDpT3pxKSw) (of course) or [10 Mile Stereo](https://open.spotify.com/track/4kPMgUlBHGTgSSQybifpzr?si=LgFA8DRlToOE6RFzVjri0A)
 
 ### If you’re into the vibe: ###
-Kevin Abstract’s [American Boyfriend](https://open.spotify.com/track/1AUA7JlrARv430PUJRK0Lp?si=pvfuCFisQ-auBLqtze_MRA) (the album and the song) or [Seventeen](https://open.spotify.com/track/03sQJmtsGDLrBtlKoAvUTt?si=sMzmIa60TGeRr7FHwwDNcw)
+Kevin Abstract’s [American Boyfriend](https://open.spotify.com/track/1AUA7JlrARv430PUJRK0Lp?si=pvfuCFisQ-auBLqtze_MRA) (the album and the song) or [Seventeen](https://open.spotify.com/track/03sQJmtsGDLrBtlKoAvUTt?si=sMzmIa60TGeRr7FHwwDNcw)<br>
 Choker, see [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L?si=zDGciny6TCSrK3Fu4DOSgg) or [Drift](https://open.spotify.com/track/4BNqWebyipWrMsupuTmKO9?si=0u1LEXsQQOOJJcj3Vv0rrA)
 
 
