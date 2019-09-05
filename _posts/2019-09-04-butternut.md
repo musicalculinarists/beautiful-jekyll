@@ -47,7 +47,7 @@ He’s right. Let The Beat Build is an absolute banger and it has a completely d
 
 ## You may also like:
 
-[Diet](https://www.youtube.com/watch?v=vaU5ax3Edsg) by Childish Major — another really minimal but really interesting song.
-[Waze](https://open.spotify.com/track/0vUuBXZGymDmcVFuf6SicJ) by Tierra Wack
+[Diet](https://www.youtube.com/watch?v=vaU5ax3Edsg) by Childish Major — another really minimal but really interesting song.<br>
+[Waze](https://open.spotify.com/track/0vUuBXZGymDmcVFuf6SicJ) by Tierra Wack<br>
 [Death of the Phone Call](https://open.spotify.com/track/1ln5kx19guJDiWooZR3vVL?si=BnXf4vNjQayWp1U2FTsiVA) by Whatever, Dad — it’s French!
-[](https://open.spotify.com/track/1ln5kx19guJDiWooZR3vVL?si=BnXf4vNjQayWp1U2FTsiVA)
+[](https://open.spotify.com/track/1ln5kx19guJDiWooZR3vVL?si=BnXf4vNjQayWp1U2FTsiVA)<br>
