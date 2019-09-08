@@ -85,10 +85,8 @@ The beginning instrumentals are low key a religious experience; it sounds like c
 - a little long a little boring
 - liked but not super liked
 
-Kind of a long song.
-
-{: .box-warning} 
-Okay. 
+{: .box-note} 
+It's like worth a try?
 
 ### Cinnamon Girl
 On the lyrics front: 
