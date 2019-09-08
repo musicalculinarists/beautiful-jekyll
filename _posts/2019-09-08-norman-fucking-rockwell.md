@@ -27,6 +27,7 @@ Probably my favorite track on the album. The strings in the background feel so c
 
 The melody is also just so well done, and Lana’s voice soars with the flooding of the chorus and the way the song builds up is so good. Also the subtle horns going on with the production and as a closer to the song are so lovely. I all feels like you’re blowing through some warm summertime past, and I don’t know man, it’s just so good. 
 
+{: .box-note} 
 Listen to it!
 
 ### Mariners Apartment Complex
@@ -50,10 +51,14 @@ Now, a bit of a detour. Sarah and I have this joke (?) that we are slowly conver
 **But, plot twist… is the convergence failing?**
 I (Sarah) don’t really vibe with that song so much. It’s like, alright. I’m not sold on the strumming and individual guitar note plucks and the overall melody of the entire song. I think the one moment that’s super nice is around 1:48-2:00 and 3:10-3:17, where her voice echoes and goes: “I’m your man!” But like 12 + 7 = 19 seconds of good vibes in the midst of 4:07 seconds of okay-ness just doesn’t cut it. 
 
+{: .box-warning} 
+We stand divided—go decide for yourself!
+
 ### Venice Bitch
 It’s long and not really worth the time. We may have said this before but any song longer than four minutes should have to *work* for the extra time — spice things up with some really fucking good lyrics, or a beat drop, or pull a Kanye West and just slap 5 minutes of some massive fucking distortion on it, or do a Frank and just straight up splice up a couple of interviews. The instrumental and her brief singing in the last 4 minutes of the song are like…fine, but not interesting enough to warrant its appendage to the end of the song. 
 Also hot take: the melody of the post-chorus (“You’re in the yard, I light the fire…”) is good but the melody of the verse and the chorus itself just isn’t vibes. Like the whole two-note situation just doesn’t gel, yeah?
 
+{: .box-error} 
 Skip ): 
 
 ### Fuck it I love you
@@ -61,12 +66,18 @@ The main refrain, “Fuck it, I love you,” is really nice and relatable™, bu
 
 The Dream A Little Dream of me reference is is charming, and her muted voice at times are decently cool, however. 
 
+{: .box-warning} 
+It does alright. 
+
 ### Doin’ Time
 This is definitely the most famous song on the album (i.e. it’s on the radio). I (Anika) personally think it’s a great song to drink shit on the beach to. It’s catchy and groovy and a perfectly good cover to a perfectly good song. I’ll admit, it definitely didn’t add a twist to Sublime’s original version, but for whatever reason I really like Lana’s voice on this baby.
 
 **But the convergence is looking shaky.** 
 I don’t really vibe with the melody, the almost-trappy vibe on the beat, and when Lana says: “to represent the L.B.C.”, I just can’t help the visceral cringe reaction I have. 
 “This ain’t it, chief.” -Sarah
+
+{: .box-warning} 
+We don't agree, again :0
 
 ### Love song 
 The beginning instrumentals are low key a religious experience; it sounds like chapel music on synth vibes — and are definitely more interesting than the sounds on other songs in this album. We love ourselves the Lana Talking About Deep Shit Over Music Experience™ — and that’s definitely what this song was going for — but the shit wasn’t deep enough and the talk wasn’t talk enough for us. Also, again, it’s a long song, and it definitely gets boring after the second minute.
@@ -76,6 +87,9 @@ The beginning instrumentals are low key a religious experience; it sounds like c
 
 Kind of a long song.
 
+{: .box-warning} 
+Okay. 
+
 ### Cinnamon Girl
 On the lyrics front: 
 “If you hold me without hurting me, you’ll be the first who ever did.” Interesting refrain, Lana, but also for some reason relatable. 😳 (Hey Lana, pro tip: can’t get hurt if you’re just bros)
@@ -83,6 +97,7 @@ On the lyrics front:
 In terms of the production™: 
 The melding of the bass and instrumental and the “zipping” noises in the background are kind of hype. The flooding in of the strings around 3:30 is super lovely, because strings are always the move. But without a major change in vibes or a “switch”, the song feels low-key way too long for what it is. And also sounds really similar to the previous songs on the album. 
 
+{: .box-warning} 
 It does okay.
 
 ### How to disappear
@@ -97,6 +112,9 @@ And during the second verse when the bells come in in the background, and then a
 
 This song is probably supposed to be melancholy but low-key we’re pretty sure it’s a dance song. 
 
+{: .box-note} 
+Yeah!
+
 ### California 
 Points for the title: we love California. GO BEARS! 🐻 🐻 🐻 
 
@@ -106,12 +124,16 @@ Points for the title: we love California. GO BEARS! 🐻 🐻 🐻
 Her voice sounds nice, as usual, and when the intensity of the song turns up at “I’ll pick you up, if you come back to America,” it’s kind of nice. 
 But again, it’s kind of long for what it is, and is again very similar to a lot of the other songs on the album. 
 
+{: .box-warning}
 S’okay.
 
 ### The Next Best American Record 
 The lyrics are pretty charming:  when she says “He was cool as heck,” I can never help but laugh out loud, because *heck.* The titular chorus line: “We were so obssessed with writing the next best American record,” is super, super good as well. It makes you want to sing along to it so much. 
 The intensity and hype turn up at the chorus is super, super nice. 
-But again, it’s way too long for the amount of substance it contains (kind of like our album reviews?? 😳)
+But again, it’s a little long for the amount of substance it contains (kind of like our album reviews?? 😳)
+
+{: .box-note} 
+Hmmm, pretty good.
 
 ### The greatest
 This is a really, *really* good nostalgia song — the type of nostalgia song that makes you look back at experiences you definitely haven’t had (or had yet — “The culture is lit and I had a ball” is what I’m definitely planning to say about college when it’s finally over).
@@ -123,12 +145,22 @@ Plus, Lana has some stellar one-liners on this song, such as “Don’t leave I 
 
 ![Kanye Omari West.](https://static01.nyt.com/images/2010/11/21/arts/KAYNE/KAYNE-popup.jpg)
 
+{: .box-note} 
+Kanye's the GOAT, but yes. 
+
 
 ### Bartender
-Eh. It’s like, fine. Not sure what a “bart tender” is though, and she sang those two (2) words for the last minute of the song. 
+It’s like, fine. Not sure what a “bart tender” is though, and she sang those two (2) words for the last minute of the song. 
+
+{: .box-warning}
+Eh.
+
 
 ### Happiness is a butterfly
-This is actually a good song but *holy shit* we’ve been reviewing for so long. Take our word for it that it’s a banger, please. Also don’t date serial killers, Lana. 
+This is actually a good song but *holy shit* we’ve been reviewing for so long. Take our word for it that it’s a banger, please. Also don’t date serial killers, Lana.
+
+{: .box-note} 
+Sure.
 
 ### hope is a dangerous thing for a woman like me to have - but i have it
 This is stripped down, only Lana singing over a soft, muted keyboard. It’s also emotionally vulnerable and the songwriting is raw and poetic and all that good shit: 
@@ -154,6 +186,7 @@ And when she finally ends the song with the refrain that’s been going through 
 
 You literally feel something inside you coalescing. 
 
+{: .box-note} 
 Yes!
 
 
