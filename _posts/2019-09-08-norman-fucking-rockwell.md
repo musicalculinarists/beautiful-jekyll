@@ -199,7 +199,8 @@ That being said, Lana’s songwriting is something wonderful, and her voice can 
 
 ## The Culinarity™ Score:
 
-6.5
+| 6.5 | 
+
 Want an explanation of our scoring system? See [here.](https://musicalculinarists.github.io/scoring/)
 
 
