@@ -8,6 +8,7 @@ subtitle: We're giving you the play-by-play of Lana Del Rey's sixth studio album
 
 ![](https://paper-attachments.dropbox.com/s_6928FD2737476E839E9E8FE7EBA62BCA7CC29D19028CEFDE7019A75AFD44193B_1567966519362_image.png)
 
+## First, the track by track review. 
 
 ### Norman fucking Rockwell 
 Probably my favorite track on the album. The strings in the background feel so cinematic and the piano feels so reminiscent of the past and Hollywood-hotel baby grand! The lyrics are as good as Lana always know how to make them:
