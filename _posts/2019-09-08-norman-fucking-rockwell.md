@@ -49,7 +49,7 @@ And the slow build up of the song, from Lana lazily drawling out *“You took my
 
 Now, a bit of a detour. Sarah and I have this joke (?) that we are slowly converging. Sometimes we’ll just independently be the exact same person, e.g. both stumble upon a song and agree that it's the greatest thing.
 
-**But, plot twist… is the convergence failing?**
+**But, plot twist… is the convergence failing?**<br>
 I (Sarah) don’t really vibe with that song so much. It’s like, alright. I’m not sold on the strumming and individual guitar note plucks and the overall melody of the entire song. I think the one moment that’s super nice is around 1:48-2:00 and 3:10-3:17, where her voice echoes and goes: “I’m your man!” But like 12 + 7 = 19 seconds of good vibes in the midst of 4:07 seconds of okay-ness just doesn’t cut it. 
 
 {: .box-warning} 
@@ -73,7 +73,7 @@ It does alright.
 ### Doin’ Time
 This is definitely the most famous song on the album (i.e. it’s on the radio). I (Anika) personally think it’s a great song to drink shit on the beach to. It’s catchy and groovy and a perfectly good cover to a perfectly good song. I’ll admit, it definitely didn’t add a twist to Sublime’s original version, but for whatever reason I really like Lana’s voice on this baby.
 
-**But the convergence is looking shaky.** 
+**But the convergence is looking shaky.**<br>
 I don’t really vibe with the melody, the almost-trappy vibe on the beat, and when Lana says: “to represent the L.B.C.”, I just can’t help the visceral cringe reaction I have. 
 “This ain’t it, chief.” -Sarah
 
