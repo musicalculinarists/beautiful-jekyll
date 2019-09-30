@@ -2,7 +2,7 @@
 layout: post
 tags: [sotw]
 title: Close Your Eyes
-subtitle: What's that? Oh, it's another late song of the week!
+subtitle: What's that I see? Oh, it's another terribly late song of the week!
 
 ---
 
