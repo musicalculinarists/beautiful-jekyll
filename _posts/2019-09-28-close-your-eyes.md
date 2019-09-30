@@ -1,3 +1,11 @@
+---
+layout: post
+tags: [sotw]
+title: Close Your Eyes
+subtitle: What's that? Oh, it's another late song of the week!
+
+---
+
 # Close Your Eyes
 The Bullitts, Jay Electronica, and [*Lucy Liu*](https://www.google.com/search?q=lucy+liu&rlz=1C5CHFA_enUS816US816&oq=Lucy+Liu&aqs=chrome.0.0l6.354j0j0&sourceid=chrome&ie=UTF-8) of all people combine for a song so purely odd that you won’t be able to categorize it into a genre, never mind decide if it’s pure innovation or straight up chaos. 
 
