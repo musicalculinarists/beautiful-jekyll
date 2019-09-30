@@ -6,7 +6,6 @@ subtitle: What's that I see? Oh, it's another terribly late song of the week!
 
 ---
 
-# Close Your Eyes
 The Bullitts, Jay Electronica, and [*Lucy Liu*](https://www.google.com/search?q=lucy+liu&rlz=1C5CHFA_enUS816US816&oq=Lucy+Liu&aqs=chrome.0.0l6.354j0j0&sourceid=chrome&ie=UTF-8) of all people combine for a song so purely odd that you won’t be able to categorize it into a genre, never mind decide if it’s pure innovation or straight up chaos. 
 
 ![](https://paper-attachments.dropbox.com/s_D28F1653541A95281558959FF37FF64234995FFF59E7A14E584084C4F6D47A0A_1569799778511_image.png)
