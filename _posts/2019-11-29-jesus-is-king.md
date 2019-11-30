@@ -50,12 +50,12 @@ A version of Everything We Need was originally on Yandhi as “The Storm”. See
 I can’t take this. 
 
 ### Water ### 
-If this song was a color, it’d be the bright blue of the swimming pool. Water’s beat is super summery, and if I still lived in California and it was more than 70º outside, this baby would be on repeat.
+If this song was a color, it’d be the bright blue of a hotel swimming pool. Water’s beat is super summery, and if I still lived in California and it was more than 70º outside, this baby would be on repeat.
 
 ![Kanye’s water in a picture.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzGwuv1Y8s_B1JsFBFqLcZ0hiQb8-D6BHInio4uz4K4ihpnOSyA&s)
 
 
-Kanye does go the whole God is Great™, Jesus Is Our Saviour™, I Have No Narrative or Complexity in my Lyrics™ route,  but the production of the song more than makes up for it. Weirdly enough, Water is reminiscent of Frank Ocean. Between the shadow voices, the sound of waves crashing in the background and the synth-pop beat, the song lies somewhere between between Channel Orange and Blonde, which is obviously a good spot to be in. 
+Kanye does go the whole God is Great™, Jesus Is Our Saviour™, I Have No Narrative or Complexity in my Lyrics™ route, but the production of the song more than makes up for it. Weirdly enough, Water is reminiscent of Frank Ocean -- with the shadow voices, the sound of waves crashing in the background and the synth-pop beat, the song lies somewhere between Channel Orange and Blonde, which is obviously a good spot to be in. 
 
 ### God Is ###
 The sample in the background with the choir is really freaking nice. The melody is pretty sweet, and honestly we do vibe with some of the Jesus-centered lyrics, like: 
