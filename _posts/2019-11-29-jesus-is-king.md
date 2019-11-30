@@ -22,7 +22,7 @@ All in all, it’s a good Kanye song.
 ### Follow God ###
 The intro that Kanye samples:
 
-> Father, I stretch
+> Father, I stretch <br>
 > Stretch my hands to You
 
 from the 1974 song [“Can You Lose by Following God”](https://www.youtube.com/watch?v=AgsK5xpzT90) is *fire* and refreshing and very Classic Kanye. It’s intermittent appearance throughout the verse in the rest of the song is really, really nice as well. Kanye repeats a quickly spliced single-syllable (“*Yeah”)* over and over along with a fast-paced beat and you can’t help but bop your head along with it even though you’re not 100% sure what exactly he’s actually saying. 
@@ -33,10 +33,10 @@ The lyric that stands out the most: “Arguing with my dad, and he said ‘It ai
 Never thought it’d come to this, but yeah a Kanye song sucks. Closed on Sunday sucks, it’s trash, it’s the [Hot Shower](https://musicalculinarists.github.io/2019-07-28-the-big-day/) of [The Big Day](https://musicalculinarists.github.io/2019-07-28-the-big-day/) with shittier lyrics, it’s probably what Shawn Mendes would sound like if Shawn Mendes went into rap. 
 Like, look at this: 
 
-> Closed on Sunday, you're my Chick-fil-A
-> Closed on Sunday, you my Chick-fil-A
-> Hold the selfies, put the 'Gram away
-> Get your family, y'all hold hands and pray
+> Closed on Sunday, you're my Chick-fil-A <br>
+> Closed on Sunday, you my Chick-fil-A <br>
+> Hold the selfies, put the 'Gram away <br>
+> Get your family, y'all hold hands and pray 
 
 Is this the greatest living human artist of all time? Is this this generation’s closest thing to Einstein?
 Nah, it’s just a straight up disappointment. Unless you want to hear Kanye murmur-rapping the same annoying line over and over again while a generic beat loops in the background, don’t bother with this one. 
@@ -59,12 +59,12 @@ Kanye does go the whole God is Great™, Jesus Is Our Saviour™, I Have No Narr
 The sample in the background with the choir is really freaking nice. The melody is pretty sweet, and honestly we do vibe with some of the Jesus-centered lyrics, like: 
 
 
-> You won’t ever be the same when you call on Jesus name
+> You won’t ever be the same when you call on Jesus name <br>
 
 and:
 
-> I know God is the force that pick me up
-> I know Christ is the fountain that fill my cup
+> I know God is the force that pick me up <br>
+> I know Christ is the fountain that fill my cup <br>
 > I know God is alive
 
 Super not sold on Kanye’s falsetto and hoarsed-out voice on the track—it just feels like he’s singing through a sore throat and reduces the strength of the Jesus Revelation Emotions you get from the track. 
