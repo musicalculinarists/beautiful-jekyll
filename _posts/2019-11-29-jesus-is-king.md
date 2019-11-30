@@ -7,8 +7,9 @@ subtitle: A track-by-track review of your mother's favorite Kanye album.
 
 After an entire *year* of us asking: “Where’s Yandhi?”, Kanye West’s 9th solo album is finally here. But it’s, um, not Yandhi.  Enter JESUS IS KING.
 
-![Here it is, folks.](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575068181813_image.png)
-
+{: .caption :}
+![](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575068181813_image.png)
+Here it is folks.
 
 ### Every Hour ###
 Every Hour really reminds us that *Kanye* might actually be played in churches from here on out. The Sunday Service Choir, as has already been established, is damn talented, which makes Every Hour a reall good song despite the lack of Kanye, as in Kanye’s voice, on it. Yeah, there’s no intricate production or complexity to the song, and the lyrics are pretty repetitive (it’s just “Sing ‘til the power of the Lord comes down”, but it’s a certified riding-to-church-with-Grandma™ kind of bop.
@@ -52,8 +53,9 @@ I can’t take this.
 ### Water ### 
 If this song was a color, it’d be the bright blue of a hotel swimming pool. Water’s beat is super summery, and if I still lived in California and it was more than 70º outside, this baby would be on repeat.
 
-![Kanye’s water in a picture.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzGwuv1Y8s_B1JsFBFqLcZ0hiQb8-D6BHInio4uz4K4ihpnOSyA&s)
-
+{: .caption :}
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzGwuv1Y8s_B1JsFBFqLcZ0hiQb8-D6BHInio4uz4K4ihpnOSyA&s)
+Kanye's Water in a picture.
 
 Kanye does go the whole God is Great™, Jesus Is Our Saviour™, I Have No Narrative or Complexity in my Lyrics™ route, but the production of the song more than makes up for it. Weirdly enough, Water is reminiscent of Frank Ocean -- with the shadow voices, the sound of waves crashing in the background and the synth-pop beat, the song lies somewhere between Channel Orange and Blonde, which is obviously a good spot to be in. 
 
@@ -78,8 +80,9 @@ Nah. It’s sub-par lyrics over a semi-cool but repetitive sci-fi-esque backgrou
 ### Use This Gospel ###
 The beat of this song is primarily based on a repetitive chiming sound, with distorted choir vocals and Kanye’s singing layered over it. It’s—like, it’s fine, you know? Definitely improves throughout the song as it builds on itself a bit more and the vibe of the song grows more powerful, but Kanye has done better. There’s a Kenny G sax solo towards the end, which is cool, and after that fades out Kanye goes back to the old chiming and distorted harmonizing beat, except this time there is an actual like, drumline added to it and someone (not sure who) ad-libbing “work” in the background—would’ve liked if this “fully realized” beat was used throughout the entire song and not just in the last 25 seconds or so. 
 
-![But also wear condoms, kids. No glove, no love.](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575070589223_yrf090dblkv31.png)
-
+{: .caption :}
+![](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575070589223_yrf090dblkv31.png)
+For use as a condom supplement. No glove, no love, kids.
 
 ### Jesus is Lord ###
 It’s only 49 seconds, but the horns in the background are fire and Kanye’s “Only One” reminiscent vocals actually add quite a sweetness to it. Would’ve been more interesting to see it developed as a full song, but it’s not a bad outro at all. 
