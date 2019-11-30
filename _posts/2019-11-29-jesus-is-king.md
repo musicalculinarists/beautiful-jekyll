@@ -48,7 +48,6 @@ But the song is also really really frustrating, because it feels like such a mis
 ### Everything We Need ###
 A version of Everything We Need was originally on Yandhi as “The Storm”. See [this leak](https://soundcloud.com/user-499554542/yandhi-kanye-west-the-storm-instrumental). Ty Dolla $ign’s chorus (“We began after the storm inside…”) and the refrain “We have everything we need”, is like—fine, but I just *can’t* take the ad-libs. The high-pitched “woo”s and “ooh”s, liberally applied in the background, spark some deep-seated sense of cringe and stress and displeasure within. I’m sorry, but it’s literally enough to ruin the entire song. 
 
-I can’t take this. 
 
 ### Water ### 
 If this song was a color, it’d be the bright blue of a hotel swimming pool. Water’s beat is super summery, and if I still lived in California and it was more than 70º outside, this baby would be on repeat.
