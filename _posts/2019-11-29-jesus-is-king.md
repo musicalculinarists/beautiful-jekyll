@@ -53,10 +53,6 @@ I can’t take this.
 ### Water ### 
 If this song was a color, it’d be the bright blue of a hotel swimming pool. Water’s beat is super summery, and if I still lived in California and it was more than 70º outside, this baby would be on repeat.
 
-{: .caption :}
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzGwuv1Y8s_B1JsFBFqLcZ0hiQb8-D6BHInio4uz4K4ihpnOSyA&s)
-Kanye's Water in a picture.
-
 Kanye does go the whole God is Great™, Jesus Is Our Saviour™, I Have No Narrative or Complexity in my Lyrics™ route, but the production of the song more than makes up for it. Weirdly enough, Water is reminiscent of Frank Ocean -- with the shadow voices, the sound of waves crashing in the background and the synth-pop beat, the song lies somewhere between Channel Orange and Blonde, which is obviously a good spot to be in. 
 
 ### God Is ###
@@ -82,7 +78,7 @@ The beat of this song is primarily based on a repetitive chiming sound, with dis
 
 {: .caption :}
 ![](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575070589223_yrf090dblkv31.png)
-For use as a condom supplement. No glove, no love, kids.
+"Use this gospel for protection."
 
 ### Jesus is Lord ###
 It’s only 49 seconds, but the horns in the background are fire and Kanye’s “Only One” reminiscent vocals actually add quite a sweetness to it. Would’ve been more interesting to see it developed as a full song, but it’s not a bad outro at all. 
