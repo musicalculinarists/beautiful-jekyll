@@ -2,10 +2,9 @@
 layout: post
 tags: [review]
 title: JESUS IS KING
-subtitle: A track-by-track review of Kanye West's newest album.
+subtitle: A track-by-track review of your mother's favorite Kanye album.
 ---
 
-# JESUS IS KING 
 After an entire *year* of us asking: “Where’s Yandhi?”, Kanye West’s 9th solo album is finally here. But it’s, um, not Yandhi.  Enter JESUS IS KING.
 
 ![](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575068181813_image.png)
