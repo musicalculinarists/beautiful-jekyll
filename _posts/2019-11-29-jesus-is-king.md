@@ -7,7 +7,7 @@ subtitle: A track-by-track review of your mother's favorite Kanye album.
 
 After an entire *year* of us asking: “Where’s Yandhi?”, Kanye West’s 9th solo album is finally here. But it’s, um, not Yandhi.  Enter JESUS IS KING.
 
-![](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575068181813_image.png)
+![Here it is, folks.](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575068181813_image.png)
 
 
 ### Every Hour ###
@@ -78,7 +78,7 @@ Nah. It’s sub-par lyrics over a semi-cool but repetitive sci-fi-esque backgrou
 ### Use This Gospel ###
 The beat of this song is primarily based on a repetitive chiming sound, with distorted choir vocals and Kanye’s singing layered over it. It’s—like, it’s fine, you know? Definitely improves throughout the song as it builds on itself a bit more and the vibe of the song grows more powerful, but Kanye has done better. There’s a Kenny G sax solo towards the end, which is cool, and after that fades out Kanye goes back to the old chiming and distorted harmonizing beat, except this time there is an actual like, drumline added to it and someone (not sure who) ad-libbing “work” in the background—would’ve liked if this “fully realized” beat was used throughout the entire song and not just in the last 25 seconds or so. 
 
-![](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575070589223_yrf090dblkv31.png)
+![But also wear condoms, kids. No glove, no love.](https://paper-attachments.dropbox.com/s_DC3E6EF1FB2C12D984D8F62B9A6AC596F5E7A5C26449ABC6A34A324C8D554E58_1575070589223_yrf090dblkv31.png)
 
 
 ### Jesus is Lord ###
