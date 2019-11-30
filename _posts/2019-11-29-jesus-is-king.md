@@ -85,7 +85,7 @@ It’s only 49 seconds, but the horns in the background are fire and Kanye’s �
 
 ## Overall Thoughts:
 
-It’s not that it’s *bad*. If you compare it on an absolute scale to most of the music that’s released, it’s like, fairly solid and it has its moments. Hell, if some other artist we hadn’t heard of before released this we’d be impressed. But I mean, this is Kanye West we’re talking about. He made *My Beautiful Dark Twisted Fantasy.* **We have higher standards for him. And this just isn’t up to par. 
+It’s not that it’s *bad*. If you compare it on an absolute scale to most of the music that’s released, it’s like, fairly solid and it has its moments. Hell, if some other artist we hadn’t heard of before released this we’d be impressed. But I mean, this is Kanye West we’re talking about. He made *My Beautiful Dark Twisted Fantasy.* **We have higher standards for him. And this just isn’t up to par. **
 
 ## Recommended: ##
 [**NOT YANDHI**](https://www.youtube.com/watch?v=JHT72riQKD8)
