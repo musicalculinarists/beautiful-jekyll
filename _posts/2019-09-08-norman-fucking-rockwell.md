@@ -11,7 +11,7 @@ subtitle: We're giving you the play-by-play of Lana Del Rey's sixth studio album
 ## First, the track by track review. 
 
 ### Norman fucking Rockwell 
-Probably my favorite track on the album. The strings in the background feel so cinematic and the piano feels so reminiscent of the past and Hollywood-hotel baby grand! The lyrics are as good as Lana always know how to make them:
+Probably my favorite track on the album. The strings in the background feel so cinematic, the piano reminiscent of the past and Hollywood-hotel baby grand, and the lyrics are as good as Lana always knows how to make them:
 
 
 > Your poetry’s bad and you blame the news<br> 
@@ -22,11 +22,11 @@ Probably my favorite track on the album. The strings in the background feel so c
 
 
 > Self-loathing poet, resident Laurel Canyon know-it-all<br> 
-> You talk the walls when the party gets bored of you<br> 
+> You talk to the walls when the party gets bored of you<br> 
 > But I don’t get bored, I just see it through<br> 
 > Why wait for the best when I could have you? 
 
-The melody is also just so well done, and Lana’s voice soars with the flooding of the chorus and the way the song builds up is so good. Also the subtle horns going on with the production and as a closer to the song are so lovely. I all feels like you’re blowing through some warm summertime past, and I don’t know man, it’s just so good. 
+The melody is also just so well done, and Lana’s voice soars with the flooding of the chorus and the way the song builds up is so good. Also the subtle horns going on with the production and as a closer to the song are so lovely. It all feels like you’re blowing through some warm summertime past, and I don’t know man, it’s just so good. 
 
 {: .box-note} 
 Listen to it!
