@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [review]
-title: Moses Sumney’s græ: Part 1
+title: Moses Sumney’s græ&#58 Part 1
 subtitle: COMPLETELY not in response to the recent influx of PEER PRESSURE regarding our lack of posts, here is a review of the first half of Moses Sumney’s double album, græ.
 ---
 
