@@ -99,7 +99,7 @@ It's good, but I wish it was Me in 20 Years!
 ### BUT (NOT AS GOOD):
 
 - There are a lot of “tricks” in this album (you can see it in the song titles lmao), spikes that make it interesting—and the album *sounds* good—but it doesn’t actually feel *new.* There’s not really anything that’s truly like: I’ve never heard of that before. Like, I appreciate the effort, but—there’s crazier music out there, you know? Kai Whiston’s 2018 album, *Kai Whiston Bitch.* Everything by the anonymous and unknowable and d e e p l y u n d e r g r o u n d [JAPA_KNEES](https://soundcloud.com/japa_knees). And I say this SO much that I should be banned from saying it ever again, but: Yeezus was ahead of its time.
-    - TLDR; the album feels like it’s trying to be e x p e r i m e n t a l more than it is a real experiment.
+    - **TLDR;** the album feels like it’s trying to be e x p e r i m e n t a l more than it is a real experiment.
         - But also it’s 8:16pm on Super Tuesday and I also apparently really like Rex Orange County now (it IS a phase, I swear), so what do I really know?
 - It also runs into the vibe differentiation problem, but that’s nonunique, almost.
 
