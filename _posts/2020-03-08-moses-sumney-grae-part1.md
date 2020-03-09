@@ -10,7 +10,7 @@ subtitle: COMPLETELY not in response to the recent influx of PEER PRESSURE regar
 ## Track-by-track review:
 
 ### insula
-Hot (?) take:  I *love* this intro track. This is the ending to a sci-fi film more than an album opener, like the literal sonic EMBODIMENT of films like *Ex-Machina* and *2001: A Space Odyssey* (disclaimer: I’ve never actually watched this movie) **and *Interstellar.* It makes you SO excited for the rest of the album.
+Hot (?) take:  I *love* this intro track. This is the ending to a sci-fi film more than an album opener, like the literal sonic EMBODIMENT of films like *Ex-Machina* and *2001: A Space Odyssey* (disclaimer: I’ve never actually watched this movie) and *Interstellar.* It makes you SO excited for the rest of the album.
 
 {: .box-note}
 Ex-Machina, in the best way possible.
@@ -21,7 +21,7 @@ Everything about this song makes me fall in love. It’s my favorite song off th
 Just—the subtle horns and guitar string plucking (I think?) in the background, the blend of Moses Sumney’s voice (ethereal and light as always) but also the *boppiness* and *jazziness* of it all. It’s stripped down and yet it’s not, at all.
   
 
-But more than the technical elements of the song itself—there’s just a feeling to it. Like usually when I listen to music it takes repeats to process the song. *Would That I* by Hozier is now one of my favorite songs of all time, OF ALL TIME, but I remember the first time I heard it I didn’t really think much of it. Cut Me is one of the few songs that on the first round through, I was like—whoa. I *feel* this. I’m experiencing an emotion that I’ve been waiting to feel, but I can’t even name. It’s like—I heard Cut Me and I already loved it even when I was hearing it for the first time in that present moment? If that makes any sense.
+But more than the technical elements of the song itself—there’s just a feeling to it. Like usually when I listen to music it takes repeats to process the song. [*Would That I*](https://open.spotify.com/track/37zuIvk4KBkAxxLJsxJaHq?si=VA2caY34Rkmx6Hp4eJURZg) by Hozier is now one of my favorite songs of all time, OF ALL TIME, but I remember the first time I heard it I didn’t really think much of it. Cut Me is one of the few songs that on the first round through, I was like—whoa. I *feel* this. I’m experiencing an emotion that I’ve been waiting to feel, but I can’t even name. It’s like—I heard Cut Me and I already loved it even when I was hearing it for the first time in that present moment? If that makes any sense.
 
 {: .box-note}
 Has me in love.
@@ -35,7 +35,7 @@ Moses Sumney, you already know your voice is like heaven! This song has the same
 Solid track.
 
 ### Virile
-The opening strings immediately took me to a Cosmic-Love-Florence-and-the-Machine type beat, except the vocals are very serpentwithfeet.  Then the song bangs into something more energetic, with DRUMS and still the same floating vocals but it’s got a JAM to it, percussion and distorted noises and you feel it, yeah? The melody could be better, and lyrics a bit more discernible, but it’s good for the vibes. Also, the little humming note of harmonizations at the end, when instrumental briefly takes a break, is *so* charming. 
+The opening strings immediately took me to a [Cosmic-Love-Florence-and-the-Machine](https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol?si=eW-2b19cRyGPgXbXmGdZ7w) type beat, except the vocals are very serpentwithfeet.  Then the song bangs into something more energetic, with DRUMS and still the same floating vocals but it’s got a JAM to it, percussion and distorted noises and you feel it, yeah? The melody could be better, and lyrics a bit more discernible, but it’s good for the vibes. Also, the little humming note of harmonizations at the end, when instrumental briefly takes a break, is *so* charming. 
 
 {: .box-note}
 I swooned!
@@ -78,13 +78,13 @@ One of the lovelier ones!
 Again, hard to say anything because it’s not a song so much as an experiment, but yeah.
 
 ### Neither/nor
-Okay, I think this song has moments of loveliness. In the seconds before the 1:55 mark, we’ve been so far hearing a classic t h i s i s a h y m n type song, strings and Moses Sumney’s voice and all, but you begin to hear a subtle thudding beat in the background, like a drum, and you hear an almost EDM/techno infusion; for a second there, I was convinced the song was going to become something like Anderson .Paak’s Get Em Up, and it would’ve been amazing and gravitational and explosive! But alas, it vibe-switches to a bopping, stripped, jazzy kind of thing. Another vibe-switch at 2:25 onwards, as it becomes less about the bop of the instrumentals in the background and more about the melody. It’s just–like, objectively pretty good, but again. Very similar to other stuff on the album and I feel like it could’ve gone in a better direction.
+Okay, I think this song has moments of loveliness. In the seconds before the 1:55 mark, we’ve been so far hearing a classic t h i s i s a h y m n type song, strings and Moses Sumney’s voice and all, but you begin to hear a subtle thudding beat in the background, like a drum, and you hear an almost EDM/techno infusion; for a second there, I was convinced the song was going to become something like [Anderson .Paak’s Get Em Up](https://open.spotify.com/track/6kk47BIRgA2MrQSVtZynwU?si=Gq6p1FWDQnSHroB_gGigWQ), and it would’ve been amazing and gravitational and explosive! But alas, it vibe-switches to a bopping, stripped, jazzy kind of thing. Another vibe-switch at 2:25 onwards, as it becomes less about the bop of the instrumentals in the background and more about the melody. It’s just–like, objectively pretty good, but again. Very similar to other stuff on the album and I feel like it could’ve gone in a better direction.
 
 {: .box-warning}
 It has potential, but it's untapped.
 
 **Polly**
-One of the singles to come out before the album, it’s a bit more subdued and a bit less “quirky” than some of the other tracks on the album. The atmosphere of it is really, really similar to Me in 20 Years—with, imo, a worse melody and less transcendence. It’s not that it’s a bad song, just given its adjacency to Me in 20 Years (which I loved) it’s hard not to be like: why *this* song, on this album?
+One of the singles to come out before the album, it’s a bit more subdued and a bit less “quirky” than some of the other tracks on the album. The atmosphere of it is really, really similar to [Me in 20 Years](https://open.spotify.com/track/2lGP9qlQomGTxxUSAPP3JJ?si=Xyydv2REQzqQ57ba0aRvcA)—with, imo, a worse melody and less transcendence. It’s not that it’s a bad song, just given its adjacency to Me in 20 Years (which I loved) it’s hard not to be like: why *this* song, on this album?
 
 {: .box-warning}
 It's good, but I wish it was Me in 20 Years!
@@ -93,8 +93,8 @@ It's good, but I wish it was Me in 20 Years!
 
 ### GOOD STUFF:
 
-- It reminds me of serpentwithfeet’s *soil* in some ways (though I’d argue it’s a bit less out there / interesting sonically)–and comparing any album to *soil* is an extremely high compliment, so that means something. Speaking of, if you haven’t listened to *soil*, LISTEN to soil, because that album is—impossible to turn away from and impossible to dislike. It’s an album that’s about love in the way not much music seems to be anymore—love in a way that’s devotional and single-minded and obsessive and probably unhealthy in that it’s more like religion than a functional relationship but goddamn does it make for good fucking music.
-- It’s undeniably, a good effort. It reminds me a lot, of the top of my head, of Bon Iver’s *i,i* and Roy Blair’s EP GRAFFITI in that there’s an obvious effort to be interesting and to do new stuff in terms of production.
+- It reminds me of [serpentwithfeet’s *soil*](https://open.spotify.com/album/0lYJfrAdIT65115h0CWoAg) in some ways (though I’d argue it’s a bit less out there / interesting sonically)–and comparing any album to *soil* is an extremely high compliment, so that means something. Speaking of, if you haven’t listened to *soil*, LISTEN to soil, because that album is—impossible to turn away from and impossible to dislike. It’s an album that’s about love in the way not much music seems to be anymore—love in a way that’s devotional and single-minded and obsessive and probably unhealthy in that it’s more like religion than a functional relationship but goddamn does it make for good fucking music.
+- It’s undeniably, a good effort. It reminds me a lot, of the top of my head, of Bon Iver’s [*i,i*](https://musicalculinarists.github.io/2019-08-16-i-i/) and Roy Blair’s EP [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) in that there’s an obvious effort to be interesting and to do new stuff in terms of production.
 
 ### BUT (NOT AS GOOD):
 
