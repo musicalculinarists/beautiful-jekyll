@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Our Favorite Music Videos
-subtitle: That’s right, we can talk about more than just the songs themselves. Did you know that we made a** [**movie**](https://www.youtube.com/watch?v=4URMxcg7yQE&t=764s)**?**
+subtitle: That’s right, we can talk about more than just the songs themselves. Did you know that we made a movie?
 ---
+{% include vimeoPlayer.html id=page.vimeoId %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 **ALL YOUR WORDS — JIL**
-****
-https://player.vimeo.com/video/327269224
-
-
-[https://vimeo.com/327269224](https://vimeo.com/327269224)
+---
+vimeoID: 327269224
+---
 
 I could write an essay on this music video. Hell, I *am* writing an essay on this music video. The essay is titled *Why I Watched the Music Video for All Your Words by JIL Every Night Before I Go To Bed;* here goes. 
 One, it’s got representation. We’ve got some good women loving women stuff going on here, which is important and beautiful and really exciting. Women are great, women loving women is even greater. 
