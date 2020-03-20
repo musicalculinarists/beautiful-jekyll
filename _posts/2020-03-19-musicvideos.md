@@ -51,7 +51,7 @@ And this short, in particular—who else can so perfectly capture the nostalgia 
 This video gives a meaning to *Myth* by Beach House that wouldn’t exist otherwise. It’s pure feeling, reminiscence and distance from the past, and I love it so much. 
 
 ## Raveena - Mama
-{% include vimeoPlayer.html id=335188484 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8yj94iCywU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Wanna make me cry? Play this song! Everytime I hear Raveena croon “What kind of tears did you cry on your wedding day?” I lose it. This song is the song that grounds me, that reminds me of how much my mother gave for me to be here, for me to be happy and healthy and well-fed and safe. So yeah, I tear up— fight me. 
 
 To add on: Yeah facts. Like, the experience of being the first generation to grow up in America and having immigrant parents isn’t without it’s ups and downs but like holy shit our parents did so fucking much for us to be here that it’s insane. Watching this video makes me think of all the old on-real-film ’90s photos of my mom and dad on the East Coast. How my parents moved here and went to grad school and lived in New York and left their entire families behind. All so I could just like vibe in America and grow up not really worrying about anything except my own teen angst, you know? There’s a fuck ton to be grateful for. 
