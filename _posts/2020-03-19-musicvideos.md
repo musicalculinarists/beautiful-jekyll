@@ -1,5 +1,8 @@
-# OUR FAVORITE MUSIC VIDEOS
-**That’s right, we can talk about more than just the songs themselves. Did you know that we made a** [**movie**](https://www.youtube.com/watch?v=4URMxcg7yQE&t=764s)**?**
+---
+layout: post
+title: Our Favorite Music Videos
+subtitle: That’s right, we can talk about more than just the songs themselves. Did you know that we made a** [**movie**](https://www.youtube.com/watch?v=4URMxcg7yQE&t=764s)**?**
+---
 
 **ALL YOUR WORDS — JIL**
 ****
