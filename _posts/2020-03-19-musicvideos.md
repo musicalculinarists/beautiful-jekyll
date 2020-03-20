@@ -4,7 +4,7 @@ title: Our Favorite Music Videos
 subtitle: That’s right, we can talk about more than just the songs themselves. Did you know that we made a movie?
 ---
 
-**ALL YOUR WORDS — JIL**
+## ALL YOUR WORDS — JIL
 {% include vimeoPlayer.html id=327269224 %}
 Four reasons why this music video slaps:
 
@@ -13,35 +13,36 @@ Two, it’s by my favorite music video director/producer/editor [Anton Tammi](ht
 Three, the music video is a goddamn art-piece. Tammi is the god of freeze frames. See: 3:09 — where a kiss transforms into a spark from a cigarette, transforms into the light of a motorcycle in the smoothest, butteriest way. His other good freeze frames: a window into a coffee cup at 4:52 and a crystal ball into a motorcycle helmet at 2:44. Tammi also makes use of cool effects without going over the top (see: the shadow at 3:36, the heart beats at 4:18). And the color grading, ugh, *the color grading*. If his color grading doesn’t scream lesbian rendezvous in a high-tech low-life post-apocalyptic world … what does?
 Finally, it’s got a nice, ambiguous story, the type of story music videos need. I’m not giving away any spoilers, but here are some hints: Wig, no wig? Red. Drugs. 
 
-**SIAMÉS - Mr. FEAR**
+## SIAMÉS - Mr. FEAR
 {% include youtubePlayer.html id=EKLWC93nvAU %}
 The animation style, the inking and the color palette (following the laws of cool and warm tones an dark and light), the character design, just the overall aesthetic. The way the storytelling plays with panels—see 1:43 onwards, or 2:42 to 3:22—is so brilliant. The music itself is incidental, honestly. It’s just the soundtrack for a lovely, lovely work of animation. 
 
-**Monsune - OUTTA MY MIND**
+## Monsune - OUTTA MY MIND
 
 {% include youtubePlayer.html id=SjgMmo6_DH0 %}
 
 We mentioned this in our [post about MOUNTAIN by Monsune](https://musicalculinarists.github.io/2019-11-29-mountain/) before—but it’s worth saying again. This video is gorgeous—it’s all filmed in one long tracking shot that just doesn’t quit, and the color tone, and the humor—I’m in love. I mean, I was already in love with Monsune. The moment I saw the EP cover for Tradition my heart was taken away, and then I actually *listened* to the EP and I felt like my heart was collapsing into itself all at once. And then I saw the VIDEO for OUTTA MY MIND—what *can’t* this man do? 
 
-**Kendrick Lamar — Cartoons & Cereal**
+## Kendrick Lamar — Cartoons & Cereal
 
 {% include youtubePlayer.html id=qbbQb9bEcDQ %}
 This isn’t an official music video, it isn’t even an official song. It’s just a bunch of clips of cartoons, pieced together in a *really* good way, that this random kid on the internet made for one of Kendrick Lamar’s most underrated works. 
 
-**A$AP Rocky - Kids Turned Out Fine**
+## A$AP Rocky - Kids Turned Out Fine
 
 {% include vimeoPlayer.html id=316967796 %}
 **This is the music video of all music videos, folks.** 
 It’s also probably the music video that got us into music videos, so thank you for that A$AP.
 The first half of the video is a series of still shots of kids and teens and families, some sunny and nostalgic, some bordering on insane, all on the same bright backdrop. I think it portrays the complex relationship a lot of us have with our childhood memories, where both the messed up and the beautiful intertwine. A$AP throws a few loops in there that elevate the music video to more than just this aesthetic slideshow, though. In the coolest switch up on this doc, the still frame of A$AP at 2:56 transforms into a — wait, we won’t spoil it for you. Just watch the video and get educated on what a *real* music looks like.
 
-**BROCKHAMPTON — This is Dominic Fike (**a music video for 3 Nights by Dominic Fike)
+## BROCKHAMPTON — This is Dominic Fike 
+(a music video for 3 Nights by Dominic Fike)
 
 {% include youtubePlayer.html id=sMYcubNOrPs %}
 This isn’t the official music video for Dominic Fike’s *3 Nights*, but it should be. *3 Nights* a basic banger in the best sense of the word. No special effects, or fancy lyrics, or crazy drops, it’s just a good song — easy to love. 
 The best word I could use to describe this video is *self-aware* (and I adore it for that). It starts with an interview of Dominic Fike, then we follow along with The Boys™ (i.e BROCKHAMPTON) as they work through a video for the song. Throughout the video, someone behind the camera yells some sort of instruction, like “Sing here!”, or “You’re good, keep going!”, and these little bits made the video so much more genuine. Typically, when you see these nostalgia-inducing music videos on grainy film, they’re a bit contrived, they’re *made* to seem like memories, but we know they’re not the memories themselves. That’s why, I like the way BROCKHAMPTON and Fike approached this vid, where the memory is the making of the music video itself. Watching *This is Dominic Fike* felt like we were back on the set of [Birdsong](https://www.youtube.com/watch?v=4URMxcg7yQE) (the greatest movie ever made) fucking around with shots and scenes and our minds to make a little something for the people. It’s a good feeling.
 
-**NIIGHT - Good Old Days**
+## NIIGHT - Good Old Days
 (a music video for Myth by Beach House)
 {% include youtubePlayer.html id=hOsy7jmj-PE %}
 Justin Kaminuma (NIIGHT on YouTube) is the love of my life, and I’ve never even met him and I never will. I love all the videos he makes so much, the aesthetic and the music and the way it’s just a feeling. Like!! The only reason I was ever into making videos / film at all was because I watched [this video of his](https://www.youtube.com/watch?v=A9Yjp1D7t6o).
@@ -50,7 +51,7 @@ And this short, in particular—who else can so perfectly capture the nostalgia 
 
 This video gives a meaning to *Myth* by Beach House that wouldn’t exist otherwise. It’s pure feeling, reminiscence and distance from the past, and I love it so much. 
 
-**Raveena - Mama**
+## Raveena - Mama
 {% include vimeoPlayer.html id=335188484 %}
 Wanna make me cry? Play this song! Everytime I hear Raveena croon “What kind of tears did you cry on your wedding day?” I lose it. This song is the song that grounds me, that reminds me of how much my mother gave for me to be here, for me to be happy and healthy and well-fed and safe. So yeah, I tear up— fight me. 
 
@@ -64,13 +65,13 @@ The video perfectly interlaces clear cut scenes of different mothers or mother-f
 
 Also, Raveena is so! Insanely! Beautiful! 
 
-**Somewhere Else - Uh Huh**
+## Somewhere Else - Uh Huh
 
 {% include vimeoPlayer.html id=327270930 %}
 
 See above for description of Anton Tammi. It’s a good video. I love cowboys and cowboys of color, and dancing, and good editing, and cool effects. This baby gives it all. 
 
-**Frank Ocean - ‘Nikes’**
+## Frank Ocean - Nikes
 
 {% include vimeoPlayer.html id=179791907 %}
 
