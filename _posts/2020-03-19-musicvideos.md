@@ -5,7 +5,8 @@ subtitle: That’s right, we can talk about more than just the songs themselves.
 ---
 
 ## ALL YOUR WORDS — JIL
-{% include vimeoPlayer.html id=327269224 %}
+<iframe src="https://www.youtube.com/watch?v=Yj5MlgUpODo"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+
 The four reasons why this music video slaps:
 
 One, it’s got representation. We’ve got some good women loving women stuff going on here, which is important and beautiful and really exciting. Women are great, women loving women is even greater. 
@@ -32,7 +33,8 @@ This isn’t an official music video, it isn’t even an official song. It’s j
 
 ## A$AP Rocky - Kids Turned Out Fine
 
-{% include vimeoPlayer.html id=316967796 %}
+<iframe src="https://www.youtube.com/watch?v=FUQI-o02JYU"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+
 **This is the music video of all music videos, folks.** 
 It’s also probably the music video that got us into music videos, so thank you for that A$AP.
 The first half of the video is a series of still shots of kids and teens and families, some sunny and nostalgic, some bordering on insane, all on the same bright backdrop. I think it portrays the complex relationship a lot of us have with our childhood memories, where both the messed up and the beautiful intertwine. A$AP throws a few loops in there that elevate the music video to more than just this aesthetic slideshow, though. In the coolest switch up on this doc, the still frame of A$AP at 2:56 transforms into a — wait, we won’t spoil it for you. Just watch the video and get educated on what a *real* music looks like.
@@ -72,7 +74,7 @@ Also, Raveena is so! Insanely! Beautiful!
 
 ## Somewhere Else - Uh Huh
 
-{% include vimeoPlayer.html id=327270930 %}
+<iframe src="https://www.youtube.com/watch?v=1ecj6CCGKaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
 See above for description of Anton Tammi. It’s a good video. I love cowboys and cowboys of color, and dancing, and good editing, and cool effects. This baby gives it all. 
 
