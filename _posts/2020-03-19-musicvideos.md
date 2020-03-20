@@ -6,7 +6,7 @@ subtitle: That’s right, we can talk about more than just the songs themselves.
 
 ## ALL YOUR WORDS — JIL
 {% include vimeoPlayer.html id=327269224 %}
-Four reasons why this music video slaps:
+The four reasons why this music video slaps:
 
 One, it’s got representation. We’ve got some good women loving women stuff going on here, which is important and beautiful and really exciting. Women are great, women loving women is even greater. 
 Two, it’s by my favorite music video director/producer/editor [Anton Tammi](http://antontammi.com/). His work is incredible, he made the Uh Huh music video below, and most recently directed The Weeknd’s short film [After Hours](https://www.youtube.com/watch?v=I1BfoRR-ST8) (it’s also a really good video — although the [teaser](https://www.youtube.com/watch?v=oq9AgxHvGjw) for it is cooler than the real thing). If this apocalypse thing keeps happening, I think I’m gonna cold email the man and ask to help edit his videos. The official game plan is to become a white-water river rafting guide and then in my spare time with the wee bit of wi-fi I can find in the Wyoming mountains I’ll slave away on Final Cut Pro (or whatever he uses — magic?), learning from the master the ways of music and movies and art. 
