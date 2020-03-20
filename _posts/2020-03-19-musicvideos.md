@@ -3,8 +3,6 @@ layout: post
 title: Our Favorite Music Videos
 subtitle: That’s right, we can talk about more than just the songs themselves. Did you know that we made a movie?
 ---
-{% include vimeoPlayer.html id=327269224 %}
-{% include youtubePlayer.html id=page.youtubeId %}
 
 **ALL YOUR WORDS — JIL**
 {% include vimeoPlayer.html id=327269224 %}
@@ -15,10 +13,7 @@ Three, the music video is a goddamn art-piece. Tammi is the god of freeze frames
 Finally, it’s got a nice, ambiguous story, the type of story music videos need. I’m not giving away any spoilers, but here are some hints: Wig, no wig? Red. Drugs. 
 
 **SIAMÉS - Mr. FEAR**
-
-https://www.youtube.com/watch?v=EKLWC93nvAU&
-
-
+{% include youtubePlayer.html id=EKLWC93nvAU %}
 [https://youtu.be/EKLWC93nvAU](https://youtu.be/EKLWC93nvAU)
 The animation style, the inking and the color palette (following the laws of cool and warm tones an dark and light), the character design, just the overall aesthetic. The way the storytelling plays with panels—see 1:43 onwards, or 2:42 to 3:22—is so brilliant. The music itself is incidental, honestly. It’s just the soundtrack for a lovely, lovely work of animation. 
 
