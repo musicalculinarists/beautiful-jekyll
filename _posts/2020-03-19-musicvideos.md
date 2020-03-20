@@ -19,12 +19,14 @@ Finally, it’s got a nice, ambiguous story, the type of story music videos need
 The animation style, the inking and the color palette (following the laws of cool and warm tones an dark and light), the character design, just the overall aesthetic. The way the storytelling plays with panels—see 1:43 onwards, or 2:42 to 3:22—is so brilliant. The music itself is incidental, honestly. It’s just the soundtrack for a lovely, lovely work of animation. 
 
 ## Monsune - OUTTA MY MIND
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SjgMmo6_DH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/SjgMmo6_DH0"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+
 
 We mentioned this in our [post about MOUNTAIN by Monsune](https://musicalculinarists.github.io/2019-11-29-mountain/) before—but it’s worth saying again. This video is gorgeous—it’s all filmed in one long tracking shot that just doesn’t quit, and the color tone, and the humor—I’m in love. I mean, I was already in love with Monsune. The moment I saw the EP cover for Tradition my heart was taken away, and then I actually *listened* to the EP and I felt like my heart was collapsing into itself all at once. And then I saw the VIDEO for OUTTA MY MIND—what *can’t* this man do? 
 
 ## Kendrick Lamar — Cartoons & Cereal
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbbQb9bEcDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qbbQb9bEcDQ"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
 This isn’t an official music video, it isn’t even an official song. It’s just a bunch of clips of cartoons, pieced together in a *really* good way, that this random kid on the internet made for one of Kendrick Lamar’s most underrated works. 
 
@@ -38,13 +40,15 @@ The first half of the video is a series of still shots of kids and teens and fam
 ## BROCKHAMPTON — This is Dominic Fike 
 (a music video for 3 Nights by Dominic Fike)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sMYcubNOrPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/sMYcubNOrPs"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+
 This isn’t the official music video for Dominic Fike’s *3 Nights*, but it should be. *3 Nights* a basic banger in the best sense of the word. No special effects, or fancy lyrics, or crazy drops, it’s just a good song — easy to love. 
 The best word I could use to describe this video is *self-aware* (and I adore it for that). It starts with an interview of Dominic Fike, then we follow along with The Boys™ (i.e BROCKHAMPTON) as they work through a video for the song. Throughout the video, someone behind the camera yells some sort of instruction, like “Sing here!”, or “You’re good, keep going!”, and these little bits made the video so much more genuine. Typically, when you see these nostalgia-inducing music videos on grainy film, they’re a bit contrived, they’re *made* to seem like memories, but we know they’re not the memories themselves. That’s why, I like the way BROCKHAMPTON and Fike approached this vid, where the memory is the making of the music video itself. Watching *This is Dominic Fike* felt like we were back on the set of [Birdsong](https://www.youtube.com/watch?v=4URMxcg7yQE) (the greatest movie ever made) fucking around with shots and scenes and our minds to make a little something for the people. It’s a good feeling.
 
 ## NIIGHT - Good Old Days
 (a music video for Myth by Beach House)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hOsy7jmj-PE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/hOsy7jmj-PE"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+
 Justin Kaminuma (NIIGHT on YouTube) is the love of my life, and I’ve never even met him and I never will. I love all the videos he makes so much, the aesthetic and the music and the way it’s just a feeling. Like!! The only reason I was ever into making videos / film at all was because I watched [this video of his](https://www.youtube.com/watch?v=A9Yjp1D7t6o).
 
 And this short, in particular—who else can so perfectly capture the nostalgia of teenage summertime? Like, I watch this video, and I feel a longing for an adolescence I never even experienced. I remember summers on Cape Cod, cruising through redwood forests on an endless drive to nowhere with my friends, longboarding, snapbacks, hot dogs on the boardwalk, having nothing to do and not enough time all at once. In reality, I probably spent (most) of my teenage years mostly doing homework, worrying about college apps, and like, interning over the summers. But Good Old Days takes me to those moments in time where I belonged to another reality, instead, you know? I can suddenly recall that I did experience Summer Teenagerdom™—we all did. 
@@ -52,7 +56,8 @@ And this short, in particular—who else can so perfectly capture the nostalgia 
 This video gives a meaning to *Myth* by Beach House that wouldn’t exist otherwise. It’s pure feeling, reminiscence and distance from the past, and I love it so much. 
 
 ## Raveena - Mama
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U8yj94iCywU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/U8yj94iCywU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+
 Wanna make me cry? Play this song! Everytime I hear Raveena croon “What kind of tears did you cry on your wedding day?” I lose it. This song is the song that grounds me, that reminds me of how much my mother gave for me to be here, for me to be happy and healthy and well-fed and safe. So yeah, I tear up— fight me. 
 
 To add on: Yeah facts. Like, the experience of being the first generation to grow up in America and having immigrant parents isn’t without it’s ups and downs but like holy shit our parents did so fucking much for us to be here that it’s insane. Watching this video makes me think of all the old on-real-film ’90s photos of my mom and dad on the East Coast. How my parents moved here and went to grad school and lived in New York and left their entire families behind. All so I could just like vibe in America and grow up not really worrying about anything except my own teen angst, you know? There’s a fuck ton to be grateful for. 
