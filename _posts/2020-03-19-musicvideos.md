@@ -32,7 +32,7 @@ This isn’t an official music video, it isn’t even an official song. It’s j
 
 **A$AP Rocky - Kids Turned Out Fine**
 
-{% include youtubePlayer.html id=FUQI-o02JYU %}
+{% include vimeoPlayer.html id=316967796 %}
 [https://youtu.be/FUQI-o02JYU](https://youtu.be/FUQI-o02JYU)
 **This is the music video of all music videos, folks.** 
 It’s also probably the music video that got us into music videos, so thank you for that A$AP.
@@ -56,7 +56,7 @@ And this short, in particular—who else can so perfectly capture the nostalgia 
 This video gives a meaning to *Myth* by Beach House that wouldn’t exist otherwise. It’s pure feeling, reminiscence and distance from the past, and I love it so much. 
 
 **Raveena - Mama**
-{% include youtubePlayer.html id=U8yj94iCywU %}
+{% include vimeoPlayer.html id=335188484 %}
 [https://youtu.be/U8yj94iCywU](https://youtu.be/U8yj94iCywU)
 Wanna make me cry? Play this song! Everytime I hear Raveena croon “What kind of tears did you cry on your wedding day?” I lose it. This song is the song that grounds me, that reminds me of how much my mother gave for me to be here, for me to be happy and healthy and well-fed and safe. So yeah, I tear up— fight me. 
 
@@ -72,7 +72,7 @@ Also, Raveena is so! Insanely! Beautiful!
 
 **Somewhere Else - Uh Huh**
 
-{% include youtubePlayer.html id=1ecj6CCGKaw %}
+{% include vimeoPlayer.html id=327270930 %}
 
 [https://youtu.be/1ecj6CCGKaw](https://youtu.be/1ecj6CCGKaw)
 See above for description of Anton Tammi. It’s a good video. I love cowboys and cowboys of color, and dancing, and good editing, and cool effects. This baby gives it all. 
