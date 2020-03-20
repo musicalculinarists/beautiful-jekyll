@@ -36,7 +36,7 @@ This isn’t an official music video, it isn’t even an official song. It’s j
 
 ## A$AP Rocky - Kids Turned Out Fine
 
-<iframe src="https://www.youtube.com/watch?v=FUQI-o02JYU"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+<iframe src="https://www.youtube.com/embed/FUQI-o02JYU"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
 **This is the music video of all music videos, folks.** It’s also probably the music video that got us into music videos, so thank you for that A$AP.
 
@@ -77,7 +77,7 @@ Also, Raveena is so! Insanely! Beautiful!
 
 ## Somewhere Else - Uh Huh
 
-<iframe src="https://www.youtube.com/watch?v=1ecj6CCGKaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+<iframe src="https://www.youtube.com/embed/1ecj6CCGKaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
 See above for description of Anton Tammi. It’s a good video. I love cowboys and cowboys of color, and dancing, and good editing, and cool effects. This baby gives it all. 
 
