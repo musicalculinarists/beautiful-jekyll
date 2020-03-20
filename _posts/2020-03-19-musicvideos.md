@@ -14,7 +14,8 @@ Three, the music video is a goddamn art-piece. Tammi is the god of freeze frames
 Finally, it’s got a nice, ambiguous story, the type of story music videos need. I’m not giving away any spoilers, but here are some hints: Wig, no wig? Red. Drugs. 
 
 ## SIAMÉS - Mr. FEAR
-{% include youtubePlayer.html id=EKLWC93nvAU %}
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/EKLWC93nvAU?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode nl</a></small></div><div><small><a href="http://add-link-exchange.com">ww://add-link-exchange.com</a></small></div></iframe>
+
 The animation style, the inking and the color palette (following the laws of cool and warm tones an dark and light), the character design, just the overall aesthetic. The way the storytelling plays with panels—see 1:43 onwards, or 2:42 to 3:22—is so brilliant. The music itself is incidental, honestly. It’s just the soundtrack for a lovely, lovely work of animation. 
 
 ## Monsune - OUTTA MY MIND
