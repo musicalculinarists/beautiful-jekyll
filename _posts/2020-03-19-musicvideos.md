@@ -10,8 +10,11 @@ subtitle: That’s right, we can talk about more than just the songs themselves.
 The four reasons why this music video slaps:
 
 One, it’s got representation. We’ve got some good women loving women stuff going on here, which is important and beautiful and really exciting. Women are great, women loving women is even greater. 
+
 Two, it’s by my favorite music video director/producer/editor [Anton Tammi](http://antontammi.com/). His work is incredible, he made the Uh Huh music video below, and most recently directed The Weeknd’s short film [After Hours](https://www.youtube.com/watch?v=I1BfoRR-ST8) (it’s also a really good video — although the [teaser](https://www.youtube.com/watch?v=oq9AgxHvGjw) for it is cooler than the real thing). If this apocalypse thing keeps happening, I think I’m gonna cold email the man and ask to help edit his videos. The official game plan is to become a white-water river rafting guide and then in my spare time with the wee bit of wi-fi I can find in the Wyoming mountains I’ll slave away on Final Cut Pro (or whatever he uses — magic?), learning from the master the ways of music and movies and art. 
+
 Three, the music video is a goddamn art-piece. Tammi is the god of freeze frames. See: 3:09 — where a kiss transforms into a spark from a cigarette, transforms into the light of a motorcycle in the smoothest, butteriest way. His other good freeze frames: a window into a coffee cup at 4:52 and a crystal ball into a motorcycle helmet at 2:44. Tammi also makes use of cool effects without going over the top (see: the shadow at 3:36, the heart beats at 4:18). And the color grading, ugh, *the color grading*. If his color grading doesn’t scream lesbian rendezvous in a high-tech low-life post-apocalyptic world … what does?
+
 Finally, it’s got a nice, ambiguous story, the type of story music videos need. I’m not giving away any spoilers, but here are some hints: Wig, no wig? Red. Drugs. 
 
 ## SIAMÉS - Mr. FEAR
@@ -35,8 +38,8 @@ This isn’t an official music video, it isn’t even an official song. It’s j
 
 <iframe src="https://www.youtube.com/watch?v=FUQI-o02JYU"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
-**This is the music video of all music videos, folks.** 
-It’s also probably the music video that got us into music videos, so thank you for that A$AP.
+**This is the music video of all music videos, folks.** It’s also probably the music video that got us into music videos, so thank you for that A$AP.
+
 The first half of the video is a series of still shots of kids and teens and families, some sunny and nostalgic, some bordering on insane, all on the same bright backdrop. I think it portrays the complex relationship a lot of us have with our childhood memories, where both the messed up and the beautiful intertwine. A$AP throws a few loops in there that elevate the music video to more than just this aesthetic slideshow, though. In the coolest switch up on this doc, the still frame of A$AP at 2:56 transforms into a — wait, we won’t spoil it for you. Just watch the video and get educated on what a *real* music looks like.
 
 ## BROCKHAMPTON — This is Dominic Fike 
