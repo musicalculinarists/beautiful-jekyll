@@ -16,5 +16,4 @@ This score is for the self-imposed exile in Hawaii after the 2009 VMAs, I made a
 Or that equivalent level of all-sounds-similar, one-guitar-strumming, turbo-radio-friendly music. Sorry. He seems like a nice enough guy, and being a musician is definitely hard and we have mad respect for anyone who makes it, but. You know how it is. 
 
 ### But also: 
-
-![](https://paper-attachments.dropbox.com/s_731B67F6093557172A2869CEA46041FDB8C629DAF57DF397366C6DBB6CA3A47E_1565916017259_Screen+Shot+2019-08-15+at+5.36.25+PM.png)
+Numbers are a construct. We use *vibes* not constructs. 
