@@ -19,25 +19,20 @@ The animation style, the inking and the color palette (following the laws of coo
 
 **Monsune - OUTTA MY MIND**
 
-https://www.youtube.com/watch?v=SjgMmo6_DH0&
-
-
+{% include youtubePlayer.html id=SjgMmo6_DH0 %}
 [https://youtu.be/SjgMmo6_DH0](https://youtu.be/SjgMmo6_DH0)
+
 We mentioned this in our [post about MOUNTAIN by Monsune](https://musicalculinarists.github.io/2019-11-29-mountain/) before—but it’s worth saying again. This video is gorgeous—it’s all filmed in one long tracking shot that just doesn’t quit, and the color tone, and the humor—I’m in love. I mean, I was already in love with Monsune. The moment I saw the EP cover for Tradition my heart was taken away, and then I actually *listened* to the EP and I felt like my heart was collapsing into itself all at once. And then I saw the VIDEO for OUTTA MY MIND—what *can’t* this man do? 
 
 **Kendrick Lamar — Cartoons & Cereal**
 
-https://www.youtube.com/watch?v=qbbQb9bEcDQ&
-
-
+{% include youtubePlayer.html id=qbbQb9bEcDQ %}
 [https://youtu.be/qbbQb9bEcDQ](https://youtu.be/qbbQb9bEcDQ)
 This isn’t an official music video, it isn’t even an official song. It’s just a bunch of clips of cartoons, pieced together in a *really* good way, that this random kid on the internet made for one of Kendrick Lamar’s most underrated works. 
 
 **A$AP Rocky - Kids Turned Out Fine**
 
-https://www.youtube.com/watch?v=FUQI-o02JYU&
-
-
+{% include youtubePlayer.html id=FUQI-o02JYU %}
 [https://youtu.be/FUQI-o02JYU](https://youtu.be/FUQI-o02JYU)
 **This is the music video of all music videos, folks.** 
 It’s also probably the music video that got us into music videos, so thank you for that A$AP.
@@ -45,19 +40,14 @@ The first half of the video is a series of still shots of kids and teens and fam
 
 **BROCKHAMPTON — This is Dominic Fike (**a music video for 3 Nights by Dominic Fike)
 
-https://www.youtube.com/watch?v=sMYcubNOrPs&
-
-
+{% include youtubePlayer.html id=sMYcubNOrPs %}
 [https://youtu.be/sMYcubNOrPs](https://youtu.be/sMYcubNOrPs)
 This isn’t the official music video for Dominic Fike’s *3 Nights*, but it should be. *3 Nights* a basic banger in the best sense of the word. No special effects, or fancy lyrics, or crazy drops, it’s just a good song — easy to love. 
 The best word I could use to describe this video is *self-aware* (and I adore it for that). It starts with an interview of Dominic Fike, then we follow along with The Boys™ (i.e BROCKHAMPTON) as they work through a video for the song. Throughout the video, someone behind the camera yells some sort of instruction, like “Sing here!”, or “You’re good, keep going!”, and these little bits made the video so much more genuine. Typically, when you see these nostalgia-inducing music videos on grainy film, they’re a bit contrived, they’re *made* to seem like memories, but we know they’re not the memories themselves. That’s why, I like the way BROCKHAMPTON and Fike approached this vid, where the memory is the making of the music video itself. Watching *This is Dominic Fike* felt like we were back on the set of [Birdsong](https://www.youtube.com/watch?v=4URMxcg7yQE) (the greatest movie ever made) fucking around with shots and scenes and our minds to make a little something for the people. It’s a good feeling.
 
 **NIIGHT - Good Old Days**
 (a music video for Myth by Beach House)
-
-https://www.youtube.com/watch?v=hOsy7jmj-PE&
-
-
+{% include youtubePlayer.html id=hOsy7jmj-PE %}
 [https://youtu.be/hOsy7jmj-PE](https://youtu.be/hOsy7jmj-PE)
 Justin Kaminuma (NIIGHT on YouTube) is the love of my life, and I’ve never even met him and I never will. I love all the videos he makes so much, the aesthetic and the music and the way it’s just a feeling. Like!! The only reason I was ever into making videos / film at all was because I watched [this video of his](https://www.youtube.com/watch?v=A9Yjp1D7t6o).
 
