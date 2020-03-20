@@ -3,14 +3,11 @@ layout: post
 title: Our Favorite Music Videos
 subtitle: That’s right, we can talk about more than just the songs themselves. Did you know that we made a movie?
 ---
-{% include vimeoPlayer.html id=page.vimeoId %}
+{% include vimeoPlayer.html id=327269224 %}
 {% include youtubePlayer.html id=page.youtubeId %}
 
 **ALL YOUR WORDS — JIL**
----
-vimeoID: 327269224
----
-
+{% include vimeoPlayer.html id=327269224 %}
 I could write an essay on this music video. Hell, I *am* writing an essay on this music video. The essay is titled *Why I Watched the Music Video for All Your Words by JIL Every Night Before I Go To Bed;* here goes. 
 One, it’s got representation. We’ve got some good women loving women stuff going on here, which is important and beautiful and really exciting. Women are great, women loving women is even greater. 
 Two, it’s by my favorite music video director/producer/editor [Anton Tammi](http://antontammi.com/). His work is incredible, he made the Uh Huh music video below, and most recently directed The Weeknd’s short film [After Hours](https://www.youtube.com/watch?v=I1BfoRR-ST8) (it’s also a really good video — although the [teaser](https://www.youtube.com/watch?v=oq9AgxHvGjw) for it is cooler than the real thing). If this apocalypse thing keeps happening, I think I’m gonna cold email the man and ask to help edit his videos. The official game plan is to become a white-water river rafting guide and then in my spare time with the wee bit of wi-fi I can find in the Wyoming mountains I’ll slave away on Final Cut Pro (or whatever he uses — magic?), learning from the master the ways of music and movies and art. 
