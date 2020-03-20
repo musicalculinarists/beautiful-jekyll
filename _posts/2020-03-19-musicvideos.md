@@ -57,10 +57,7 @@ And this short, in particular—who else can so perfectly capture the nostalgia 
 This video gives a meaning to *Myth* by Beach House that wouldn’t exist otherwise. It’s pure feeling, reminiscence and distance from the past, and I love it so much. 
 
 **Raveena - Mama**
-
-https://www.youtube.com/watch?v=U8yj94iCywU&
-
-
+{% include youtubePlayer.html id=U8yj94iCywU %}
 [https://youtu.be/U8yj94iCywU](https://youtu.be/U8yj94iCywU)
 Wanna make me cry? Play this song! Everytime I hear Raveena croon “What kind of tears did you cry on your wedding day?” I lose it. This song is the song that grounds me, that reminds me of how much my mother gave for me to be here, for me to be happy and healthy and well-fed and safe. So yeah, I tear up— fight me. 
 
@@ -76,16 +73,14 @@ Also, Raveena is so! Insanely! Beautiful!
 
 **Somewhere Else - Uh Huh**
 
-https://www.youtube.com/watch?v=1ecj6CCGKaw&
-
+{% include youtubePlayer.html id=1ecj6CCGKaw %}
 
 [https://youtu.be/1ecj6CCGKaw](https://youtu.be/1ecj6CCGKaw)
 See above for description of Anton Tammi. It’s a good video. I love cowboys and cowboys of color, and dancing, and good editing, and cool effects. This baby gives it all. 
 
 **Frank Ocean - ‘Nikes’**
 
-https://player.vimeo.com/video/179791907
-
+{% include vimeoPlayer.html id=179791907 %}
 
 [https://vimeo.com/179791907](https://vimeo.com/179791907)
 Trippy, impossibly, *impossibly* gorgeous, a show of excess, and yet with undeniable moments of tenderness. The images in this video are hard to forget—a girl silhouetted by golden light and falling rain on a white horse,  the solemn faces of Frank Ocean and A$AP Rocky, standing apart from the chaos of a color-corrected nightclub, a man being set on fire, a fall into a hot tub and a body in a water tank—a talking, winking chihuahua. This video is so, so beautiful. Like an insane trip and a fever dream—Frank Ocean is a genius. That’s all that really needs to be said. 
