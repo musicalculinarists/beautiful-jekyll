@@ -5,17 +5,19 @@ title: Childish Gambino’s 3.15.20
 subtitle: Childish Gambino’s fourth studio album is new, fun, distinct, and one of the best things we’ve heard in a long time. Read our review—and more importantly, take a listen.
 ---
 
-![Yes, the album cover really is just a slightly off white square.](https://rhymehiphop.com/wp-content/uploads/2020/03/1000x0w-10-2-696x696.jpg)
+{: .caption :}
+![](https://rhymehiphop.com/wp-content/uploads/2020/03/1000x0w-10-2-696x696.jpg)
+Yes, the album cover really is just a slightly off white square.
 
-[](https://rhymehiphop.com/wp-content/uploads/2020/03/1000x0w-10-2-696x696.jpg)## Per-track breakdown:
+## Per-track breakdown:
 
-**0.00**
+### 0.00
 Alright, so we’re starting off with some hymnal techno sounds, as Gambino, on heavy autotune, chants “We are, we are, we are” for 3 minutes. It’s a cool sounding intro, and it prepares you for the mood of the rest of the album, but it’s not really something you’d listen to more than once. That’s normally the point of intros in albums like these, so we’re not really complaining. (Sarah’s note: I think I’d actually meditate to this lmfao and I mean that in a really good way. Feels like inner peace.)
 
 {: .box-note}
 Good for the Listening Experience™.
 
-**Algorhythm**
+### Algorhythm
 I like this one, and not just because I’m eecs. The beat starts out aggressive, funky, with Childish Gambino’s voice pitched way down to this distortion timbre. There are parts it reminds me substantially of some of Young Father’s work, actually, on their [earlier](https://open.spotify.com/album/5FGYd2lKYeFHpybmNsa4q7?si=cdztDRhVQaSKyv--7ThLqg) [albums](https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy?si=Z1YRZYt2QdmclF3vZ_HFvA), and I *love* Young Fathers. The ending beats (post 2:55 mark) actually get fucking *insane* for a bit there, the “whoohs” in the song are really cool, the TRANSITION TO TIME IS IMPECCABLE! And yet, despite all the production flourishes and the newness of it, it still somehow feels like the kind of track you would dance like crazy to.  “Everybody move your body, now do it, here is something that’s gonna make you move and groove!” TRUE! It does! 
 
 It’s like Death Grips but you can actually listen to it without wanting to shoot your ears off. 
@@ -25,10 +27,10 @@ It also has some deep one liners like: “How do we know the truth without feeli
 {: .box-note}
 Mad cool. Coders unite?
 
-**Time**
+### Time
 Time has a sunny beat -- I really dig the drums on this one. Gambino voice on this sounds like [Stevie Wonder’s talkbox](https://www.youtube.com/watch?v=PnR19INlXV8) at certain points, which is charming and audibly interesting, so props to that. It also features Ariana Grande (to quote Sarah, “it has Ariana Grande we get it”). Her voice is sweet on this too, but pretty standard. The chanting at the end of the song is also like nice — not crazy, but you know, it’s there and it can stay. The major issue with this song is just that it’s too damn long for what it is. It should have stopped at *max* 4 minutes, but Gambino really hit us with 6 minutes and 7 seconds of standard stuff. 
  
-**12.38**
+### 12.38
 On first listen, I branded this song as the “groovy background music, smooth talking” [early Logic](https://open.spotify.com/track/5INhgLY5BQfXAr61XPAoSq?si=Eio6IZyRSVah8I09Ui30nw) did (and did well) and didn’t really give it a proper listen. That was a mistake, because the longer you stick with 12.38, the more it grows on you. 
 For one, Gambino’s rapping is *smooth*, and he interspaces it with little easter eggs, (the favorite: there’s a verse where he says “nah, imma put on the radio though” and the music blurs into this radio-feature of a later part of the song). I didn’t like 21 Savage here, his lyrics were stupid, honestly, and messed with the vibe™, but the other features, Ink and Khadja Bonet, killed the game in the vocals department. Even Gambino’s singing voice on this was *delightful*. 
 But the best part of the song is the ending. The ending is a *ride*. After 21 Savage stops rapping (god bless), Ink comes in with this hazy, 80s vibe singing of “Baby, let’s take this back to the crib”, which *then* switches into a complete techno head-banger rendition of the very same lyrics. Then the finale, *the finale y’all,* hits you with these scales made from the same audio clip pitched differently, and then more noise comes in, and then static and video game gun sounds and echoes and air claps and car vrooms, and all these noises just escalate up into — into an abrupt hault. Like I said, it’s a *ride*. 
@@ -36,7 +38,7 @@ But the best part of the song is the ending. The ending is a *ride*. After 21 Sa
 {: .box-note}
 A damn good one. 
 
-**19.10**
+### 19.10
 19.10 has the same drums as Time, so clearly it has good drums. The vocals are pretty simple, but really fitting for the background music and content of the song. 
 Highlights:
 
@@ -64,7 +66,7 @@ I’m not sold on the point of the last 2 minutes though, like a couple of the o
 {: .box-note}
 Still a good one though. 
 
-**24.19**
+### 24.19
 The song is exactly as it’s lyrics indicate–*sweet!* I *love* this one. The distortions on Glover’s voice are so fucking nice—at times it sounds almost like an instrument / synth in and of itself. It feels groovy and swaying and jazzy, and the repetition of: *“Sweet thing!”* through the chorus is just a rush of joy and I-wanna-sway-in-the-afternoon sunlight. The thudding of the bass and the plucking electric guitar are in perfect time. 
 
 It’s definitely the production that makes itself known first, but the lyrics themselves are really fucking nice when you listen: 
@@ -94,13 +96,13 @@ Also especially impressive about this song: it’s 7 minutes and 50 seconds long
 
 A sweet thing. So fucking good. 
 
-**32.22**
+### 32.22
 A weird noise / experimental track. Like, [clipping.](https://open.spotify.com/track/4pSbdUWj7FrZRjgxQOISIL) / [Kai](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl) [Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl) / [JPEGMAFIA](https://open.spotify.com/track/5pUudDDuJgIpgKIGk2zmxv) / [JAPA_KNEES](https://soundcloud.com/japa_knees) / a lot of other independent™ and underground™ artists that you bring up when you need to flex that you understand w e i r d music have definitely done this kind of thing with the noises before. It’s cool, but it’s not his, and imo not that enjoyable of a listen. 
 
 {: .box-warning}
 Thank you Donald, very cool! 
 
-**35.31**
+### 35.31
 This song physically forces you to smile, it’s that sunshiney. The lyrics are grim in comparison (“He was only sixteen, he was lookin' at three / Now he lookin' at nine, pray to God he don't speak”), but really well made:
 
 > Crime don't pay, I ain't heard what they say<br>
@@ -115,7 +117,7 @@ Or, in the words of mrsteveyboy44:
 
 ![](https://paper-attachments.dropbox.com/s_2A7C06C8AF2DEF2DB4C753536470730A2131F2B142D620FFAB2A7FC98EC6A78C_1585182905638_Screen+Shot+2020-03-25+at+5.35.00+PM.png)
 
-**39.28**
+### 39.28
 First: the transition from 35.31 to 39.28 when you listen sequentially is LOVELY. 
 The production is really, really stripped down—pretty much only his voice, completely electrified, and brief flourishes of piano or crescendos. It’s cool enough, but not terribly interesting, but it definitely does the job in encapsulating the vibe the song is going for. 
 
@@ -137,20 +139,22 @@ So, yeah. It’s *definitely* some simp [my-girlfriend-broke-up-with-me-but-I’
 {: .box-warning}
 If you need to SIMP. 
 
-**42.26**
+### 42.26
 It feels like summeeeeerrrr!
 
-![A late February day where it felt like summer. Also, have I mentioned that I go to the University of California, Berkeley yet?](https://paper-attachments.dropbox.com/s_CCABF518057584DCDE5500BCDBD3C2C3DFA1CBCF38A980A150BF9D0395D7198C_1585180213587_60445098352__C78AE6D9-A41C-4541-A6E3-43BF798672AF.JPG)
+{: .caption :}
+![](https://paper-attachments.dropbox.com/s_CCABF518057584DCDE5500BCDBD3C2C3DFA1CBCF38A980A150BF9D0395D7198C_1585180213587_60445098352__C78AE6D9-A41C-4541-A6E3-43BF798672AF.JPG)
+A late February day where it felt like summer. Also, have I mentioned that I go to the University of California, Berkeley yet?
 
 We’ve all heard this song already, so you know how it goes. 
 
 {: .box-note}
 It does indeed feel like summer. 
 
-**47.48**
+### 47.48
 It’s got a funkiness, and the outro with Donald Glover and his son, is really really sweet. Despite the funkiness, the lyrics (“Don’t worry ‘bout tomorrow”—semi-ironic?) make it feel almost like a lullaby at times. It’s not bad but at 6ish minutes long, the song feels a little overlong, and you have to resist the temptation to switch tracks. 
 
-**53.49**
+### 53.49
 I do really like this one—it just has a feeling, an explosive emotion to it. The interpolation between Childish Gambino’s scratchy-voice, aggressive, funky-beat rapping (which has an old-school feel to it, especially in the context of the rest of the album) and the sweet, melodic chorus which goes *There is love in every moment under the sun, girl* is really, really fucking good. (Speaking of, the choruses are so fucking good). It’s good because while the vibe switches, the level of emotional intensity and feeling in the music remains and it remains very, very high. 
 
 The moments where Glover really lets his voice loose at the end of the verses into an all out cry-holler-shout (ex. 1:20, 2:07) feel like catharsis. There’s a lot of cool stuff going on in the production as well—when the choir comes in over a beat that sounds comprised of people’s breaths, except pitched to be squeaky and unfamiliar, around the three minute mark—the explosion into melody at the end of the song—it’s just good.
@@ -173,8 +177,9 @@ Honestly, the only thing I could think to complain about (and that’s saying a 
 
 Of course this has nothing to do with the music itself, and is basically irrelevant, but. I’m a zoomer lol let me complain. 
 
-
-![(Technically still not as good as Yeezus, which is in my top 5 albums of all time, but the idea still holds.)](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.15752-9/91250041_1062926090750331_5216084369055154176_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=O870oWFRI7kAX-rx-F7&_nc_ht=scontent-sjc3-1.xx&oh=ecc2f3ff7423dd4d0a015161e37926bb&oe=5EA05C75)
+{: .caption :}
+![](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.15752-9/91250041_1062926090750331_5216084369055154176_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=O870oWFRI7kAX-rx-F7&_nc_ht=scontent-sjc3-1.xx&oh=ecc2f3ff7423dd4d0a015161e37926bb&oe=5EA05C75)
+(Technically still not as good as Yeezus, which is in my top 5 albums of all time, but the idea still holds.)
 
 
 ## The Culinarity™ Score: 
