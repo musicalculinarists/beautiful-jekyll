@@ -29,6 +29,9 @@ Mad cool. Coders unite?
 
 ### Time
 Time has a sunny beat -- I really dig the drums on this one. Gambino voice on this sounds like [Stevie Wonder’s talkbox](https://www.youtube.com/watch?v=PnR19INlXV8) at certain points, which is charming and audibly interesting, so props to that. It also features Ariana Grande (to quote Sarah, “it has Ariana Grande we get it”). Her voice is sweet on this too, but pretty standard. The chanting at the end of the song is also like nice — not crazy, but you know, it’s there and it can stay. The major issue with this song is just that it’s too damn long for what it is. It should have stopped at *max* 4 minutes, but Gambino really hit us with 6 minutes and 7 seconds of standard stuff. 
+
+{: .box-note}
+Charming, but needs to be shortened. 
  
 ### 12.38
 On first listen, I branded this song as the “groovy background music, smooth talking” [early Logic](https://open.spotify.com/track/5INhgLY5BQfXAr61XPAoSq?si=Eio6IZyRSVah8I09Ui30nw) did (and did well) and didn’t really give it a proper listen. That was a mistake, because the longer you stick with 12.38, the more it grows on you. 
@@ -63,8 +66,9 @@ Highlights:
 
 (Oops, copied all the lyrics)
 I’m not sold on the point of the last 2 minutes though, like a couple of the other songs on this album this one’s a bit long. 
+
 {: .box-note}
-Still a good one though. 
+Not perfect, but still a good one.
 
 ### 24.19
 The song is exactly as it’s lyrics indicate–*sweet!* I *love* this one. The distortions on Glover’s voice are so fucking nice—at times it sounds almost like an instrument / synth in and of itself. It feels groovy and swaying and jazzy, and the repetition of: *“Sweet thing!”* through the chorus is just a rush of joy and I-wanna-sway-in-the-afternoon sunlight. The thudding of the bass and the plucking electric guitar are in perfect time. 
@@ -94,6 +98,7 @@ It’s brilliant, and on tone.
 The last minute of the song is—I think—the reverberated sound of the male orgasm interpolated with a quick-paced drum beat. Uh—I mean, I don’t have a problem with it?
 Also especially impressive about this song: it’s 7 minutes and 50 seconds long, and it doesn’t feel like a drag, *at all*. In fact, it’s quite the opposite—it’s so good that it almost passes too quickly. It’s a long one that doesn’t feel long. 
 
+{: .box-note}
 A sweet thing. So fucking good. 
 
 ### 32.22
@@ -153,6 +158,9 @@ It does indeed feel like summer.
 
 ### 47.48
 It’s got a funkiness, and the outro with Donald Glover and his son, is really really sweet. Despite the funkiness, the lyrics (“Don’t worry ‘bout tomorrow”—semi-ironic?) make it feel almost like a lullaby at times. It’s not bad but at 6ish minutes long, the song feels a little overlong, and you have to resist the temptation to switch tracks. 
+
+{: .box-warning}
+Solid effort, a bit overlong. 
 
 ### 53.49
 I do really like this one—it just has a feeling, an explosive emotion to it. The interpolation between Childish Gambino’s scratchy-voice, aggressive, funky-beat rapping (which has an old-school feel to it, especially in the context of the rest of the album) and the sweet, melodic chorus which goes *There is love in every moment under the sun, girl* is really, really fucking good. (Speaking of, the choruses are so fucking good). It’s good because while the vibe switches, the level of emotional intensity and feeling in the music remains and it remains very, very high. 
