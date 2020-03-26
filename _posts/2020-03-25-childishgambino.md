@@ -96,7 +96,7 @@ And yet there’s also the subtle admittance that things aren’t always as good
 
 It’s brilliant, and on tone. 
 The last minute of the song is—I think—the reverberated sound of the male orgasm interpolated with a quick-paced drum beat. Uh—I mean, I don’t have a problem with it?
-Also especially impressive about this song: it’s 7 minutes and 50 seconds long, and it doesn’t feel like a drag, *at all*. In fact, it’s quite the opposite—it’s so good that it almost passes too quickly. It’s a long one that doesn’t feel long. 
+Also especially impressive about this song: it’s 7 minutes and 59 seconds long, and it doesn’t feel like a drag, *at all*. In fact, it’s quite the opposite—it’s so good that it almost passes too quickly. It’s a long one that doesn’t feel long. 
 
 {: .box-note}
 A sweet thing. So fucking good. 
