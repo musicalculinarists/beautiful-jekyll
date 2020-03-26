@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [review]
-title: Childish Gambino’s 3.15.20 
+title: 3.15.20 
 subtitle: Childish Gambino’s fourth studio album is new, fun, distinct, and one of the best things we’ve heard in a long time. Read our review—and more importantly, take a listen.
 ---
 
