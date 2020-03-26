@@ -60,7 +60,9 @@ Highlights:
 > Everything is give and take, oh, oh
 
 (Oops, copied all the lyrics)
-I’m not sold on the point of the last 2 minutes though, like a couple of the other songs on this album this one’s a bit long. Still a good one though. 
+I’m not sold on the point of the last 2 minutes though, like a couple of the other songs on this album this one’s a bit long. 
+{: .box-note}
+Still a good one though. 
 
 **24.19**
 The song is exactly as it’s lyrics indicate–*sweet!* I *love* this one. The distortions on Glover’s voice are so fucking nice—at times it sounds almost like an instrument / synth in and of itself. It feels groovy and swaying and jazzy, and the repetition of: *“Sweet thing!”* through the chorus is just a rush of joy and I-wanna-sway-in-the-afternoon sunlight. The thudding of the bass and the plucking electric guitar are in perfect time. 
@@ -95,6 +97,7 @@ A sweet thing. So fucking good.
 **32.22**
 A weird noise / experimental track. Like, [clipping.](https://open.spotify.com/track/4pSbdUWj7FrZRjgxQOISIL) / [Kai](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl) [Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl) / [JPEGMAFIA](https://open.spotify.com/track/5pUudDDuJgIpgKIGk2zmxv) / [JAPA_KNEES](https://soundcloud.com/japa_knees) / a lot of other independent™ and underground™ artists that you bring up when you need to flex that you understand w e i r d music have definitely done this kind of thing with the noises before. It’s cool, but it’s not his, and imo not that enjoyable of a listen. 
 
+{: .box-warning}
 Thank you Donald, very cool! 
 
 **35.31**
@@ -131,6 +134,7 @@ The above line is delivered in a very, very unexpected falsetto.
 
 So, yeah. It’s *definitely* some simp [my-girlfriend-broke-up-with-me-but-I’m-happy-for-her](https://open.spotify.com/playlist/5yHJ0XIDblGNAobBTrPXI7?si=_ScWeDvMS_OLvRZVhBNXQQ) type shit. (If you’re unfamiliar with the genre, it’s basically the vibe of every [Joji](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d?si=965y_z86TGyzk20TSv4wuw) or [Rex Orange County](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG?si=Nhp7iN6pQn2ErwwkuZnDrQ) song ever, like, oh she broke up with me because she deserves better, but I’m going to handle it by just lying on my bed staring at the ceiling wondering what things would be like if I didn’t suck. I’ll mostly do this, except for two weeks later when I drink too much at a party I was hoping she’d be at and hook up with her best friend instead.)
 
+{: .box-warning}
 If you need to SIMP. 
 
 **42.26**
@@ -138,8 +142,10 @@ It feels like summeeeeerrrr!
 
 ![A late February day where it felt like summer. Also, have I mentioned that I go to the University of California, Berkeley yet?](https://paper-attachments.dropbox.com/s_CCABF518057584DCDE5500BCDBD3C2C3DFA1CBCF38A980A150BF9D0395D7198C_1585180213587_60445098352__C78AE6D9-A41C-4541-A6E3-43BF798672AF.JPG)
 
-
 We’ve all heard this song already, so you know how it goes. 
+
+{: .box-note}
+It does indeed feel like summer. 
 
 **47.48**
 It’s got a funkiness, and the outro with Donald Glover and his son, is really really sweet. Despite the funkiness, the lyrics (“Don’t worry ‘bout tomorrow”—semi-ironic?) make it feel almost like a lullaby at times. It’s not bad but at 6ish minutes long, the song feels a little overlong, and you have to resist the temptation to switch tracks. 
@@ -151,6 +157,7 @@ The moments where Glover really lets his voice loose at the end of the verses in
 
 And as a closing track on an album—you can feel the catharsis and the uplift and the emotion on this one, you really can. “When you feel alone, know you are not alone”—thanks Gambino 🙂 
 
+{: .box-note}
 Hell yeah! 
 
 
