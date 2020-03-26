@@ -11,6 +11,8 @@ subtitle: Childish Gambino’s fourth studio album is new, fun, distinct, and on
 
 **0.00**
 Alright, so we’re starting off with some hymnal techno sounds, as Gambino, on heavy autotune, chants “We are, we are, we are” for 3 minutes. It’s a cool sounding intro, and it prepares you for the mood of the rest of the album, but it’s not really something you’d listen to more than once. That’s normally the point of intros in albums like these, so we’re not really complaining. (Sarah’s note: I think I’d actually meditate to this lmfao and I mean that in a really good way. Feels like inner peace.)
+
+{: .box-note}
 Good for the Listening Experience™.
 
 **Algorhythm**
@@ -20,6 +22,7 @@ It’s like Death Grips but you can actually listen to it without wanting to sho
 
 It also has some deep one liners like: “How do we know the truth without feeling what could be false?”, “Looking for something worth it, the algorhythm is perfect” (true, thank you machine learning), and “Everybody want to get chose like Moses.” 
 
+{: .box-note}
 Mad cool. Coders unite?
 
 **Time**
@@ -28,7 +31,10 @@ Time has a sunny beat -- I really dig the drums on this one. Gambino voice on th
 **12.38**
 On first listen, I branded this song as the “groovy background music, smooth talking” [early Logic](https://open.spotify.com/track/5INhgLY5BQfXAr61XPAoSq?si=Eio6IZyRSVah8I09Ui30nw) did (and did well) and didn’t really give it a proper listen. That was a mistake, because the longer you stick with 12.38, the more it grows on you. 
 For one, Gambino’s rapping is *smooth*, and he interspaces it with little easter eggs, (the favorite: there’s a verse where he says “nah, imma put on the radio though” and the music blurs into this radio-feature of a later part of the song). I didn’t like 21 Savage here, his lyrics were stupid, honestly, and messed with the vibe™, but the other features, Ink and Khadja Bonet, killed the game in the vocals department. Even Gambino’s singing voice on this was *delightful*. 
-But the best part of the song is the ending. The ending is a *ride*. After 21 Savage stops rapping (god bless), Ink comes in with this hazy, 80s vibe singing of “Baby, let’s take this back to the crib”, which *then* switches into a complete techno head-banger rendition of the very same lyrics. Then the finale, *the finale y’all,* hits you with these scales made from the same audio clip pitched differently, and then more noise comes in, and then static and video game gun sounds and echoes and air claps and car vrooms, and all these noises just escalate up into — into an abrupt hault. Like I said, it’s a *ride*. A damn good one. 
+But the best part of the song is the ending. The ending is a *ride*. After 21 Savage stops rapping (god bless), Ink comes in with this hazy, 80s vibe singing of “Baby, let’s take this back to the crib”, which *then* switches into a complete techno head-banger rendition of the very same lyrics. Then the finale, *the finale y’all,* hits you with these scales made from the same audio clip pitched differently, and then more noise comes in, and then static and video game gun sounds and echoes and air claps and car vrooms, and all these noises just escalate up into — into an abrupt hault. Like I said, it’s a *ride*. 
+
+{: .box-note}
+A damn good one. 
 
 **19.10**
 19.10 has the same drums as Time, so clearly it has good drums. The vocals are pretty simple, but really fitting for the background music and content of the song. 
@@ -36,21 +42,21 @@ Highlights:
 
 - When Gambino croons “To be beautiful is to be hunted”, which, when writing it out, sounds kinda dumb, but when Gambino sings it I’m like — oh, yeah, poetry. 
 - The lyrics. I’m a sucker for practically every song with parental advice, and this baby *delivers*: 
-> I remember, uh, back when I was six years old,
-> Daddy said, "The world's so cold"
-> "There is something that you should know"
-> "You're so gorgeous," thank you, daddy
-> "Nothing's really worth your time"
-> "But someday soon you just might find"
+> I remember, uh, back when I was six years old,<br>
+> Daddy said, "The world's so cold"<br>
+> "There is something that you should know"<br>
+> "You're so gorgeous," thank you, daddy<br>
+> "Nothing's really worth your time"<br>
+> "But someday soon you just might find"<br>
 > "The truth about the world's design,"
     and 
-> Now remember, uh
-> You do what the hell you want, uh
-> But someone's gonna smell your funk
+> Now remember, uh<br>
+> You do what the hell you want, uh<br>
+> But someone's gonna smell your funk<br>
 > You're exactly what they want (Truth)
     and
-> To be happy really means that someone else ain't
-> And balance ain't a one-food plate
+> To be happy really means that someone else ain't<br>
+> And balance ain't a one-food plate<br>
 > Everything is give and take, oh, oh
 
 (Oops, copied all the lyrics)
@@ -61,20 +67,20 @@ The song is exactly as it’s lyrics indicate–*sweet!* I *love* this one. The 
 
 It’s definitely the production that makes itself known first, but the lyrics themselves are really fucking nice when you listen: 
 
-> You moved to Southern California, sweet thing
-> You do just what your parents told you, sweet thing
+> You moved to Southern California, sweet thing<br>
+> You do just what your parents told you, sweet thing<br>
 > You're watching Parks and Rec alone, sweet thing
 
 Parks and Rec is my favorite TV show of all time, OF ALL TIME, so I find that line impossibly charming. 
 
 
-> You made me chicken, rice, and beans, sweet thing
+> You made me chicken, rice, and beans, sweet thing<br>
 
 Makes you crave chicken and rice. 
 The whole song is rife with Love and sweetness and adoration, actually: 
 
-> I said thank you
-> Thank you for showing me what love can be
+> I said thank you<br>
+> Thank you for showing me what love can be<br>
 
 And yet there’s also the subtle admittance that things aren’t always as good as they might seem, and that maybe this love, as good as it is, still isn’t enough: 
 
@@ -94,9 +100,9 @@ Thank you Donald, very cool!
 **35.31**
 This song physically forces you to smile, it’s that sunshiney. The lyrics are grim in comparison (“He was only sixteen, he was lookin' at three / Now he lookin' at nine, pray to God he don't speak”), but really well made:
 
-> Crime don't pay, I ain't heard what they say
-> Quarter brick, half a brick, whole brick, ayy [](https://genius.com/Childish-gambino-3531-lyrics#note-19350173)(Ayy)
-> Cotton ball white like hen house floors
+> Crime don't pay, I ain't heard what they say<br>
+> Quarter brick, half a brick, whole brick, ayy (Ayy)<br>
+> Cotton ball white like hen house floors<br>
 > Could've been broke, this the life I chose
 
 The contrast between the old folksy beat of the song and the lyrics is diggable. 
@@ -112,9 +118,9 @@ The production is really, really stripped down—pretty much only his voice, com
 
 The lyrics are, um: 
 
-> Grief is a standing ocean, I never swam unless you did
-> So I don’t know why I’m here without you
-> I miss you
+> Grief is a standing ocean, I never swam unless you did<br>
+> So I don’t know why I’m here without you<br>
+> I miss you<br>
 > Why go to the party?
 
 and 
