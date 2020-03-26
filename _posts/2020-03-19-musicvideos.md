@@ -20,7 +20,7 @@ Finally, it’s got a nice, ambiguous story, the type of story music videos need
 ## SIAMÉS - Mr. FEAR
 <iframe src="https://www.youtube.com/embed/EKLWC93nvAU"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
-The animation style, the inking and the color palette (following the laws of cool and warm tones an dark and light), the character design, just the overall aesthetic. The way the storytelling plays with panels—see 1:43 onwards, or 2:42 to 3:22—is so brilliant. The music itself is incidental, honestly. It’s just the soundtrack for a lovely, lovely work of animation. 
+The animation style, the inking and the color palette (following the laws of cool and warm tones and dark and light), the character design, just the overall aesthetic. The way the storytelling plays with panels—see 1:43 onwards, or 2:42 to 3:22—is so brilliant. The music itself is incidental, honestly. It’s just the soundtrack for a lovely, lovely work of animation. 
 
 ## Monsune - OUTTA MY MIND
 
