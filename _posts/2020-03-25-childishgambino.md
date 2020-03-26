@@ -7,6 +7,7 @@ subtitle: Childish Gambino’s fourth studio album is new, fun, distinct, and on
 
 {: .caption :}
 ![](https://rhymehiphop.com/wp-content/uploads/2020/03/1000x0w-10-2-696x696.jpg)
+
 Yes, the album cover really is just a slightly off white square.
 
 ## Per-track breakdown:
