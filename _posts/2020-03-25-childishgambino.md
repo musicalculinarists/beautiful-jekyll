@@ -5,8 +5,8 @@ title: Childish Gambino’s 3.15.20
 subtitle: Childish Gambino’s fourth studio album is new, fun, distinct, and one of the best things we’ve heard in a long time. Read our review—and more importantly, take a listen.
 ---
 
-{: .caption :}
 ![](https://rhymehiphop.com/wp-content/uploads/2020/03/1000x0w-10-2-696x696.jpg)
+{: .caption :}
 Yes, the album cover really is just a slightly off white square.
 
 ## Per-track breakdown:
