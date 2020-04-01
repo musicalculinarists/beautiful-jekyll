@@ -27,8 +27,7 @@ This song just combines so many things that I always wanted to see together: tha
 ##You May Also Like##
 
 [Make a Move](https://open.spotify.com/track/69klmXiY3N1xUwVFzZArzJ) by Lawrence
-[](https://open.spotify.com/track/69klmXiY3N1xUwVFzZArzJ)
 For the techno vibes, [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) 
 For the voice, all of [Sammy Rae](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) (she’s incredible, thanks Aviva <3)
-Rostam / Discovery
+[Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT?si=1cd6JQmaR526wHT_fCJM7A) / [Discovery](https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5?si=2qkL2giUTIqWC0BZqQj_-g)
 
