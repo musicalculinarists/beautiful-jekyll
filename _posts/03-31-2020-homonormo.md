@@ -1,4 +1,10 @@
-# Song of the Week? Homonormo by Arthur Moon
+---
+layout: post
+tags: [review]
+title: Homonormo by Arthur Moon
+subtitle: Song of the ... Month?
+---
+
 Arthur Moon, according to Arthur Moon, is queering pop. And boy, can you hear it in Homonormo, is this hypnotic, distorted pop song on a San-Junipero-Type beat (in that it’s sunshiney but also, layered, and is set over a techno backdrop). 
 
 ![San Junipero, Black Mirror](https://i.pinimg.com/originals/42/a8/45/42a84599cdbb08bcc5711a5120b9dd79.jpg)
