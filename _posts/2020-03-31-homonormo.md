@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [review]
+tags: [sotw]
 title: Homonormo by Arthur Moon
 subtitle: Song of the ... Month?
 ---
