@@ -23,15 +23,12 @@ This song just combines so many things that I always wanted to see together: tha
 
 
 [](https://cdn.buttercms.com/dSfbgRNzQN6PUuQuEzvO)
-**You May Also Like**
+
+##You May Also Like##
 
 [Make a Move](https://open.spotify.com/track/69klmXiY3N1xUwVFzZArzJ) by Lawrence
-
 [](https://open.spotify.com/track/69klmXiY3N1xUwVFzZArzJ)
-
 For the techno vibes, [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) 
-
 For the voice, all of [Sammy Rae](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) (she’s incredible, thanks Aviva <3)
-
 Rostam / Discovery
 
