@@ -82,8 +82,7 @@ Also, Raveena is so! Insanely! Beautiful!
 See above for description of Anton Tammi. It’s a good video. I love cowboys and cowboys of color, and dancing, and good editing, and cool effects. This baby gives it all. 
 
 ## Frank Ocean - Nikes
-
-<iframe src="https:/player.vimeo.com/video/179791907" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:400px;width:100%;border:none;overflow:hidden;"></iframe>
+{% include vimeoPlayer.html id=179791907 %}
 
 Trippy, impossibly, *impossibly* gorgeous, a show of excess, and yet with undeniable moments of tenderness. The images in this video are hard to forget—a girl silhouetted by golden light and falling rain on a white horse,  the solemn faces of Frank Ocean and A$AP Rocky, standing apart from the chaos of a color-corrected nightclub, a man being set on fire, a fall into a hot tub and a body in a water tank—a talking, winking chihuahua. This video is so, so beautiful. Like an insane trip and a fever dream—Frank Ocean is a genius. That’s all that really needs to be said. 
 
