@@ -25,7 +25,8 @@ A lot of the songs are also pretty similar. It’s definitely an album you need 
 
 Wow, okay, that felt like a whole lot of criticism. Now to the actual point of this post. 
 
-Despite all of the album’s imperfections and everything mentioned above—there are moments on *Dreaming of David* when Beatty allows himself to dabble on the edge of ‘experimental’ in addition to pop, and they’re incredibly wonderful. That is to say—when it’s good, it’s really good. There’s real vulnerability and potential and magic embedded in the album if you know where to look. 
+Despite all of the album’s imperfections and everything mentioned above—there are moments on *Dreaming of David* when Beatty allows himself to dabble on the edge of ‘experimental’ in addition to pop, and they’re incredibly wonderful. That is to say—when it’s good, it’s really good. There’s real vulnerability and potential and magic embedded in the album if you know where to look.<br> 
+
 
 
 ## The highlights are: 
