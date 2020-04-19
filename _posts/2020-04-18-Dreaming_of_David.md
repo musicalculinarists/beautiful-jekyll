@@ -33,7 +33,6 @@ Despite all of the album’s imperfections and everything mentioned above—ther
 **The titular ‘Dreaming of David’:**
 In the closing track on the album, Ryan Beatty’s voice is pitch-corrected to floaty and gentle heights for the entire song—his voice is used like a synth, basically. In the background, “record-skipped” versions of his voice echo. The production is dreamy and ethereal and interesting, and it induces its own gravity. The lyrics in conjunction with the production evoke a depth of emotion that can’t be anything but real:
 
-
     > Dreaming of David
     > It’s all in his honor
     > I don’t want to die a sudden death
