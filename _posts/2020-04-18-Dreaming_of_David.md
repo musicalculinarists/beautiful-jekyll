@@ -30,40 +30,40 @@ Despite all of the album’s imperfections and everything mentioned above—ther
 
 ## The highlights are: 
 
-**The titular ‘Dreaming of David’:**
+### The titular ‘Dreaming of David’: ### 
 In the closing track on the album, Ryan Beatty’s voice is pitch-corrected to floaty and gentle heights for the entire song—his voice is used like a synth, basically. In the background, “record-skipped” versions of his voice echo. The production is dreamy and ethereal and interesting, and it induces its own gravity. The lyrics in conjunction with the production evoke a depth of emotion that can’t be anything but real:
 
-    > Dreaming of David
-    > It’s all in his honor
-    > I don’t want to die a sudden death
+> Dreaming of David
+> It’s all in his honor
+> I don’t want to die a sudden death
 
 When Beatty’s distorted voice sings in this utlra-falsetto: “I just want you to hold me, forever,” it’s a lyric you’ve heard probably a thousand times before on the radio but it just *HITS DIFFERENT.*  
 
 If you want to get yourself to fall in love with someone, play this track on surround-sound-speakers while you’re both falling asleep next to each other past midnight. This is a really, really good song, and I love it. If you know and love a David, send this to him STAT. 
 
-**Genesis:**
+### Genesis: ###
 The first line of the song is absolutely riveting and just floods you: “Basically an atheist, he’s all that I believe in right now.” There are moments of such gentleness, and his voice, falsetto and ethereal, does wonderful things. This is a song that feels more like a hymn.
 
 The lyrics are also brilliant, and poetry-like: 
 
-    > Erasing my intolerance to nicotine and you are quite the opposite
-    > Lace it with what you offer me
-    > Cured from ivy
-    > Roses on loan
+> Erasing my intolerance to nicotine and you are quite the opposite
+> Lace it with what you offer me
+> Cured from ivy
+> Roses on loan
 
 The moment at 1:35 where the line “This is on the radio” blends into “Hold me tightly” is so, so, so good. The rise in intensity and the comedown, literally all in those four seconds—worth waiting for. It’s really, really good. 
 
 Again, play this while you fall asleep next to someone—and boom. You’ll be in love!
 
-**The last minute of ‘In the End’**
-It starts out interesting enough, but it’s the vibe switch at 1:55ish, where the lower tone floods in with *In the endddd* and Ryan Beatty’s falsetto floods into the background like some sort of heavenly choir that really, really makes the track. “I believe in something I can’t see”—and you know he’s talking about a person rather than any religion. 
+### The last minute of ‘In the End’ ### 
+It starts out interesting enough, but it’s the re-vibe-start at 1:55ish, where the lower tone floods in with *In the endddd* and Ryan Beatty’s falsetto floods into the background like some sort of heavenly choir that really, really makes the track. “I believe in something I can’t see”—and you know he’s talking about a person rather than any religion. 
 
 
 ## Honorable mentions:
 
 There was solid effort on these ones, either thematically or in terms of making the production interesting.
-**Patchwork** 
-**Brother**
+### Patchwork ###  
+### Brother ###
 
 
 [](https://vignette.wikia.nocookie.net/brockhampton/images/b/bd/RyanBeatty.png/revision/latest?cb=20190831143422)
