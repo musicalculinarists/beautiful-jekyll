@@ -31,8 +31,11 @@ For the techno vibes, [The Japanese House](https://open.spotify.com/artist/3Iuna
 For the voice, all of [Sammy Rae](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) (she’s incredible, thanks Aviva <3)<br>
 [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT?si=1cd6JQmaR526wHT_fCJM7A) / [Discovery](https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5?si=2qkL2giUTIqWC0BZqQj_-g)
 
-** Carlos texted me (he actually studies and makes music unlike us oops) and there IS a musical term for what's going on here, from the man himself: 
+FOOTNOTE: Carlos texted me (he actually studies and makes music unlike us oops) and there IS a musical term for what's going on here, from the man himself: 
 > The drums are arranged in a very smart way in Homonormo. The beat is subdivided into a 12/8 type of feel that is dictated by the hi hats which make the beat sound like it's "laying back" on the time. The beginning of the chorus reminds me of a technique that jazz arrangers use. The melody is played alone, followed by a rhythm section hit, and then they continue with the beat for the rest of the chorus. It's a reall cool effect with a live band and it was executed reall well in the production of this song.
+
+> The drums are arranged in a very smart way in Homonormo. The beat is subdivided into a 12/8 type of feel that is dictated by the hi hats which make the beat sound like it's "laying back" on the time. The beginning of the chorus reminds me of a technique that jazz arrangers use. The melody is played alone, followed by a rhythm section hit, and then they continue with the beat for the rest of the chorus. It's a reall cool effect with a live band and it was executed reall well in the production of this song.
+
 Turns out it is really good with a live band, their Tiny Desk legitimately sent shivers down my spine: 
 
 <iframe src="https://www.youtube.com/embed/4iEgxnmXkUU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:400px;width:100%;border:none;overflow:hidden;"></iframe>
