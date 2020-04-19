@@ -33,8 +33,8 @@ Despite all of the album’s imperfections and everything mentioned above—ther
 ### The titular ‘Dreaming of David’: ### 
 In the closing track on the album, Ryan Beatty’s voice is pitch-corrected to floaty and gentle heights for the entire song—his voice is used like a synth, basically. In the background, “record-skipped” versions of his voice echo. The production is dreamy and ethereal and interesting, and it induces its own gravity. The lyrics in conjunction with the production evoke a depth of emotion that can’t be anything but real:
 
-> Dreaming of David
-> It’s all in his honor
+> Dreaming of David<br>
+> It’s all in his honor<br>
 > I don’t want to die a sudden death
 
 When Beatty’s distorted voice sings in this utlra-falsetto: “I just want you to hold me, forever,” it’s a lyric you’ve heard probably a thousand times before on the radio but it just *HITS DIFFERENT.*  
@@ -46,9 +46,9 @@ The first line of the song is absolutely riveting and just floods you: “Basica
 
 The lyrics are also brilliant, and poetry-like: 
 
-> Erasing my intolerance to nicotine and you are quite the opposite
-> Lace it with what you offer me
-> Cured from ivy
+> Erasing my intolerance to nicotine and you are quite the opposite<br>
+> Lace it with what you offer me<br>
+> Cured from ivy<br>
 > Roses on loan
 
 The moment at 1:35 where the line “This is on the radio” blends into “Hold me tightly” is so, so, so good. The rise in intensity and the comedown, literally all in those four seconds—worth waiting for. It’s really, really good. 
