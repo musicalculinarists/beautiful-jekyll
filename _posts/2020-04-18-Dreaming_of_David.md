@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Dreaming of David
-subtitle: This isn’t a full album review; there’s not quite enough on this LP to warrant an all-out track-by-track breakdown, but I actually unexpectedly enjoyed Ryan Beatty’s sophomore album Dreaming of David, released at the end of January, more than I thought I would. 
+subtitle: Rife with unexpected bits of wonder and loveliness. 
 ---
+This isn’t a full album review: there’s not quite enough on this LP to warrant an all-out track-by-track breakdown, but I actually unexpectedly enjoyed Ryan Beatty’s sophomore album Dreaming of David, released at the end of January, more than I thought I would. 
 
 ![](https://images.genius.com/ab15d564e1b9204efecb220f258ac69d.1000x1000x1.jpg)
 
