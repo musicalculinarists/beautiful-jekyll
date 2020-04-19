@@ -1,0 +1,37 @@
+# Trying
+Luna Li’s *Trying* is a dream laced with electric wire. It’s an insane combination of smooth and fiery, tied together by killer instrumentals and some badass production.
+
+![](https://f4.bcbits.com/img/a2067753946_10.jpg)
+
+[](https://www.google.com/url?sa=i&url=https%3A%2F%2Flunali.bandcamp.com%2Ftrack%2Ftrying&psig=AOvVaw2BkdqB-VxozEw3nxKak767&ust=1587357584607000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKisvv3V8-gCFQAAAAAdAAAAABAD)
+[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chelseabrimstinphotography.com%2Ffullscreen-page%2Fcomp-j7dehqpw%2F42d477c3-d39d-489e-aa88-390a53e2adb5%2F3%2F%253Fi%253D3%2526s%253Dstyle-ja13fh6h&psig=AOvVaw21GPhUAUK4KGYIDH2aFG2G&ust=1587356294955000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjAsKXR8-gCFQAAAAAdAAAAABAD)The song starts with a soft dreaminess, but soon it bursts into incandescent almost-metallic strings, over and over, like something out of a Disney-dream. As Luna sings, “Turn out the lights, I’ll try again in the morning,” over the repeating crescendo of the strings, her voice mad soft and floaty and good, you feel like you’re waking up out of a dream into another dream. It’s like entering another universe, one with twinkles and everything’s tinged the color of sunset. 
+
+Do you know [Once Upon a Dream](https://www.youtube.com/watch?v=LCCxnuLlS18), from Sleeping Beauty? This song is like ‘Once Upon a Dream’ if sleeping beauty was like, an indie badass with cropped bangs and a constellation tattoo on her inner wrist who tripped on shrooms with you that one time, and also totally a fourth wave feminist who writes poetry in her spare time? You know what I mean? Like. If we entered another dimension and discovered ourselves in a fairytale, except cooler. 
+
+
+![WOMEN 2020](https://hamiltonrising.com/wp-content/uploads/2019/10/LunaL-7-1024x683.jpg)
+
+![Look how much fun she’s having!](https://paper-attachments.dropbox.com/s_C4E26F99EAE1DDB52CCAB2600A14E6336344EB91CFE7D03CEC32FD4A3485201D_1587270112343_image.png)
+
+[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oneintenwords.com%2F2019%2F07%2Fnxne-2019-luna-li-at-royal-mountain.html&psig=AOvVaw2BWx26cUAcNkJR4iHwgB7z&ust=1587356400493000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJClksbR8-gCFQAAAAAdAAAAABAJ)
+Luna Li is also the GOD of crescendos. There’s this moment in the song (at 1:59 to be exactly) where Li’s background singing of “oooh-ooh” become the main vocals of the song, and then in the span of maybe a second, the “oooh-ooh”s build up into “oooooOOh, I’ve been trying, you know, that I’ve been trying!” and it’s such an enchanting, well-executed moment. 
+
+Lyrically, the song is pretty simple (it’s mostly sung to the same beat, there aren’t too many deep moments — she pulls a “am I in love or just afraid to be alone?” which is obviously valid but also a cliche) but somehow, the singing is still really engaging. One reason for that is probably just how perfectly her voice blends in with the insane instrumentals on the song, and the other reason is the placement of her lyrics. Her vocals pop up only when needed and feel more like another instrument than the focal point of the song. It’s fresh and it’s charming. 
+
+There’s also a music video that perfectly evokes all of the imagery of the song: the strings! The dreaminess! The color tones! The clouds and twinkles and the mist and the sparkles! 
+
+https://www.youtube.com/watch?v=r1dy9P6ND0E&
+
+
+[https://youtu.be/r1dy9P6ND0E](https://youtu.be/r1dy9P6ND0E)
+
+Also weirdly enough, all good music comes from Toronto now?
+[Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF?si=_u96nitGS7exopTCAelcsA), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ?si=RJg-s9EqTLCM4qvrGSbZ2w), [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3?si=dyEcFSSBRjO3kVNY23InkQ), [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB?si=gsdH97oFSSuyS2FLC9RgVg), [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0?si=aWi9Yr0jSr-ygbxdIjMx4A), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ?si=M5vEaj51Q8a56odxYoJlQg)… is it time to move to Canada not just for the impossible, yet deceptive and maybe-not-as-good-liberal-as-you-think charm of Justin Trudeau’s [smile](https://thenypost.files.wordpress.com/2019/09/trudeau-blackface.jpg?quality=90&strip=all&w=1236&h=820&crop=1) but also for the *music*? 
+
+Checkout more of the Toronto Indie Scene in [this playlist](https://open.spotify.com/playlist/0eKrj9ZnsIAYUMsbREmS2R). 
+
+
+## You May Also Like
+
+[Movies](https://open.spotify.com/track/31LKL7XfxR1PTm6Or9KTKv) by Weyes Blood
+
