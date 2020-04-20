@@ -1,5 +1,9 @@
-# fuck off, pitchfork. 
-Disclaimer: this post is annoyingly m e t a; that is, it’s criticism of music criticism. Yes, we’re that invested. 
+---
+layout: post
+title: fuck off, pitchfork. 
+subtitle: Disclaimer: this post is annoyingly m e t a; that is, it’s criticism of music criticism. Yes, we’re that invested.
+tags: [rant]
+---
 
 The deluge of almost theatrically glowing praise surrounding Fiona Apple’s latest album—and in particular, Pitchfork’s 10 out of 10 rating—points to a way larger problem in music criticism about idealizing a certain type of establishment, well-known, well-treaded work and artist at the expense of others who are genuinely pushing the boundaries of their genres, music as an art, and music as an industry. 
 
