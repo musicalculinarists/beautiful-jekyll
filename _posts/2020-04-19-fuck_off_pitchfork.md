@@ -1,7 +1,7 @@
 ---
 layout: post
 title: fuck off, pitchfork. 
-subtitle: Disclaimer: this post is annoyingly m e t a; that is, it’s criticism of music criticism. Yes, we’re that invested.
+subtitle: Disclaimer, this post is annoyingly meta; that is, it’s criticism of music criticism. Yes, we’re that invested.
 tags: [rant]
 ---
 
