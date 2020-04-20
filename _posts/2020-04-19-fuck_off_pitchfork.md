@@ -7,9 +7,8 @@ tags: [rant]
 
 The deluge of almost theatrically glowing praise surrounding Fiona Apple’s latest album—and in particular, Pitchfork’s 10 out of 10 rating—points to a way larger problem in music criticism about idealizing a certain type of establishment, well-known, well-treaded work and artist at the expense of others who are genuinely pushing the boundaries of their genres, music as an art, and music as an industry. 
 
-
-![Want to raise your heart rate? Look at this image.](https://paper-attachments.dropbox.com/s_89A64EB5F326771834D6E6581FF0A9D717136A8A09717E6F4DB6026B1CA9C7B0_1587277303885_image.png)
-
+{: .caption :}
+![Want to raise your heart rate? Look at this image.](https://paper-attachments.dropbox.com/s_89A64EB5F326771834D6E6581FF0A9D717136A8A09717E6F4DB6026B1CA9C7B0_1587277303885_image.png) Want to raise your heart rate? Look at this image.
 
 It’s not just Pitchfork, of course. A ton of major publications are joining in. The New Yorker calls Apple’s album “ferociously individual” and lavishes much praise on her lyrics, which are “hyper-articulate, introspective screeds about ex-boyfriends” (the height of art now, apparently), and The New York Times calls it “a bold, cathartic, challenging masterpiece.” Slate has named it the “unofficial album of the pandemic.” Vulture say it has “singular sonic experiments: dogs barking, supermodels meowing, chanting, bells.” (Spoiler, none of that stuff sounds particularly **crazy. I mean, we heard Frank just concatenate a [full-on interview](https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf) onto the end of his album four years ago. But I guess that’s just silly “youth culture,” and this is art…right?)
 
@@ -25,8 +24,8 @@ It wouldn’t be a problem to simply appreciate the best parts of the album and 
 
 **How in the world is** ***Blonde*** **a 9.0 when this album is a 10?** How is *Telefone* an 8.0? Why is serpentwithfeet’s soil—one of the most vulnerable, in-depth, experimental, *strange*, ethereal, and daring albums I’ve heard in the last two years, which offers a “complex vision of queer love”, then only an 8.1 on Pitchfork? Why is Rostam’s Half-Light, which absolutely smashes the boundaries of production and genre and infuses influences from old East-Asian folk music into pop and indie-electronic—and has every feeling from the joyous strings on Gwan to the quiet intimacy of I Will See You Again to the fun and unexpected sweetness of ‘two boys, one to kiss your neck and one to bring you breakfast,’—then only a 7.2? Why is the screaming, piercing techno of Against All Logic’s 2017-2019 less raw and interesting and daring than indie wailing? (That album’s a 7.9 according to Pitchfork. **I didn’t even like that album**, I don’t even listen to Against All Logic, but *if* you’re going to grade albums on “novelty” and “nothing sounding quite like it” and “rawness” it’s five ages above anything we’re hearing on this album.) Why do artists like Roy Blair, Ryan Beatty, Arthur Moon, Choker, and even Healy, Monsune, and Kai Whiston (who makes some of the most violent, jarring, electric, head-smashing and weird music I’ve ever heard, so much so that even *I* at times hesitate to call it music, and we all know if [Kanye released an album of silence, I’d hear it](https://pics.me.me/chocolate-bar-percxcet-one-day-kanye-will-release-an-empty-28381768.png)) not even have a single entry on Pitchfork? 
 
-![soil slaps. go listen](https://f4.bcbits.com/img/a3702743229_10.jpg)
-
+{: .caption :}
+![soil slaps. go listen](https://f4.bcbits.com/img/a3702743229_10.jpg) soil slaps, go listen
 
 Yeah, it’s one rating, by one music review site (albeit the most respected one out there—besides this blog, of course) but nonetheless it’s frustrating. It’s frustrating because Fiona Apple is getting lauded for music that’s one, been done before, and two not half as good as what’s out there. What’s more frustrating is that we *know* why it’s happening, because it happens this way for everything. If you need a hint, take the Oscars.
 
