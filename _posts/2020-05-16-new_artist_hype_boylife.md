@@ -1,15 +1,17 @@
 --- 
 layout: post
-title: new artist hype - boylife
-subtitle: Ryan Yoo, aka boylife, is an artist with so much raw talent for production and lyricism—and most refreshingly of all, an ability to make fucking bangers in completely disparate genres and styles. 
+title: new artist hype&#58; boylife
+subtitle: We haven’t felt this excited about a new artist in a really, really long time. 
 --- 
 
-We haven’t felt this excited about a new artist in a really, really long time. 
+Ryan Yoo, aka boylife, is an artist with so much raw talent for production and lyricism—and most refreshingly of all, an ability to make fucking bangers in completely disparate genres and styles. 
 
-![mmmonika’s single covers… gorgeous](https://paper-attachments.dropbox.com/s_C2658FCC1F9561655945D397A1A037630336F44B64E6A9849F0B23BF0D4114E8_1589659616651_image.png)
+{: .caption :}
+![](https://paper-attachments.dropbox.com/s_C2658FCC1F9561655945D397A1A037630336F44B64E6A9849F0B23BF0D4114E8_1589659616651_image.png)
+mmmonika’s single covers… gorgeous
 
 
-Yoo was previously a member of the band [*mmmonika*](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) **(self described as a project where “four white boys and an asian kid came together like voltron”). Their graphics are very, very fresh and their music is the fun, vibe-y, solid indie reminiscent of [COIN](https://open.spotify.com/album/0WDL2Ol0DjqBL67f4LoWo8) and [Melt](https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9) and even [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) and [c a n d i d !](https://open.spotify.com/artist/40eScT09blR2WOpG2zbe9o) at times. It’s not a bad showing at all—in fact, I quite enjoyed it, but it doesn’t really compare to what boylife has done in two tracks as a solo artist.  
+Yoo was previously a member of the band [*mmmonika*](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) (self described as a project where “four white boys and an asian kid came together like voltron”). Their graphics are very, very fresh and their music is the fun, vibe-y, solid indie reminiscent of [COIN](https://open.spotify.com/album/0WDL2Ol0DjqBL67f4LoWo8) and [Melt](https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9) and even [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) and [c a n d i d !](https://open.spotify.com/artist/40eScT09blR2WOpG2zbe9o) at times. It’s not a bad showing at all—in fact, I quite enjoyed it, but it doesn’t really compare to what boylife has done in two tracks as a solo artist.  
 
 [](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fmmmonikaband%2F&psig=AOvVaw0p__I8GkWqkd71IOaL_w73&ust=1589745649253000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC99ZiWuekCFQAAAAAdAAAAABAD)boylife’s first single, [*peas*](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53), doesn’t dance and jam around in the way funky indie boy bands do, it’s raw, and emotional, and full of atmosphere and gravity. It has the hymnal, enveloping feeling of Hozier’s [*Work Song*](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) **and the **impossibly tender heart of Perfume Genius’ [*Hood*](https://open.spotify.com/track/4ONbE2UQU0hiizcxR4fToc) **and [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF)’s knack for slow builds into explosive catharsis. 
 
