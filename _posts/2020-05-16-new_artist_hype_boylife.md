@@ -1,6 +1,10 @@
-# new artist hype: boylife
-We haven’t felt this excited about a new artist in a really, really long time. Ryan Yoo, aka boylife, is an artist with so much raw talent for production and lyricism—and most refreshingly of all, an ability to make fucking bangers in completely disparate genres and styles. 
+--- 
+layout: post
+title: new artist hype: boylife
+subtitle: Ryan Yoo, aka boylife, is an artist with so much raw talent for production and lyricism—and most refreshingly of all, an ability to make fucking bangers in completely disparate genres and styles. 
+--- 
 
+We haven’t felt this excited about a new artist in a really, really long time. 
 
 ![mmmonika’s single covers… gorgeous](https://paper-attachments.dropbox.com/s_C2658FCC1F9561655945D397A1A037630336F44B64E6A9849F0B23BF0D4114E8_1589659616651_image.png)
 
