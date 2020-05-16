@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Best of the Blogs
-subtitle: If, for some absurd reason, you don't want to read each and every one of our blog posts (which like... why wouldn't you?), here are some of our favorites. 
+subtitle: If you, for some absurd reason, don't want to read each and every one of our blog posts (which like... why wouldn't you?), here are some of our favorites. 
 ---
 
 ### [fuck off, pitchfork](https://musicalculinarists.github.io/2020-04-19-fuck_off_pitchfork/)
