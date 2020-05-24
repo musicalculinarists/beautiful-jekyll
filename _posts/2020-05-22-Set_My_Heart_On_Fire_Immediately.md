@@ -46,20 +46,20 @@ The cascading piano at the song’s beginning is very “Morning Mood” by Peer
 Strong showing. 
 
 ### On the Floor ###
-ABSOLUTE BOP. It’s like simp, but if simp was groovy and the kind of thing you danced you heart out to “on the floor.” 
+ABSOLUTE BOP. It’s like simp, but if simp was groovy and the kind of thing you danced your heart out to “on the floor.” 
 
 
-> The rise and fall of his chest on me
-> I’m trying but it’s all I see
-> The violent current of energy
+> The rise and fall of his chest on me<br>
+> I’m trying but it’s all I see<br>
+> The violent current of energy<br>
 > I hide it away and underneath
 
 
-> Lock the door
-> I shake, I promise every day to change
+> Lock the door<br>
+> I shake, I promise every day to change<br>
 > I cross out his name on the page
 
-These don’t sound like dance-friendly lyrics, but somehow this song becomes fun and explosive and cathartic and unbearably emotional all at once. Maybe my favorite song on the whole album.
+These don’t sound like dance-friendly lyrics, but somehow this song becomes fun and explosive and cathartic and unbearably emotional all at once. My favorite song on the whole album.
 
 {: .box-note} 
 H E L L Y E A H
