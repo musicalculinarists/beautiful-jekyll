@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Apparition EP
-subtitle: serpentwithfeet's new EP, another incredible work of art from the King himself
+subtitle: serpentwithfeet's newest EP
 --- 
 It’s REALLY good, [go listen](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8).
 
