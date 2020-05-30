@@ -1,5 +1,8 @@
-# serpentwithfeet is a genius
-his music is poetry. 
+---
+layout: page
+title: Serpentwithfeet is a genius
+subtitle: And his music is poetry
+use-site-title: false
 
 whisper 
 
