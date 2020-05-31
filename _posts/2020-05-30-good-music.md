@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting your friends into good music
-subtitle: Ever have friends who you *know* are good people, but just have unforgivably trash music taste? This is the post that will help you show those sinners the light. 
+subtitle: Ever have friends who you know are good people, but just have unforgivably trash music taste? This is the post that will help you show those sinners the light. 
 ---
 
 Let’s admit it, good music exists on a spectrum. Sometimes, you can’t throw the kids into the deep end all at once, you know? Floaties first. 
