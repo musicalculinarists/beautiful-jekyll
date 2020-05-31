@@ -6,7 +6,7 @@ subtitle: Ever have friends who you know are good people, but just have unforgiv
 
 Let’s admit it, good music exists on a spectrum. Sometimes, you can’t throw the kids into the deep end all at once, you know? Floaties first. 
 
-Below, you’ll find a set of beautifully illustrated (that’s right, we know graphic design 😎 ) directed acyclic graphs for your perusal that will have even the biggest Maroon 5 fans in the world shouting along to JPEGMAFIA. 
+Below, you’ll find a set of beautifully illustrated (that’s right, we know graphic design 😎) directed acyclic graphs for your perusal that will have even the biggest Maroon 5 fans in the world shouting along to JPEGMAFIA. 
 
 First, for your friends who think “God’s Plan” is the hop song of the decade:
 
