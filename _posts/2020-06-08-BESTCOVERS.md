@@ -10,61 +10,46 @@ Hozier is *so damn good* at covers it’s unbelievable. He has a penchant for ta
 
 **Sweet Thing** 
 
-https://www.youtube.com/watch?v=HAbs_PYfpvQ&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HAbs_PYfpvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/HAbs_PYfpvQ](https://youtu.be/HAbs_PYfpvQ)
 Hozier’s cover of Van Morrison’s [Sweet Thing](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz?highlight=spotify:track:4dBI72rgkmG0gTzswyBTzz) is quite literally *my favorite song of all time*. It’s been my favorite song since I was fourteen and as much music as I listen to, nothing can quite match the way this song makes me feel. **This is a cover that (for Hozier) sticks relatively close the vibe of the original and is kept quite simple—just the strumming of the guitar and his voice, bright and clear, filtering through the church. But there’s something about it that can save your entire life, if you let it. It brings back a joy and soul and nostalgia and hope for the wonder that once inhabited your heart as a child, and reminds you why life can and will always be a ‘sweet thing.’ 
 
 **Do I Wanna Know**
 
-https://www.youtube.com/watch?v=fuWq4RZnc6U&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fuWq4RZnc6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/fuWq4RZnc6U](https://youtu.be/fuWq4RZnc6U)
 The original *Do I Wanna Know* by the Arctic Monkey’s is all classic indie rock with might-get-back-with-my-ex lyrics. In Hozier’s cover, it’s completely remade into something quiet, raw, hymnal, and tender. It’s the kind of song you’d play as you fell asleep next to someone and you fell in love with them at the same time. It extracts all the vulnerability that never makes itself known in the original song because, um, indie rock and danger and overconfidence and innuendo, and condenses it and reveals it in a stunning, impossibly beautiful form. And the fact that he can make a song *sadder* in major key than minor-key is just *whoa*. 
 
 **Lay Me Down**
 
-https://www.youtube.com/watch?v=N7XDLxC0IDQ&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N7XDLxC0IDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/N7XDLxC0IDQ](https://youtu.be/N7XDLxC0IDQ)
 Hozier transforms the raw, ballad-esque crooning of [Sam Smith’s](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x?highlight=spotify:track:64GRDrL1efgXclrhVCeuA0) [*Lay Me Down*](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x?highlight=spotify:track:64GRDrL1efgXclrhVCeuA0), into a funky, Motown, uptempo, ecstatic, soulful, get on your *feet* song that you won’t be able to resist dancing along to. The fact that he can make *a Sam Smith ballad*  feel more like the Mark Ronson version of Valerie while still preserving all the emotion and heart in the original—it’s just crazy. Absolutely crazy. 
 
 **Problem**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5svYq7HZ1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=i5svYq7HZ1Y&
-
-
-[https://youtu.be/i5svYq7HZ1Y](https://youtu.be/i5svYq7HZ1Y)
 In the other covers, Hozier has the advantage of an original song that I happen to like (though I love his covers way more). Not in this case—I think “Problem” by Ariana Grande is another average pop song. But Hozier *completely* changes it up here—it becomes snazzy and jazzy and the harmonization is absolutely amazing. He adds in his take of [Warren G and Nate Dogg’s Regulate](https://open.spotify.com/track/4uIKHABS2ixy0AW0Y31rj4), and it somehow fits in seamlessly. You literally can’t help but sing along. 
 
 ##  Frank Ocean’s Covers 
 ### Strawberry Swing
-https://www.youtube.com/watch?v=G7wcRZWRDdw&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G7wcRZWRDdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/G7wcRZWRDdw](https://youtu.be/G7wcRZWRDdw)
 Nostalgia, Ultra is Frank Ocean’s debut mixtape and it’s really, really fucking good. He covers a couple of songs on the tape, but his best cover by far is of [Coldplay’s Strawberry Swing](https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3). At first, it’s not *that* different from the original. But then, you listen to the lyrics and Frank’s changed the whole goddamn point of the song — it goes from standard love song to a childhood romance doomed by an impending apocalypse where once lovers must now be separated by the impossibility of interplanetary space travel love song, and if that doesn’t require genius, I don’t know what does. Throughout the song, Frank plants little musical easter eggs but our favorite one is the one at the end of the song — we won’t spoil it for you. 
 
 (Also this is the perfect song for big life changes and reminiscence and nostalgia…. I put this shit on LOOP when I was leaving for college.) 
 
 
 ### Nature Feels
-https://www.youtube.com/watch?v=xTIaZSWZxtM&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xTIaZSWZxtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/xTIaZSWZxtM](https://youtu.be/xTIaZSWZxtM)
-It’s another one of Frank’s lyric changing covers off of Nostalgia, Ultra. It’s definitely not as good as Strawberry Swing, it’s just an overtly sexual twist on MGMT’s Electric Feel, but it’s so raunchy and groovy — it’s hard not to love. 
+It’s another one of Frank’s lyric changing covers off of Nostalgia, Ultra. It’s definitely not as good as Strawberry Swing, it’s just an overtly sexual twist on MGMT’s Electric Feel, but it’s so raunchy and groovy that it’s hard not to love. 
 
 
 ### At Your Best
-https://www.youtube.com/watch?v=DQZ6tKcidf8&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DQZ6tKcidf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/DQZ6tKcidf8](https://youtu.be/DQZ6tKcidf8)
 At Your Best is a cover of [Aaliyah’s](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA) [At Your Best (](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA)[You Are Love](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA)[)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA) (which is a cover of the [Isley Brothers’ original 1976 song](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr?si=KvoWYLg6TC2gFCId_iDgtw)) off of Frank’s visual album Endless. Endless wasn’t the main attraction when Frank released new music four years ago — Blonde was for obvious reasons, but Endless still has its fair share of absolute bangers. At Your Best is one of them, it really shows off Frank’s gorgeous vocals while being a new and interesting (a.k.a edgy slow techno like the rest of the album) take of a classic. 
 
 
@@ -79,18 +64,12 @@ https://open.spotify.com/track/1VZLEW5ZfcAbKZ94XQiSZF
 
 Watch the Talkbox cover too, it may just be the sweetest video on the internet. 
 
-https://www.youtube.com/watch?v=PnR19INlXV8&
-
-
-[https://youtu.be/PnR19INlXV8](https://youtu.be/PnR19INlXV8)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PnR19INlXV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Covers by Other Artists
 ### What Have They Done to My Song, Ma? by Miley Cyrus
-https://www.youtube.com/watch?v=GX9A5vv-jOM&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GX9A5vv-jOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/GX9A5vv-jOM](https://youtu.be/GX9A5vv-jOM)
 This cover is a technically duet with the Melanie, who wrote it [originally](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS?highlight=spotify:track:4SD1AmG7x1ks4XYgH0cNRj), but—it’s beautiful. You can really hear the power of Miley’s voice that’s sometimes obscured by pop production in her actual music and an edge of delightful ~Southern~ twang. The mourning of the song is contradicted just how much *fun* Miley and Melanie are having singing it together, and it’s just an absolute joy to watch. 
 
 ### Desperado by Johnny Cash
@@ -108,20 +87,16 @@ A classic cover of Hound Dog. Etta James uses whole men are dogs narrative (from
 ### Christmas Treat by Julian Casablancas
 In prehistoric times, SNL released its very own single I Wish It Was Christmas Today. It was met with great success because it *truly* was an incredible song, played by an incredible band and — well, I’ll just let you watch it. 
 
-https://www.youtube.com/watch?v=jDdSQlCbJ90&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDdSQlCbJ90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/jDdSQlCbJ90](https://youtu.be/jDdSQlCbJ90)
 Anyways, a couple years later, Julian Casablancas, lead singer of The Strokes (and The Voidz but we don’t talk about that), releases a solo album called Phrazes for the Young. This also met with great success, because it’s Julian Casablancas, c’mon. At the end of this banger or an album is a pretty unsuspecting song called Christmas Treat, which turns out to be a fully-fledged grown-up masterpiece of a cover of I Wish It Was Christmas Today. Honestly, Casablancas just has a voice that makes everything sound *smart* or more musically complicated than it really is, but yeah, Christmas Treat is a slightly techno very intense cover of a stupid SNL song and it’s still genius. If you ever want to listen to Christmas music, but don’t want to play Mariah Carey or Michael Bublé for 8 hours straight, this’ll diversify it. Take a gander:
 
 <iframe src="https://open.spotify.com/embed/track/4Ie4u5mxn53KoPuEn928Gr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Someday by Julia Jacklin
-https://www.youtube.com/watch?v=DhSzpJOestE&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DhSzpJOestE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/DhSzpJOestE](https://youtu.be/DhSzpJOestE)
-Triple J has been host to a *lot* of good covers (see our: *Other Good Ones We Won’t Write about cause this post is long as fuck* section of the post below) but Julia Jacklin’s slow, bittersweet, and stripped down cover of [The Strokes’ Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) might just be our favorite. And not just because we were obsessed with The Strokes in seventh grade (though that is admittedly a factor). Jacklin’s voice is so low and smooth and perfect. In this cover, we really get to see the loneliness and the passage of time that underpins original lo-fi uptempo indie-rock banger. 
+Triple J has been host to a *lot* of good covers (see our: *Other Good Ones We Won’t Write About Cause This Post Is Long As Fuck* section of the post below) but Julia Jacklin’s slow, bittersweet, and stripped down cover of [The Strokes’ Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) might just be our favorite. And not just because we were obsessed with The Strokes in seventh grade (though that is admittedly a factor). Jacklin’s voice is so low and smooth and perfect. In this cover, we really get to see the loneliness and the passage of time that underpins original lo-fi uptempo indie-rock banger. 
 
 Bonus points: in the YouTube video, the camera work is really clean. 
 
@@ -130,10 +105,8 @@ Also [on Spotify](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK?si=ftfJe
 ### Yah/Element by Joy Crookes
 First of all, the video for the medley is amazing. 
 
-https://www.youtube.com/watch?v=CzQB73EGmJI&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CzQB73EGmJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/CzQB73EGmJI](https://youtu.be/CzQB73EGmJI)
 Second, the production™ on this bad boy is *divine.* Crookes’ adds her own mellow banger jazz vibes to two of the (in my opinion) more basic songs on DAMN. Also, the first transition between the two songs is absolutely genius, it feels as if the song is literally washing over you. Like if that transition was a dive, it’d be a Tom Daley dive, it cuts through the water without a splash. 
 Finally, Joy Crookes’ voice is so good and so unique — I honestly haven’t heard anyone like her before. Definitely check her other music out—I recommend Early, Man’s World and Mother May I Sleep With Danger?).
 
@@ -144,21 +117,16 @@ The original [Archie, Marry Me by Alvaays](https://open.spotify.com/track/5HLes1
 
 For a cute live a cappella performance of the cover in a parking garage, watch the music video:
 
-https://www.youtube.com/watch?v=68Hm5-gp6go&
-
-
-[https://youtu.be/68Hm5-gp6go](https://youtu.be/68Hm5-gp6go)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/68Hm5-gp6go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Soundcloud/Youtube type beat
 ### Justic Der’s Self Control (and the rest of his instrumental covers)
 
-Justic Der just makes really good instrumental covers of really good songs. 
+Justic Der makes really good instrumental covers of really good songs. 
 
-https://www.youtube.com/watch?v=8jzYBhvZggs&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jzYBhvZggs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/8jzYBhvZggs](https://youtu.be/8jzYBhvZggs)
 I don’t understand enough about music to know why they’re so damn good, but Der just adds little twists and frills to his instrumental covers that hit different. His music video for Self Control perfectly captures the emotions his covers provoke, a little bit of nostalgia and a little bit of melancholy. 
 
 ### blue moon - mobble
@@ -185,14 +153,12 @@ If you want to hear more music that sort of—well, it’ll destroy and rebirth 
 
 Of course, this wouldn’t be a BEST COVERS post without the best cover of a song we’ve ever heard, and probably one of the most transformative audiovisual experiences of our lives. We present to you, White Ferrari, by PlasmaMasterDon:
 
-https://www.youtube.com/watch?v=_cnxR7B5CsY&
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_cnxR7B5CsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[https://youtu.be/_cnxR7B5CsY](https://youtu.be/_cnxR7B5CsY)
 You’re welcome.
 
 
-## Other Good Ones We Won’t Write About Cause This Post Is Way Too Long
+## Other Good Ones We Won’t Write About Cause This Post Is Long As Fuck
 
 [**House of The Rising Sun**](https://open.spotify.com/track/6TgDGChKp7J4F2mhVHkzYc) (alt-J)<br>
 [**The Other Woman**](https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4) (Lana Del Rey)<br>
