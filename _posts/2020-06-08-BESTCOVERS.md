@@ -63,11 +63,14 @@ Watch the talkbox cover too, it may just be the sweetest video on the internet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PnR19INlXV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 ## Covers by Other Artists
 ### What Have They Done to My Song, Ma? by Miley Cyrus
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GX9A5vv-jOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This cover is a technically duet with the Melanie, who wrote it [originally](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS?highlight=spotify:track:4SD1AmG7x1ks4XYgH0cNRj), but—it’s beautiful. You can really hear the power of Miley’s voice that’s sometimes obscured by pop production in her actual music and an edge of delightful ~Southern~ twang. The mourning of the song is contradicted just how much *fun* Miley and Melanie are having singing it together, and it’s just an absolute joy to watch. 
+
 
 ### Desperado by Johnny Cash
 
@@ -75,11 +78,13 @@ This cover is a technically duet with the Melanie, who wrote it [originally](htt
 
 Johnny Cash’s cover of the [1973 Eagles song](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) stays faithful to the message and aching loneliness, but Cash’s low, gravelly voice over a stripped-bare guitar really takes this rendition to another level. Ever feeling on some “lonely wanderer” type beat, this is exactly the song to play. 
 
+
 ### Hound Dog by Etta James
 
 A classic cover of Hound Dog. Etta James uses whole men are dogs narrative (from Big Mama Thorton’s version), adds a lot of howling, and a boat load of groove. It’s really good. 
 
 <iframe src="https://open.spotify.com/embed/track/52auP9OuR9q0qR2OQxM5l0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 ### Christmas Treat by Julian Casablancas
 In prehistoric times, SNL released its very own single I Wish It Was Christmas Today. It was met with great success because it *truly* was an incredible song, played by an incredible band and — well, I’ll just let you watch it. 
@@ -90,6 +95,7 @@ Anyways, a couple years later, Julian Casablancas, lead singer of The Strokes (a
 
 <iframe src="https://open.spotify.com/embed/track/4Ie4u5mxn53KoPuEn928Gr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+
 ### Someday by Julia Jacklin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhSzpJOestE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -99,6 +105,7 @@ Bonus points: in the YouTube video, the camera work is really clean.
 
 Also [on Spotify](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK?si=ftfJekjoQQGiw09jpjOhaA). 
 
+
 ### Yah/Element by Joy Crookes
 First of all, the video for the medley is amazing. 
 
@@ -106,6 +113,7 @@ First of all, the video for the medley is amazing.
 
 Second, the production™ on this bad boy is *divine.* Crookes’ adds her own mellow banger jazz vibes to two of the (in my opinion) more basic songs on DAMN. Also, the first transition between the two songs is absolutely genius, it feels as if the song is literally washing over you. Like if that transition was a dive, it’d be a Tom Daley dive, it cuts through the water without a splash. 
 Finally, Joy Crookes’ voice is so good and so unique — I honestly haven’t heard anyone like her before. Definitely check her other music out—I recommend Early, Man’s World and Mother May I Sleep With Danger?).
+
 
 ### Archie, Marry Me by Flyte
 <iframe src="https://open.spotify.com/embed/track/0rcwROyUguj5RQa5pPKajI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -117,6 +125,7 @@ For a cute live a cappella performance of the cover in a parking garage, watch t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68Hm5-gp6go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 ## Soundcloud/Youtube type beat
 ### Justic Der’s Self Control (and the rest of his instrumental covers)
 
@@ -125,6 +134,7 @@ Justic Der makes really good instrumental covers of really good songs.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8jzYBhvZggs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I don’t understand enough about music to know why they’re so damn good, but Der just adds little twists and frills to his instrumental covers that hit different. His music video for Self Control perfectly captures the emotions his covers provoke, a little bit of nostalgia and a little bit of melancholy. 
+
 
 ### blue moon - mobble
 
@@ -139,12 +149,14 @@ As a bonus, a Mabel Ye animation circa 2018:
 <iframe src="https://player.vimeo.com/video/265995376" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/265995376">beautiful brain</a> from <a href="https://vimeo.com/mabelye">Mabel Ye</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+
 ### OLD TIME RELIGION by JAPA_KNEES 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/162047259&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/japa_knees" title="JAPA_KNEES" target="_blank" style="color: #cccccc; text-decoration: none;">JAPA_KNEES</a> · <a href="https://soundcloud.com/japa_knees/old-time-religion" title="OLD TIME RELIGION" target="_blank" style="color: #cccccc; text-decoration: none;">OLD TIME RELIGION</a></div>
 
 Perhaps best known as the ending track to [the greatest film of all time](https://www.youtube.com/watch?v=4URMxcg7yQE&feature=youtu.be), JAPA_KNEES’ version of the traditional 19th century Gospel song is—well, it’s a game changer. It honestly can’t be summarized, it needs to be heard in its raw, unfiltered site.
 
 If you want to hear more music that sort of—well, it’ll destroy and rebirth your brain at the same time—listen to JAPA_KNEES in general. There’s also a not unsubstantial amount of lore behind the unknown identity of JAPA_KNEES, and the fact that he still hasn’t responded to my Facebook message from a year ago asking him to watch our movie, but… those are stories for another time. 
+
 
 ### White Ferrari by PlasmaMasterDon
 
