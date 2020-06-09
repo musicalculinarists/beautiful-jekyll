@@ -94,8 +94,6 @@ https://www.youtube.com/watch?v=GX9A5vv-jOM&
 This cover is a technically duet with the Melanie, who wrote it [originally](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS?highlight=spotify:track:4SD1AmG7x1ks4XYgH0cNRj), but—it’s beautiful. You can really hear the power of Miley’s voice that’s sometimes obscured by pop production in her actual music and an edge of delightful ~Southern~ twang. The mourning of the song is contradicted just how much *fun* Miley and Melanie are having singing it together, and it’s just an absolute joy to watch. 
 
 ### Desperado by Johnny Cash
-https://open.spotify.com/track/58QomoMiMPhWfZwrqOmUt0
-
 
 <iframe src="https://open.spotify.com/embed/track/58QomoMiMPhWfZwrqOmUt0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -105,10 +103,7 @@ Johnny Cash’s cover of the [1973 Eagles song](https://open.spotify.com/track/2
 
 A classic cover of Hound Dog. Etta James uses whole men are dogs narrative (from Big Mama Thorton’s version), adds a lot of howling, and a boat load of groove. It’s really good. 
 
-https://open.spotify.com/track/52auP9OuR9q0qR2OQxM5l0
-
-
-[https://open.spotify.com/track/52auP9OuR9q0qR2OQxM5l0](https://open.spotify.com/track/52auP9OuR9q0qR2OQxM5l0)
+<iframe src="https://open.spotify.com/embed/track/52auP9OuR9q0qR2OQxM5l0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Christmas Treat by Julian Casablancas
 In prehistoric times, SNL released its very own single I Wish It Was Christmas Today. It was met with great success because it *truly* was an incredible song, played by an incredible band and — well, I’ll just let you watch it. 
@@ -119,10 +114,7 @@ https://www.youtube.com/watch?v=jDdSQlCbJ90&
 [https://youtu.be/jDdSQlCbJ90](https://youtu.be/jDdSQlCbJ90)
 Anyways, a couple years later, Julian Casablancas, lead singer of The Strokes (and The Voidz but we don’t talk about that), releases a solo album called Phrazes for the Young. This also met with great success, because it’s Julian Casablancas, c’mon. At the end of this banger or an album is a pretty unsuspecting song called Christmas Treat, which turns out to be a fully-fledged grown-up masterpiece of a cover of I Wish It Was Christmas Today. Honestly, Casablancas just has a voice that makes everything sound *smart* or more musically complicated than it really is, but yeah, Christmas Treat is a slightly techno very intense cover of a stupid SNL song and it’s still genius. If you ever want to listen to Christmas music, but don’t want to play Mariah Carey or Michael Bublé for 8 hours straight, this’ll diversify it. Take a gander:
 
-https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr
-
-
-[https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr)
+<iframe src="https://open.spotify.com/embed/track/4Ie4u5mxn53KoPuEn928Gr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Someday by Julia Jacklin
 https://www.youtube.com/watch?v=DhSzpJOestE&
@@ -146,10 +138,7 @@ Second, the production™ on this bad boy is *divine.* Crookes’ adds her own m
 Finally, Joy Crookes’ voice is so good and so unique — I honestly haven’t heard anyone like her before. Definitely check her other music out—I recommend Early, Man’s World and Mother May I Sleep With Danger?).
 
 ### Archie, Marry Me by Flyte
-https://open.spotify.com/embed/track/0rcwROyUguj5RQa5pPKajI
-
-
-[https://open.spotify.com/embed/track/0rcwROyUguj5RQa5pPKajI](https://open.spotify.com/embed/track/0rcwROyUguj5RQa5pPKajI)
+<iframe src="https://open.spotify.com/embed/track/0rcwROyUguj5RQa5pPKajI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 The original [Archie, Marry Me by Alvaays](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35?si=xsue3jlUTKWn3CdJgdW8Ig) is a very summertime teen nostalgia indie banger. You and your crew of up-to-no-good friends drive around in a vintage turquoise pickup truck that’s on its last legs, conquering winding roads and redwood forests. The Flyte cover is something else entirely—slowed and stripped down, it feels hymnal, profoundly longing and melancholy. The harmonized, echoing vocals feel almost like a prayer. And yet it still captures summertime—for me, it honestly conjures a truer sense of nostalgia than the Alvaays version. I’m reminded of paddle boarding in small lakes during the summer. 
 
@@ -181,10 +170,8 @@ You can listen more of her music on [Spotify](https://open.spotify.com/artist/3v
 
 As a bonus, a Mabel Ye animation circa 2018:
 
-https://player.vimeo.com/video/265995376
-
-
-[https://vimeo.com/265995376](https://vimeo.com/265995376)
+<iframe src="https://player.vimeo.com/video/265995376" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/265995376">beautiful brain</a> from <a href="https://vimeo.com/mabelye">Mabel Ye</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### OLD TIME RELIGION by JAPA_KNEES 
 [JAPA_KNEES](https://soundcloud.com/japa_knees) · [OLD TIME RELIGION](https://soundcloud.com/japa_knees/old-time-religion)
