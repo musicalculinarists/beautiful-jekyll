@@ -1,4 +1,8 @@
-# BEST COVERS
+---
+layout: post
+title: BEST COVERS
+subtitle: These are the best covers on the market, confirmed. 
+---
 
 ## All of Hozier’s Covers
 
