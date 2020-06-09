@@ -65,11 +65,11 @@ https://www.youtube.com/watch?v=DQZ6tKcidf8&
 
 
 [https://youtu.be/DQZ6tKcidf8](https://youtu.be/DQZ6tKcidf8)
-****At Your Best is a cover of [Aaliyah’s](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA) [At Your Best (](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA)[You Are Love](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA)[)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA) (which is a cover of the [Isley Brothers’ original 1976 song](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr?si=KvoWYLg6TC2gFCId_iDgtw)) off of Frank’s visual album Endless. Endless wasn’t the main attraction when Frank released new music four years ago — Blonde was for obvious reasons, but Endless still has its fair share of absolute bangers. At Your Best is one of them, it really shows off Frank’s gorgeous vocals while being a new and interesting (a.k.a edgy slow techno like the rest of the album) take of a classic. 
+At Your Best is a cover of [Aaliyah’s](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA) [At Your Best (](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA)[You Are Love](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA)[)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA) (which is a cover of the [Isley Brothers’ original 1976 song](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr?si=KvoWYLg6TC2gFCId_iDgtw)) off of Frank’s visual album Endless. Endless wasn’t the main attraction when Frank released new music four years ago — Blonde was for obvious reasons, but Endless still has its fair share of absolute bangers. At Your Best is one of them, it really shows off Frank’s gorgeous vocals while being a new and interesting (a.k.a edgy slow techno like the rest of the album) take of a classic. 
 
 
 ## Close To You (cover of Stevie Wonder’s Talkbox)
-****
+
 Close To You is a cover of Stevie Wonder’s Talkbox cover of The Carpenter’s hit song Close To You. It’s good as fuck —  also watching it live is a pretty transformative experience (by live I mean live on YouTube, lol). 
 
 https://open.spotify.com/track/1VZLEW5ZfcAbKZ94XQiSZF
