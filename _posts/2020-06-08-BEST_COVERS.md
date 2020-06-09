@@ -41,8 +41,8 @@ https://www.youtube.com/watch?v=i5svYq7HZ1Y&
 [https://youtu.be/i5svYq7HZ1Y](https://youtu.be/i5svYq7HZ1Y)
 In the other covers, Hozier has the advantage of an original song that I happen to like (though I love his covers way more). Not in this case—I think “Problem” by Ariana Grande is another average pop song. But Hozier *completely* changes it up here—it becomes snazzy and jazzy and the harmonization is absolutely amazing. He adds in his take of [Warren G and Nate Dogg’s Regulate](https://open.spotify.com/track/4uIKHABS2ixy0AW0Y31rj4), and it somehow fits in seamlessly. You literally can’t help but sing along. 
 
-# Frank Ocean’s Covers 
-## Strawberry Swing
+##  Frank Ocean’s Covers 
+### Strawberry Swing
 https://www.youtube.com/watch?v=G7wcRZWRDdw&
 
 
@@ -52,7 +52,7 @@ Nostalgia, Ultra is Frank Ocean’s debut mixtape and it’s really, really fuck
 (Also this is the perfect song for big life changes and reminiscence and nostalgia…. I put this shit on LOOP when I was leaving for college.) 
 
 
-## Nature Feels
+### Nature Feels
 https://www.youtube.com/watch?v=xTIaZSWZxtM&
 
 
@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=xTIaZSWZxtM&
 It’s another one of Frank’s lyric changing covers off of Nostalgia, Ultra. It’s definitely not as good as Strawberry Swing, it’s just an overtly sexual twist on MGMT’s Electric Feel, but it’s so raunchy and groovy — it’s hard not to love. 
 
 
-## At Your Best
+### At Your Best
 https://www.youtube.com/watch?v=DQZ6tKcidf8&
 
 
@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=DQZ6tKcidf8&
 At Your Best is a cover of [Aaliyah’s](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA) [At Your Best (](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA)[You Are Love](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA)[)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam?si=HMedKXbNSvODFAAlzvGXkA) (which is a cover of the [Isley Brothers’ original 1976 song](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr?si=KvoWYLg6TC2gFCId_iDgtw)) off of Frank’s visual album Endless. Endless wasn’t the main attraction when Frank released new music four years ago — Blonde was for obvious reasons, but Endless still has its fair share of absolute bangers. At Your Best is one of them, it really shows off Frank’s gorgeous vocals while being a new and interesting (a.k.a edgy slow techno like the rest of the album) take of a classic. 
 
 
-## Close To You (cover of Stevie Wonder’s Talkbox)
+### Close To You (cover of Stevie Wonder’s Talkbox)
 
 Close To You is a cover of Stevie Wonder’s Talkbox cover of The Carpenter’s hit song Close To You. It’s good as fuck —  also watching it live is a pretty transformative experience (by live I mean live on YouTube, lol). 
 
@@ -85,15 +85,15 @@ https://www.youtube.com/watch?v=PnR19INlXV8&
 [https://youtu.be/PnR19INlXV8](https://youtu.be/PnR19INlXV8)
 
 
-# Covers by Other Artists
-## What Have They Done to My Song, Ma? by Miley Cyrus
+## Covers by Other Artists
+### What Have They Done to My Song, Ma? by Miley Cyrus
 https://www.youtube.com/watch?v=GX9A5vv-jOM&
 
 
 [https://youtu.be/GX9A5vv-jOM](https://youtu.be/GX9A5vv-jOM)
 This cover is a technically duet with the Melanie, who wrote it [originally](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS?highlight=spotify:track:4SD1AmG7x1ks4XYgH0cNRj), but—it’s beautiful. You can really hear the power of Miley’s voice that’s sometimes obscured by pop production in her actual music and an edge of delightful ~Southern~ twang. The mourning of the song is contradicted just how much *fun* Miley and Melanie are having singing it together, and it’s just an absolute joy to watch. 
 
-## Desperado by Johnny Cash
+### Desperado by Johnny Cash
 https://open.spotify.com/track/58QomoMiMPhWfZwrqOmUt0
 
 
@@ -101,7 +101,7 @@ https://open.spotify.com/track/58QomoMiMPhWfZwrqOmUt0
 
 Johnny Cash’s cover of the [1973 Eagles song](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) stays faithful to the message and aching loneliness, but Cash’s low, gravelly voice over a stripped-bare guitar really takes this rendition to another level. Ever feeling on some “lonely wanderer” type beat, this is exactly the song to play. 
 
-## Hound Dog by Etta James
+### Hound Dog by Etta James
 
 A classic cover of Hound Dog. Etta James uses whole men are dogs narrative (from Big Mama Thorton’s version), adds a lot of howling, and a boat load of groove. It’s really good. 
 
@@ -110,8 +110,7 @@ https://open.spotify.com/track/52auP9OuR9q0qR2OQxM5l0
 
 [https://open.spotify.com/track/52auP9OuR9q0qR2OQxM5l0](https://open.spotify.com/track/52auP9OuR9q0qR2OQxM5l0)
 
-## Christmas Treat by Julian Casablancas
-****
+### Christmas Treat by Julian Casablancas
 In prehistoric times, SNL released its very own single I Wish It Was Christmas Today. It was met with great success because it *truly* was an incredible song, played by an incredible band and — well, I’ll just let you watch it. 
 
 https://www.youtube.com/watch?v=jDdSQlCbJ90&
@@ -125,19 +124,18 @@ https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr
 
 [https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr)
 
-## Someday by Julia Jacklin
+### Someday by Julia Jacklin
 https://www.youtube.com/watch?v=DhSzpJOestE&
 
 
 [https://youtu.be/DhSzpJOestE](https://youtu.be/DhSzpJOestE)
-Triple J has been host to a *lot* of good covers (see our: *Other Good Ones We Won’t Write about cause this post is long as fuck* **section of the post below) but Julia Jacklin’s slow, bittersweet, and stripped down cover of [The Strokes’ Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) **might just be our favorite. And not just because we were obsessed with The Strokes in seventh grade (though that is admittedly a factor). Jacklin’s voice is so low and smooth and perfect. In this cover, we really get to see the loneliness and the passage of time that underpins original lo-fi uptempo indie-rock banger. 
+Triple J has been host to a *lot* of good covers (see our: *Other Good Ones We Won’t Write about cause this post is long as fuck* section of the post below) but Julia Jacklin’s slow, bittersweet, and stripped down cover of [The Strokes’ Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) might just be our favorite. And not just because we were obsessed with The Strokes in seventh grade (though that is admittedly a factor). Jacklin’s voice is so low and smooth and perfect. In this cover, we really get to see the loneliness and the passage of time that underpins original lo-fi uptempo indie-rock banger. 
 
 Bonus points: in the YouTube video, the camera work is really clean. 
 
 Also [on Spotify](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK?si=ftfJekjoQQGiw09jpjOhaA). 
 
-## Yah/Element by Joy Crookes
-****
+### Yah/Element by Joy Crookes
 First of all, the video for the medley is amazing. 
 
 https://www.youtube.com/watch?v=CzQB73EGmJI&
@@ -147,7 +145,7 @@ https://www.youtube.com/watch?v=CzQB73EGmJI&
 Second, the production™ on this bad boy is *divine.* Crookes’ adds her own mellow banger jazz vibes to two of the (in my opinion) more basic songs on DAMN. Also, the first transition between the two songs is absolutely genius, it feels as if the song is literally washing over you. Like if that transition was a dive, it’d be a Tom Daley dive, it cuts through the water without a splash. 
 Finally, Joy Crookes’ voice is so good and so unique — I honestly haven’t heard anyone like her before. Definitely check her other music out—I recommend Early, Man’s World and Mother May I Sleep With Danger?).
 
-## Archie, Marry Me by Flyte
+### Archie, Marry Me by Flyte
 https://open.spotify.com/embed/track/0rcwROyUguj5RQa5pPKajI
 
 
@@ -163,8 +161,8 @@ https://www.youtube.com/watch?v=68Hm5-gp6go&
 [https://youtu.be/68Hm5-gp6go](https://youtu.be/68Hm5-gp6go)
 
 
-# Soundcloud/Youtube type beat
-## Justic Der’s Self Control (and the rest of his instrumental covers)
+## Soundcloud/Youtube type beat
+### Justic Der’s Self Control (and the rest of his instrumental covers)
 
 Justic Der just makes really good instrumental covers of really good songs. 
 
@@ -173,8 +171,8 @@ https://www.youtube.com/watch?v=8jzYBhvZggs&
 
 [https://youtu.be/8jzYBhvZggs](https://youtu.be/8jzYBhvZggs)
 I don’t understand enough about music to know why they’re so damn good, but Der just adds little twists and frills to his instrumental covers that hit different. His music video for Self Control perfectly captures the emotions his covers provoke, a little bit of nostalgia and a little bit of melancholy. 
-****
-## blue moon - mobble
+
+### blue moon - mobble
 
 [mobble](https://soundcloud.com/mobble) · [blue moon (elvis cover)](https://soundcloud.com/mobble/blue-moon-elvis-cover)
 mobble aka [Mabel Ye](https://www.mabelye.com) was somebody I originally discovered when I was about… 12? or 13? Because of [her art](https://mobble.tumblr.com) (which I actually still really, really like all these years later). A Calarts animation grad currently working at Netflix Animation, she’s also a musician! With a beautiful voice? Her cover of [Elvis’ 1956 Blue Moon](https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B?si=r2sI0VFdQge6f9YarA2zkw) is deceptively simple: just her voice, soft and organic, over a simple guitar loop and the occasional chord. But it’s got so much loveliness to it; it’s the kind of song you play when you’re falling asleep next to someone, or when you’re standing together alone on a beach watching the moonlight and the stars make the surface of the Pacific Ocean into silver. Or something. It’s a fantastic modern update to a timeless classic.
@@ -188,13 +186,13 @@ https://player.vimeo.com/video/265995376
 
 [https://vimeo.com/265995376](https://vimeo.com/265995376)
 
-**OLD TIME RELIGION by JAPA_KNEES**
+### OLD TIME RELIGION by JAPA_KNEES 
 [JAPA_KNEES](https://soundcloud.com/japa_knees) · [OLD TIME RELIGION](https://soundcloud.com/japa_knees/old-time-religion)
 Perhaps best known as the ending track to [the greatest film of all time](https://www.youtube.com/watch?v=4URMxcg7yQE&feature=youtu.be), JAPA_KNEES’ version of the traditional 19th century Gospel song is—well, it’s a game changer. It honestly can’t be summarized, it needs to be heard in its raw, unfiltered site.
 
 If you want to hear more music that sort of—well, it’ll destroy and rebirth your brain at the same time—listen to JAPA_KNEES in general. There’s also a not unsubstantial amount of lore behind the unknown identity of JAPA_KNEES, and the fact that he still hasn’t responded to my Facebook message from a year ago asking him to watch our movie, but… those are stories for another time. 
 
-## White Ferrari by PlasmaMasterDon
+### White Ferrari by PlasmaMasterDon
 
 Of course, this wouldn’t be a BEST COVERS post without the best cover of a song we’ve ever heard, and probably one of the most transformative audiovisual experiences of our lives. We present to you, White Ferrari, by PlasmaMasterDon:
 
@@ -205,14 +203,14 @@ https://www.youtube.com/watch?v=_cnxR7B5CsY&
 You’re welcome.
 
 
-# Other Good Ones We Won’t Write About Cause This Post Is Way Too Long
+## Other Good Ones We Won’t Write About Cause This Post Is Way Too Long
 
 [**House of The Rising Sun**](https://open.spotify.com/track/6TgDGChKp7J4F2mhVHkzYc) **(alt-J)**
 [**The Other Woman**](https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4) **(Lana Del Rey)**
-[**Heavenly Father**](https://open.spotify.com/track/17UMoa06s28klCtgpHhHGg) **(Highasakit****e****)**
+[**Heavenly Father**](https://open.spotify.com/track/17UMoa06s28klCtgpHhHGg) **(Highasakite)**
 [**Two Weeks**](https://www.youtube.com/watch?v=1mXi8ehnp0Y) **(Number 1 Dads)**
 [**What are you doing New Year’s Eve?**](https://www.youtube.com/watch?v=aSq1cez_flQ) **(Zooey Deschanel and Joseph Gordon Levitt)**
 [**Stars Fell on Alabama**](https://open.spotify.com/track/3Vv87GEXScl3IOGEhZ1uNa) **(She&Him)**
-[**Just Hold On We’re Going Home**](https://www.youtube.com/watch?v=RvA3q0ZU-NQ) ******(****Arctic Monkeys****)**
-[**Little Do They Know**](https://open.spotify.com/track/2UBQL3IbQhIEQVoXqWDrwu?si=AEpSzxeLSSuj8-6kOtRoQw) **(Pool Cosby, Cover of Big Thief’s Indiana)**
+[**Just Hold On We’re Going Home**](https://www.youtube.com/watch?v=RvA3q0ZU-NQ) (**Arctic Monkeys**)
+[**Little Do They Know**](https://open.spotify.com/track/2UBQL3IbQhIEQVoXqWDrwu?si=AEpSzxeLSSuj8-6kOtRoQw) (Pool Cosby, Cover of Big Thief’s Indiana)
 
