@@ -192,12 +192,12 @@ You’re welcome.
 
 ## Other Good Ones We Won’t Write About Cause This Post Is Way Too Long
 
-[**House of The Rising Sun**](https://open.spotify.com/track/6TgDGChKp7J4F2mhVHkzYc) **(alt-J)**
-[**The Other Woman**](https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4) **(Lana Del Rey)**
-[**Heavenly Father**](https://open.spotify.com/track/17UMoa06s28klCtgpHhHGg) **(Highasakite)**
-[**Two Weeks**](https://www.youtube.com/watch?v=1mXi8ehnp0Y) **(Number 1 Dads)**
-[**What are you doing New Year’s Eve?**](https://www.youtube.com/watch?v=aSq1cez_flQ) **(Zooey Deschanel and Joseph Gordon Levitt)**
-[**Stars Fell on Alabama**](https://open.spotify.com/track/3Vv87GEXScl3IOGEhZ1uNa) **(She&Him)**
-[**Just Hold On We’re Going Home**](https://www.youtube.com/watch?v=RvA3q0ZU-NQ) (**Arctic Monkeys**)
+[**House of The Rising Sun**](https://open.spotify.com/track/6TgDGChKp7J4F2mhVHkzYc) (alt-J)<br>
+[**The Other Woman**](https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4) (Lana Del Rey)<br>
+[**Heavenly Father**](https://open.spotify.com/track/17UMoa06s28klCtgpHhHGg) (Highasakite)<br>
+[**Two Weeks**](https://www.youtube.com/watch?v=1mXi8ehnp0Y) (Number 1 Dads)<br>
+[**What are you doing New Year’s Eve?**](https://www.youtube.com/watch?v=aSq1cez_flQ) (Zooey Deschanel and Joseph Gordon Levitt)<br>
+[**Stars Fell on Alabama**](https://open.spotify.com/track/3Vv87GEXScl3IOGEhZ1uNa) (She&Him)<br>
+[**Just Hold On We’re Going Home**](https://www.youtube.com/watch?v=RvA3q0ZU-NQ) (Arctic Monkeys)<br>
 [**Little Do They Know**](https://open.spotify.com/track/2UBQL3IbQhIEQVoXqWDrwu?si=AEpSzxeLSSuj8-6kOtRoQw) (Pool Cosby, Cover of Big Thief’s Indiana)
 
