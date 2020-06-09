@@ -8,25 +8,25 @@ subtitle: These are the best covers on the market, confirmed.
 
 Hozier is *so damn good* at covers it’s unbelievable. He has a penchant for taking a song that has one particular atmosphere and *completely flipping the vibe* on its head, and yet when you listen to it you get the sense that that’s how the song should’ve sounded all along. 
 
-**Sweet Thing** 
+### Sweet Thing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HAbs_PYfpvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hozier’s cover of Van Morrison’s [Sweet Thing](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz?highlight=spotify:track:4dBI72rgkmG0gTzswyBTzz) is quite literally *my favorite song of all time*. It’s been my favorite song since I was fourteen and as much music as I listen to, nothing can quite match the way this song makes me feel. **This is a cover that (for Hozier) sticks relatively close the vibe of the original and is kept quite simple—just the strumming of the guitar and his voice, bright and clear, filtering through the church. But there’s something about it that can save your entire life, if you let it. It brings back a joy and soul and nostalgia and hope for the wonder that once inhabited your heart as a child, and reminds you why life can and will always be a ‘sweet thing.’ 
 
-**Do I Wanna Know**
+### Do I Wanna Know
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fuWq4RZnc6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The original *Do I Wanna Know* by the Arctic Monkey’s is all classic indie rock with might-get-back-with-my-ex lyrics. In Hozier’s cover, it’s completely remade into something quiet, raw, hymnal, and tender. It’s the kind of song you’d play as you fell asleep next to someone and you fell in love with them at the same time. It extracts all the vulnerability that never makes itself known in the original song because, um, indie rock and danger and overconfidence and innuendo, and condenses it and reveals it in a stunning, impossibly beautiful form. And the fact that he can make a song *sadder* in major key than minor-key is just *whoa*. 
 
-**Lay Me Down**
+### Lay Me Down
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N7XDLxC0IDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hozier transforms the raw, ballad-esque crooning of [Sam Smith’s](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x?highlight=spotify:track:64GRDrL1efgXclrhVCeuA0) [*Lay Me Down*](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x?highlight=spotify:track:64GRDrL1efgXclrhVCeuA0), into a funky, Motown, uptempo, ecstatic, soulful, get on your *feet* song that you won’t be able to resist dancing along to. The fact that he can make *a Sam Smith ballad*  feel more like the Mark Ronson version of Valerie while still preserving all the emotion and heart in the original—it’s just crazy. Absolutely crazy. 
 
-**Problem**
+### Problem
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i5svYq7HZ1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -55,14 +55,11 @@ At Your Best is a cover of [Aaliyah’s](https://open.spotify.com/track/4lRrk574
 
 ### Close To You (cover of Stevie Wonder’s Talkbox)
 
-Close To You is a cover of Stevie Wonder’s Talkbox cover of The Carpenter’s hit song Close To You. It’s good as fuck —  also watching it live is a pretty transformative experience (by live I mean live on YouTube, lol). 
+Close To You is Frank's cover of Stevie Wonder’s talkbox cover of The Carpenter’s hit song Close To You. It’s good as fuck —  also watching it live is a pretty transformative experience (by live I mean live on YouTube, lol). 
 
-https://open.spotify.com/track/1VZLEW5ZfcAbKZ94XQiSZF
+<iframe src="https://open.spotify.com/embed/track/1VZLEW5ZfcAbKZ94XQiSZF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
-[https://open.spotify.com/track/1VZLEW5ZfcAbKZ94XQiSZF](https://open.spotify.com/track/1VZLEW5ZfcAbKZ94XQiSZF)
-
-Watch the Talkbox cover too, it may just be the sweetest video on the internet. 
+Watch the talkbox cover too, it may just be the sweetest video on the internet. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PnR19INlXV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
