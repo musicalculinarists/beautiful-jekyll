@@ -6,13 +6,13 @@ subtitle: These are the best covers on the market, confirmed.
 
 ## All of Hozier’s Covers
 
-Hozier is *so damn good* at covers it’s unbelievable. He has a penchant for taking a song that has one particular atmosphere and *completely flipping the vibe* on its head, and yet when you listen to it you get the sense that that’s how the song should’ve sounded all along. 
+Hozier is *so damn good* at covers it’s unbelievable. He has a penchant for taking a song that has one particular atmosphere and *completely flipping the vibe* on its head, and yet makes you feel like that's how the song should've sounded all along. 
 
 ### Sweet Thing
 
 <div align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/HAbs_PYfpvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Hozier’s cover of Van Morrison’s [Sweet Thing](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz?highlight=spotify:track:4dBI72rgkmG0gTzswyBTzz) is quite literally *my favorite song of all time*. It’s been my favorite song since I was fourteen and as much music as I listen to, nothing can quite match the way this song makes me feel. **This is a cover that (for Hozier) sticks relatively close the vibe of the original and is kept quite simple—just the strumming of the guitar and his voice, bright and clear, filtering through the church. But there’s something about it that can save your entire life, if you let it. It brings back a joy and soul and nostalgia and hope for the wonder that once inhabited your heart as a child, and reminds you why life can and will always be a ‘sweet thing.’ 
+Hozier’s cover of Van Morrison’s [Sweet Thing](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz?highlight=spotify:track:4dBI72rgkmG0gTzswyBTzz) is quite literally *my favorite song of all time*. It’s been my favorite song since I was fourteen and as much music as I listen to, nothing can quite match the way this song makes me feel. This is a cover that (for Hozier) sticks relatively close the vibe of the original and is kept quite simple—just the strumming of the guitar and his voice, bright and clear, filtering through the church. But there’s something about it that can save your entire life, if you let it. It brings back a joy and soul and nostalgia and hope for the wonder that once inhabited your heart as a child, and reminds you why life can and will always be a ‘sweet thing.’ 
 
 ### Do I Wanna Know
 
