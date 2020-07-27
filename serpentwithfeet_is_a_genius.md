@@ -24,7 +24,7 @@ use-site-title: false
 
 
 > Boy, I’m hungry but all my knives are dull<br>
-> Will you sharpen your teeth to hunt and keep me full
+> Will you sharpen your teeth to hunt and keep me full?
 
 
 > When you’re burnt out and you’re praying for rain<br>
