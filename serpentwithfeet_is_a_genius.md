@@ -69,7 +69,7 @@ use-site-title: false
 
 ### slow syrup
 
-> I’m a glutton for “can we make this work?<br>
+> I’m a glutton for “can we make this work?" <br>
 > We can argue and leave room for dessert
 
 
