@@ -18,7 +18,8 @@ description:  
 # List of links in the navigation bar
 navbar-links:
   Home: https://musicalculinarists.github.io/
-  Subscribe: "subscribe" 
+  About: "about"
+  Subscribe: "subscribe"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
