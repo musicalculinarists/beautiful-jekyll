@@ -364,16 +364,12 @@ footer .theme-by {
   font-weight: bolder;
   margin-top: 0;
 }
-.post-preview {
+.post-preview .post-subtitle  {
   margin: 0;
-  font-weight: 600px;
+  font-weight: 400;
   margin-bottom: 10px;
 }
-.post-subtitle {
-  margin: 0;
-  font-weight: 400px;
-  margin-bottom: 10px;
-}
+
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #050505;
