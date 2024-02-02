@@ -4,11 +4,12 @@ layout: null
 
 @import url("pygment_highlights.css");
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:600|Oxygen+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /* --- General --- */
 
 body {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter Mono', sans-serif;
   font-size: 13.5px;
   color: #050505;
   position: relative;
@@ -38,7 +39,7 @@ h4, h5, h6 {
 
 h1,h2,h3,h4,h5,h6 {
   font-size: 18px;
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
 }
 
 h2 { 
@@ -69,7 +70,7 @@ hr.small {
 }
 
 ::placeholder {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
 }
 
 .main-content {
@@ -82,7 +83,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
   padding: 12px inherit;
 }
 
@@ -138,7 +139,7 @@ img {
   width: 100%;
   background-color: #FFFFFF;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
   
 }
 
@@ -309,7 +310,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -376,7 +377,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
   font-size: 12px;
 }
 .post-entry-container {
@@ -414,7 +415,7 @@ footer .theme-by {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -508,7 +509,7 @@ footer .theme-by {
   font-size: 20px;
   line-height: 1.1;
   display: block;
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
   font-weight: 500;
   margin: 10px 0 0;
 }
@@ -536,7 +537,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -620,7 +621,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -801,7 +802,7 @@ pre {
 }
 
 #full-tags-list {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Inter', sans-serif;
 }
 
 #full-tags-list .tag-entry {
