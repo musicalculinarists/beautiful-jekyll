@@ -364,9 +364,14 @@ footer .theme-by {
   font-weight: bolder;
   margin-top: 0;
 }
-.post-preview .post-subtitle {
+.post-preview {
   margin: 0;
-  font-weight: bold;
+  font-weight: 600px;
+  margin-bottom: 10px;
+}
+.post-subtitle {
+  margin: 0;
+  font-weight: 400px;
   margin-bottom: 10px;
 }
 .post-preview .post-meta,
@@ -624,7 +629,7 @@ footer .theme-by {
   font-family: 'Inter', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: #FFF;
